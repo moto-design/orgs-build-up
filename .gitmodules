@@ -1,0 +1,3 @@
+[submodule "bmw-frame-gussets"]
+	path = bmw-frame-gussets
+	url = git@github.com:moto-design/bmw-frame-gussets.git
