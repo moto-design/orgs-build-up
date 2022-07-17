@@ -1,0 +1,403 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 7
+
+[big]*The ORGS Build Up Project*
+
+*Page 7*
+
+*icebox, Jan 24, 2011:*
+
+All I can say is "if you ever need a job, call, have a small fab shop in paradise"
+
+but our work tends to be repetitious and boring, not near as much fun as building bikes. Have at it, it's fun watching.
+
+*x3300, Jan 30, 2011:*
+
+bikecat said:
+
+Literature on the net makes it sound next to impossible. Click to expand...
+
+Bikecat, everything I post here is genuine and done by my own hand. I try to make it entertaining to read the reports so don't include some details, but nothing is faked nor presented in a misleading way.
+
+-x3300
+
+*x3300, Jan 30, 2011:*
+
+As I mentioned in an earlier post, I didn't like the way my lower shock mount turned out. I decided to cut it off and make a new one. I searched around in the McMaster-Carr catalog for a 12mm ID spherical bearing that would match the M12 shock mount bolt and found one with dimensions 12x30x16 that I thought would work. I also found some 17x30x7 oil seals that had the same OD as the bearing that I thought I could use to keep dirt out of the bearing.
+
+Here's how the old mount I cut off compares to my new design. Once I got the arm installed I found I needed to grind down the smaller front gusset to clear the shock's mounting clevis.
+
+image::38-arm-update/new-mount-parts-sm.jpg[link={imagesdir}/38-arm-update/new-mount-parts.jpg,window=_blank]
+
+I made the bearing holder from a piece of large mild steel round stock I had. I bored the hole out with this setup to give a press fit to the bearing.
+
+image::38-arm-update/boring-bearing-mount-sm.jpg[link={imagesdir}/38-arm-update/boring-bearing-mount.jpg,window=_blank]
+
+Here's the bearing mount tacked to the swingarm. I made it wide enough to accept the bearing and the two seals on each side of the bearing.
+
+image::38-arm-update/mount-tacked-sm.jpg[link={imagesdir}/38-arm-update/mount-tacked.jpg,window=_blank]
+
+I was thinking to add a box section to the bottom of the swingarm to strengthen it. I cut the sections at the bottom of this photo from a length of mild steel rectangular tube.
+
+image::38-arm-update/arm-parts-sm.jpg[link={imagesdir}/38-arm-update/arm-parts.jpg,window=_blank]
+
+I needed to grind a curve in the ends where the box intersects the swingarm tube. It is a little difficult to explain, but to lay out the curve I found a short plastic ring the same diameter as the swingarm tube, and with the plastic ring set into the box section I sighted down the ring and marked the intersection with a Sharpie pen, then ground out the curve with a bench grinder. Here are the parts tacked to the swingarm.
+
+image::38-arm-update/box-tacked-sm.jpg[link={imagesdir}/38-arm-update/box-tacked.jpg,window=_blank]
+
+The swingarm all welded together. The box section looks big and heavy, but the tube had a thin wall so it doesn't actually add much weight.
+
+image::38-arm-update/arm-welded-sm.jpg[link={imagesdir}/38-arm-update/arm-welded.jpg,window=_blank]
+
+Here's a view of the bottom showing the box section. The rear part is just a little too close to the outer final drive mounting nut to get a socket on the nut. I did a little grinding to make room.
+
+image::38-arm-update/arm-bottom-sm.jpg[link={imagesdir}/38-arm-update/arm-bottom.jpg,window=_blank]
+
+After welding the bearing holder and gussets to the swingarm I found that the bearing holder was distorted enough that the bearing could no longer be pressed in. It took a while to get setup, but I mounted the swingarm on a vertical mill and re-bored the bearing hole.
+
+image::38-arm-update/boring-bearing-mount-2-sm.jpg[link={imagesdir}/38-arm-update/boring-bearing-mount-2.jpg,window=_blank]
+
+In retrospect, I think a much better way to do the bearing holder would have been to turn the OD of the holder, but not bore the hole, then weld that un-bored holder to the arm and use my arm fixture to get the arm mounted on the mill to drill and bore the hole.
+
+Here's a side view of the arm with the bearing installed which also shows the shortened front bearing mount gusset.
+
+image::38-arm-update/arm-side-sm.jpg[link={imagesdir}/38-arm-update/arm-side.jpg,window=_blank]
+
+And a view of the bearing mount. The oil seals press in just outside the bearing.
+
+image::38-arm-update/new-bearing-mount-sm.jpg[link={imagesdir}/38-arm-update/new-bearing-mount.jpg,window=_blank]
+
+And a view with the arm installed on the bike.
+
+image::38-arm-update/arm-installed-sm.jpg[link={imagesdir}/38-arm-update/arm-installed.jpg,window=_blank]
+
+I still want to make a vent for the arm. I just need to drill and tap a hole in the front of the arm somewhere, but I'll wait until I have the fender, exhaust, and whatever else it needs to clear installed before doing that.
+
+-x3300
+
+*Caddy82rats, Jan 30, 2011:*
+
+SUPERB work thanks for sharing you'r knowlege
+
+*bikecat, Jan 30, 2011:*
+
+x3300 said:
+
+Bikecat, everything I post here is genuine and done by my own hand. I try to make it entertaining to read the reports so don't include some details, but nothing is faked nor presented in a misleading way.
+
+-x3300 Click to expand...
+
+No doubt about that, hence I'm impressed by the way you respoked the wheel so easily! Great stuff.
+
+*mikyheimann, Jan 31, 2011:*
+
+Can you please elaborate on the wheel lacing? I am very proficient at building and truing wheels, I used to race bicycles, and used to rebuild motocross wheels in the 80's. When i had to build my beemer wheels I encountered difficulties, no matter what i did I couldnt decifer the behaviour of the these wheels. After I think 2 days of frustration I decided to aproach it a a machine - I measured all the spokes to be the same length, and counted turns on the nuts, without any attempt at trueing - and got to within BMW spec for these wheels. I wonder If you did it differently, and if so, if you please let us hear a little about it (even though it's much less interesting than all the other amazing stuff you do!).
+
+TIA, Miky
+
+*Rapid Dog, Jan 31, 2011:*
+
+...ohhh I'm so jealous of all ye Fab Bastids!...
+
+O.K., I'm in.
+
+Man this has got to handle Baja better the the stocker GS.
+
+*x3300, Feb 6, 2011:*
+
+
+mikyheimann said:
+
+Can you please elaborate on the wheel lacing? Click to expand...
+
+mikyheimann, I don't find anything special about these wheels. I follow standard wheel building techniques and just consider the geometry when making adjustments. I have some detail of building a wheel in my post 'Front Wheel'. There is also a dedicated thread that I have added a few comments to here:
+
+https://www.advrider.com/f/threads/gs-wheel-truing.639315/
+
+-x3300
+
+*x3300, Feb 6, 2011:*
+
+Rotary draw bending of tubes has little cross section distortion at the bend, and I thought that it would give the appearance I wanted in the subframe and rear luggage racks. Here's a nice diagram I found that shows several tube bending methods.
+
+image::39-tube-bender/bend-types-sm.jpg[link={imagesdir}/39-tube-bender/bend-types.jpg,window=_blank]
+
+I decided to make my own bender so that I would then have the capability to make a bender for any size tube or bend radius I might find I need. A minimal design would need a bending die with an integrated clamp die, a pressure die, and a frame.
+
+I found a large block of mild steel at the scrap yard I thought I could use to make a double 1/2" & 3/4" bending die for a 1 1/2" radius. I cut the block down to a square and drilled a hole in the center so I could bolt it to the left over stock I had used to make my lower shock bearing mount. Here's the piece in the lathe almost ready to be turned down.
+
+image::39-tube-bender/turning-bend-die-sm.jpg[link={imagesdir}/39-tube-bender/turning-bend-die.jpg,window=_blank]
+
+Once I got the OD turned down I cut grooves of 1/2" and 3/4". I didn't have any full radius cutting tools so I just ground a few left and right hand turning tools to have the proper radius. I had five tools in all to do the grooves, a common center one and left and right radius ones.
+
+Here's the final cutting of the 3/4" groove. After the block was bolted to the mount I drilled a center hole in the bolt so I could support the right side with the center seen in this photo.
+
+image::39-tube-bender/groove-cutting-sm.jpg[link={imagesdir}/39-tube-bender/groove-cutting.jpg,window=_blank]
+
+Here's the finished bending die with my mount and center drilled bolt.
+
+image::39-tube-bender/bend-die-sm.jpg[link={imagesdir}/39-tube-bender/bend-die.jpg,window=_blank]
+
+To simplify the design I decided to weld the clamp die and a handle directly to the bending die. I cut a clamping strap from a thick wall rectangle tube and welded it to the bending die.
+
+image::39-tube-bender/bender-done-sm.jpg[link={imagesdir}/39-tube-bender/bender-done.jpg,window=_blank]
+
+I found some 1" square stock to use for the pressure dies. To mill the slots I bought a 1/2" and a 3/4" ball end mill. Here's the milling of the 3/4" die.
+
+image::39-tube-bender/milling-pressure-die-sm.jpg[link={imagesdir}/39-tube-bender/milling-pressure-die.jpg,window=_blank]
+
+Here's a view of the 1/2" die with a section of tube and the cutter.
+
+image::39-tube-bender/pressure-die-sm.jpg[link={imagesdir}/39-tube-bender/pressure-die.jpg,window=_blank]
+
+I had some rectangle stock left over from my swingarm fixture that used for the frame. I cut these slots to allow adjustment of the pressure die position.
+
+image::39-tube-bender/milling-slots-sm.jpg[link={imagesdir}/39-tube-bender/milling-slots.jpg,window=_blank]
+
+Here are all the finished parts ready for assembly.
+
+image::39-tube-bender/bender-parts-sm.jpg[link={imagesdir}/39-tube-bender/bender-parts.jpg,window=_blank]
+
+And the bender in action. I used some c-clamps to clamp it to this sturdy frame. I put some grease on the pressure die to lubricate it. It doesn't take much to bend 1/2" thin wall tube. 3/4" takes considerably more effort.
+
+image::39-tube-bender/bender-in-action-sm.jpg[link={imagesdir}/39-tube-bender/bender-in-action.jpg,window=_blank]
+
+After doing some test bends I decided to re-work the bending die, clamp and handle. The final version has the handle between the bending die and the frame, the 3/4" grove as the inner groove, and the handle welded to the other side of the clamp die.
+
+Here's a close-up of some bends I could make.
+
+image::39-tube-bender/bends-sm.jpg[link={imagesdir}/39-tube-bender/bends.jpg,window=_blank]
+
+-x3300
+
+*DRjoe, Feb 7, 2011:*
+
+That's a nice bender. A engineer up the road from me made an electric roll bender but he made the die's out of blocks of nylon. He can bend pollished alloy and stainless without marking the tube.
+
+I thought it was a real nice idea.
+
+*x3300, Feb 12, 2011:*
+
+I needed the tube bender to finish up my subframe and make a rear rack. Here's where I left off with just a single fender mount and no rear cross member.
+
+image::40-rear-rack/with-fender-sm.jpg[link={imagesdir}/40-rear-rack/with-fender.jpg,window=_blank]
+
+I used my bender to put two equal bends in a piece of 3/4" tube. This photo was from early in the fitting process. The final angles were close to 90 degrees.
+
+image::40-rear-rack/loop-bending-sm.jpg[link={imagesdir}/40-rear-rack/loop-bending.jpg,window=_blank]
+
+Once I got the cross tube fitted I used this piece of aluminum plate to hold it in position for welding. Having the two straight down tubes welded to a cross tube worked out OK, but I think a better solution would be to just use a single long tube and put two bends in it.
+
+image::40-rear-rack/loop-holding-sm.jpg[link={imagesdir}/40-rear-rack/loop-holding.jpg,window=_blank]
+
+I had planned to have a detachable rear rack to save some weight when not in use, but decided simplify my design and have a small rack integral to the subframe. I bent these two 1/2" rails with my bender then ground the ends on a bench grinder so they would mate with the 3/4" subframe tubes.
+
+image::40-rear-rack/rails-sm.jpg[link={imagesdir}/40-rear-rack/rails.jpg,window=_blank]
+
+Here's how they fit onto the subframe. I left some space in front between the rack and the seat to allow access to a seat lock.
+
+image::40-rear-rack/rails-welded-sm.jpg[link={imagesdir}/40-rear-rack/rails-welded.jpg,window=_blank]
+
+To finish the rack I added a front cross member and a center rail.
+
+image::40-rear-rack/rack-done-sm.jpg[link={imagesdir}/40-rear-rack/rack-done.jpg,window=_blank]
+
+In my design the fender hangs down below the rear cross tube. I made up this paper template for a small bracket then transfered that to a piece of 16 gauge steel.
+
+image::40-rear-rack/bracket-sm.jpg[link={imagesdir}/40-rear-rack/bracket.jpg,window=_blank]
+
+I thought the rear cross tube will naturally be used to lift the bike up when it gets stuck in the sand or whatever, so I put a nice friendly radius on the bracket to allow fingers to slide in.
+
+image::40-rear-rack/bracket-welded-sm.jpg[link={imagesdir}/40-rear-rack/bracket-welded.jpg,window=_blank]
+
+Here's the subframe just about finished except for brackets to mount the side racks, tool tray, seat, etc.
+
+image::40-rear-rack/sub-frame-sm.jpg[link={imagesdir}/40-rear-rack/sub-frame.jpg,window=_blank]
+
+And a mock-up with my old seat pan and a load.
+
+image::40-rear-rack/loaded-sm.jpg[link={imagesdir}/40-rear-rack/loaded.jpg,window=_blank]
+
+I very happy with my little rack. Its just the right size to carry a small pack and doesn't add much weight.
+
+-x3300
+
+*hardwaregrrl, Feb 13, 2011:*
+
+Very Nice
+
+more please...
+
+*Beater, Feb 15, 2011:*
+
+This is frickin' awesome.
+
+I am completely envious of your shop tools/skillz.
+
+*Zebedee, Feb 18, 2011:*
+
++1 to the comments above
+
+Keep up the good work, and keep posting the updates
+
+John
+
+*TontiBoy, Feb 20, 2011:*
+
+Looking forward for new updates!
+
+*vtwin, Feb 20, 2011:*
+
+X3300, you've got some mad skills! Hope if I ever need some welding done I could drop by and have you work your magic.
+
+*Chico, Feb 20, 2011:*
+
+I love how innovative, creative and insanely skilled some people are on this site. This is something I will never do in my life but I am so glad someone is and am happy to be following along!
+
+*x3300, Mar 6, 2011:*
+
+The UFO rear enduro fender I have came with a simple tail lamp, but it wasn't really suitable for road use; it had a low wattage bulb and no stop lamp. Here's what it looks with the lamp removed.
+
+image::41-tail-light/fender-sm.jpg[link={imagesdir}/41-tail-light/fender.jpg,window=_blank]
+
+I liked the idea of LED lamps. They should draw less power and have longer life than a filament bulb. I did a little searching around and found this Truck-lite Super 44 tail lamp and this Puig LED license plate lamp. I liked the big 42 LED tail lamp when I saw it and thought it could give a distinctive look to the back of the bike. The tail lamp is held in place with the rubber grommet shown.
+
+image::41-tail-light/lamps-front-sm.jpg[link={imagesdir}/41-tail-light/lamps-front.jpg,window=_blank]
+
+image::41-tail-light/lamps-back-sm.jpg[link={imagesdir}/41-tail-light/lamps-back.jpg,window=_blank]
+
+I made up this pattern from card stock for a bracket to hold the license plate, tail lamp and license lamp. The bracket mounts to the fender with a few 5 mm screws.
+
+image::41-tail-light/pattern-sm.jpg[link={imagesdir}/41-tail-light/pattern.jpg,window=_blank]
+
+My custom tool tray will no longer work with my sub-frame, so I cut it up and used the pieces to make the bracket. I bored out the 5" hole for the grommet with this setup.
+
+image::41-tail-light/boring-sm.jpg[link={imagesdir}/41-tail-light/boring.jpg,window=_blank]
+
+After I got the big hole bored I laid out the shape then trimmed it down with a metal shear. I punched some holes in the plate mount to lighten it up. Here I've got the pieces clamped together for tack welding.
+
+image::41-tail-light/welding-sm.jpg[link={imagesdir}/41-tail-light/welding.jpg,window=_blank]
+
+Here's how it fits to the fender.
+
+image::41-tail-light/base-sm.jpg[link={imagesdir}/41-tail-light/base.jpg,window=_blank]
+
+I made this top bracket from 1" flat stock. I have it positioned for welding here.
+
+image::41-tail-light/top-brace-sm.jpg[link={imagesdir}/41-tail-light/top-brace.jpg,window=_blank]
+
+Here's the finished bracket.
+
+image::41-tail-light/mount-done-sm.jpg[link={imagesdir}/41-tail-light/mount-done.jpg,window=_blank]
+
+And with the lamps installed.
+
+image::41-tail-light/powered-sm.jpg[link={imagesdir}/41-tail-light/powered.jpg,window=_blank]
+
+I realized after cutting out the tail lamp holder that the 16 gage aluminum I used will not be strong enough. The photos show how thin it is. Also, to make the look cleaner think I can put the license lamp on the other side of the tail lamp so it shines down without being seen from the rear. This bracket is enough to hold things together for now so I can move on to other things. I'll make up a new bracket later.
+
+-x3300
+
+*x3300, Mar 26, 2011:*
+
+I had thought hooking up the rear brake would be one of the easier things I'd need to do for the new rear end, but as it turned out, I needed to do a fair amount of design and fab to get a working brake.
+
+One thing I wanted to do was to move the actuating arm to be above the pivot so as to be less likely to get damaged when riding through big rocks and such, something that has happened to me before while riding through stream beds. Here's a view of the arm hanging down.
+
+image::42-rear-brake/wheel-offset-sm.jpg[link={imagesdir}/42-rear-brake/wheel-offset.jpg,window=_blank]
+
+The R100RT final drive I fitted with the monolever arm came with non-symmetric brake shoes and a cam to match. This photo shows some R100GS symmetric shoes and cam on the left and the R100RT shoes and cam on the right.
+
+image::42-rear-brake/shoes-compared-sm.jpg[link={imagesdir}/42-rear-brake/shoes-compared.jpg,window=_blank]
+
+The cam actuating arm was below the cam pivot so the cam needed to be turned counter-clockwise to apply the brake. As can be seen the cam of the R100RT would not expand the shoes if rotated in a clockwise direction. The top shoe is the self-energizing one in the forward direction. The non-symmetric design applies less force on the top shoe to get more even shoe wear.
+
+I've read that some have modified the cam so that the top and bottom shoes could be switched, but I figured it'd be better to try to use the symmetric setup of the R100GS since it could be actuated by a rotation in either direction and would have more equal shoe actuation.
+
+Here's a closer view of the cams.
+
+image::42-rear-brake/cams-sm.jpg[link={imagesdir}/42-rear-brake/cams.jpg,window=_blank]
+
+I found the R100GS shoes to be 2mm wider than the R100RT shoes, but they fit onto the monolever drive and inside the R100GS hub. Here are the R100GS shoes on the monolever drive.
+
+image::42-rear-brake/r100-shoes-sm.jpg[link={imagesdir}/42-rear-brake/r100-shoes.jpg,window=_blank]
+
+The shaft of the R100GS was 10mm longer than the monolever shaft.
+
+image::42-rear-brake/shafts-sm.jpg[link={imagesdir}/42-rear-brake/shafts.jpg,window=_blank]
+
+The shafts were the same diameter, so I figured I could make up a spacer to fill the gap. The outer o-ring seal of the longer GS shaft falls outside the final drive housing as seen here. My plan was to glue the spacer to the final drive with some J-B Weld epoxy to seal the gap between the spacer and final drive.
+
+image::42-rear-brake/shaft-gap-sm.jpg[link={imagesdir}/42-rear-brake/shaft-gap.jpg,window=_blank]
+
+The R100GS cable was way too short to work as seen here, plus there was no place to fix the rear of the cable housing.
+
+image::42-rear-brake/fitting-cable-sm.jpg[link={imagesdir}/42-rear-brake/fitting-cable.jpg,window=_blank]
+
+I figured I would need a custom cable housing and inner cable. After some looking around I found that the air cooled Volkswagen Bus clutch cable had a clevis end similar to the R100GS.
+
+image::42-rear-brake/bus-cable-sm.jpg[link={imagesdir}/42-rear-brake/bus-cable.jpg,window=_blank]
+
+Here's the VW Bus inner cable on the right, a disassembled R100GS cable in the center, and a disassembled Harley Sportster clutch cable on the left that I would use for the long housing.
+
+image::42-rear-brake/cable-parts-sm.jpg[link={imagesdir}/42-rear-brake/cable-parts.jpg,window=_blank]
+
+The clevis of the Bus cable was longer than the GS end and would limit how far up the brake pedal would go. I ground a taper on the Bus cable end and countersunk the existing housing end. The mod allowed the Bus cable to retract the same amount as the original GS parts.
+
+image::42-rear-brake/taper-sm.jpg[link={imagesdir}/42-rear-brake/taper.jpg,window=_blank]
+
+image::42-rear-brake/fixed-end-sm.jpg[link={imagesdir}/42-rear-brake/fixed-end.jpg,window=_blank]
+
+After some measuring and checking with the swingarm in the up and down positions I came up with this rear cable mount that I thought would work.
+
+image::42-rear-brake/brake-cable-mount-sm.jpg[link={imagesdir}/42-rear-brake/brake-cable-mount.jpg,window=_blank]
+
+I used this setup to hold the odd shape while machining the back relief.
+
+image::42-rear-brake/machining-sm.jpg[link={imagesdir}/42-rear-brake/machining.jpg,window=_blank]
+
+After some trial fitting I found the original GS front housing end I planned to use didn't support the stiff longitudinally-wound Sportster housing very well. I decided to make up a longer cable end that would weld to the frame. I drilled and tapped two 4mm holes in a 6mm rod coupler to use as a temporary stop.
+
+image::42-rear-brake/parts-sm.jpg[link={imagesdir}/42-rear-brake/parts.jpg,window=_blank]
+
+Here's how the rear mount and housing end fit to the final drive. The square cutout should keep the mount from rotating around the bolt.
+
+image::42-rear-brake/mount-sm.jpg[link={imagesdir}/42-rear-brake/mount.jpg,window=_blank]
+
+With the stiff housing and extreme change in cable position I found I needed to weld the new front housing end to the frame to support the housing properly. I didn't put a slot the in it so I'll need an inner cable that has a removable end, but I can cut a slot later with a thin cutoff wheel if I decide I'd like one.
+
+image::42-rear-brake/welded-sm.jpg[link={imagesdir}/42-rear-brake/welded.jpg,window=_blank]
+
+Here's how the cable looks with the suspension at its extremes. I'll add some kind of wire cable guide to the swingarm to keep the cable in position so it won't hang out were it could get caught on something.
+
+image::42-rear-brake/cable-down-sm.jpg[link={imagesdir}/42-rear-brake/cable-down.jpg,window=_blank]
+
+image::42-rear-brake/cable-up-sm.jpg[link={imagesdir}/42-rear-brake/cable-up.jpg,window=_blank]
+
+A detail of the rear mount and arm with the cable length properly set.
+
+image::42-rear-brake/back-sm.jpg[link={imagesdir}/42-rear-brake/back.jpg,window=_blank]
+
+And a view of the aluminum shaft spacer.
+
+image::42-rear-brake/spacer-sm.jpg[link={imagesdir}/42-rear-brake/spacer.jpg,window=_blank]
+
+It was a lot more involved than I had originally thought it would be, but I'm very satisfied with the result. I still need to make up the swingarm guide and an adjustable end stop.
+
+-x3300
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

@@ -1,0 +1,316 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 5
+
+[big]*The ORGS Build Up Project*
+
+*Page 5*
+
+*fishkens, Oct 9, 2010:*
+
+I knew you had considered the options so thanks for the explanation.
+
+Keep up the good work.
+
+*rediRrakaD, Oct 10, 2010:*
+
+X3300 (got it right this time),
+
+I think the 100mm extension idea stems from the folks @ HPN.
+
+I'm currently working with Phil @ Aftershocks (Palo Alto) on the proper shock for my rig (Wilbers custom). He may be able to add some insight to your project as well... smart guy, when it comes to suspension/geometry.
+
+Really enjoying your thread. Thanks for taking the time to post. Cheers, S.
+
+*Beater, Oct 14, 2010:*
+
+Holy Crap. This is the first I've read this ...
+
+I have an '83 r80 looking for just this kind of treatment.
+
+Sub-freakin-scribed.
+
+*x3300, Oct 15, 2010:*
+
+The long swingarm will need an extended drive shaft to match.
+
+As a start I measured the stock shaft to get a kind of baseline. I used this height gage and a ground pin to measure the length. I zeroed the gage with the pin under it, then put the pin in the yoke bores and took the reading at the top of the pin as the length of the shaft to the bores. It measured 284.27mm.
+
+image::30-shaft-extension/length-zero-sm.jpg[link={imagesdir}/30-shaft-extension/length-zero.jpg,window=_blank]
+
+image::30-shaft-extension/shaft-length-sm.jpg[link={imagesdir}/30-shaft-extension/shaft-length.jpg,window=_blank]
+
+The stock shaft is center drilled on both ends, so I put the shaft on a lathe between two centers and setup a dial indicator to check the runout at the center of the shaft. I measured .064mm max.
+
+image::30-shaft-extension/runout-sm.jpg[link={imagesdir}/30-shaft-extension/runout.jpg,window=_blank]
+
+My plan for the extension was to cut the shaft at its center, drill a 5mm hole in the end of each of the resulting sections, then make an insert that had a section on each end turned down to 5mm. The turned down sections would press into the holes to hold the insert in alignment for welding.
+
+Here's the machining of one end of the insert. I turned the end down to 5.1mm, and on this end I put a very small center hole to use when aligning the first weld joint.
+
+image::30-shaft-extension/center-drill-sm.jpg[link={imagesdir}/30-shaft-extension/center-drill.jpg,window=_blank]
+
+After I got the shaft and insert ready I pressed the insert into the shaft with this arbor press. The shaft plus insert was too long to fit into the press so I used these C-clamps and a piece of steel plate to make a base to press against.
+
+image::30-shaft-extension/pressing-shaft-sm.jpg[link={imagesdir}/30-shaft-extension/pressing-shaft.jpg,window=_blank]
+
+After I got the insert and one shaft section pressed together I mounted them in the lathe and checked the runout. To adjust the alignment I supported the shaft with blocks on each end and tapped on it with a plastic mallet. After a few iterations of checking and tapping then checking I could get the runout to about .015mm.
+
+image::30-shaft-extension/first-check-sm.jpg[link={imagesdir}/30-shaft-extension/first-check.jpg,window=_blank]
+
+With the insert aligned I tack welded the joint then put a bead all the way around the shaft.
+
+image::30-shaft-extension/first-tack-sm.jpg[link={imagesdir}/30-shaft-extension/first-tack.jpg,window=_blank]
+
+I let the shaft cool slowly and then ground away the excess bead.
+
+The stock shaft was heat treated, but I decided it would be better to leave the shaft soft at the weld points than to try a heat treatment and have it too brittle. If I have trouble with it when I put it into use I'll consider having it done by a heat treating service. After welding I found the runout was close to 1mm.
+
+I used this setup to get the shaft aligned. It took a few trips between the lathe and press to get the shaft back to about .060mm runout.
+
+image::30-shaft-extension/first-align-sm.jpg[link={imagesdir}/30-shaft-extension/first-align.jpg,window=_blank]
+
+After the first joint was finished I repeated the process on the second joint. Here's the shaft just after finishing the second bead.
+
+image::30-shaft-extension/second-weld-sm.jpg[link={imagesdir}/30-shaft-extension/second-weld.jpg,window=_blank]
+
+After the insert was fully welded in I did a final alignment of both weld joints to get the final shaft runout to about .060mm.
+
+image::30-shaft-extension/final-check-sm.jpg[link={imagesdir}/30-shaft-extension/final-check.jpg,window=_blank]
+
+With the shaft aligned I could then turn down the weld beads to the diameter of the shaft. I mounted the shaft in this four-jaw chuck and used a dial indicator to get it precisely centered for machining.
+
+image::30-shaft-extension/turning-sm.jpg[link={imagesdir}/30-shaft-extension/turning.jpg,window=_blank]
+
+I saw a monolever arm and shaft up for a reasonable price, so figured it wouldn't be a bad idea to have a spare on hand. Here's how the extended parts compare.
+
+image::30-shaft-extension/arms-sm.jpg[link={imagesdir}/30-shaft-extension/arms.jpg,window=_blank]
+
+After finishing the extension work, I can say that I don't think my method of a press fit alignment was a good one. I think a better way would be to make a fixture that holds the shaft ends and the insert in position for welding.
+
+Here's a shaft fixture drawing of what I'm thinking about. It can handle +100mm and +125mm shafts. I have some 3"x2"x3/16" rectangular tube left over from the swingarm fixture I can use for the base and I'm thinking I'll pickup some rectangular bar stock for the V-blocks next time I'm at the scrap yard.
+
+image::30-shaft-extension/shaft-fixture-sm.jpg[link={imagesdir}/30-shaft-extension/shaft-fixture.jpg,window=_blank]
+
+-x3300
+
+*fishkens, Oct 15, 2010:*
+
+x3300 said:
+
+After finishing the extension work, I can say that I don't think my method of a press fit alignment was a good one. -x3300 Click to expand...
+
+Why don't you think the press fit was good? I was going to ask why you didn't drill both the shaft ends and the insert ends and use dowels (v. turning down the ends of the insert) but it sounds like you'd perfer a butt joint welded in a jig.
+
+Any clues are welcomed.
+
+Lovin' your work.
+
+*Caddy82rats, Oct 16, 2010:*
+
+your work is incredible, thanks for sharing this art
+
+*Airhead Wrangler, Oct 16, 2010:*
+
+x3300 said:
+
+I think a better way would be to make a fixture that holds the shaft ends and the insert in position for welding. Click to expand...
+
+Inertial friction welding is the way to go for solid driveshafts. It welds the whole cross section. I'm guessing you probably aren't set up for that though. You might be able to make it work on your lathe though.
+
+https://youtu.be/I8QJQ4lvybQ
+
+*Stagehand, Oct 16, 2010:*
+
+I always wondered if it was better to just use two shafts, and only make one splice. You know, cut each one off center, and use the longer of the two sections.
+
+*Stagehand, Oct 16, 2010:*
+
+Airhead Wrangler said:
+
+Inertial friction welding is the way to go for solid driveshafts. It welds the whole cross section. I'm guessing you probably aren't set up for that though. You might be able to make it work on your lathe though.
+
+https://youtu.be/I8QJQ4lvybQ
+
+wow that is pretty cool-
+
+and yeah, agreed, this is great work. Fun to watch, too.
+
+*fishkens, Oct 16, 2010:*
+
+Airhead Wrangler said:
+
+Inertial friction welding is the way to go for solid driveshafts. It welds the whole cross section. I'm guessing you probably aren't set up for that though. You might be able to make it work on your lathe though. Click to expand...
+
+Wow. Simple as that.
+
+Thanks.
+
+*DRjoe, Oct 16, 2010:*
+
+I've welded solid drive shafts together on outboard motors before by cutting both ends at an angle (about 60), clamp both pieces in a bit of angle to align them and then weld.
+
+but my so called engineering is a bit rough so best not to do what i do
+
+I've also seen crankshafts extended by putting a matching taper on both pieces then pressed together and welded. I like this way because in theory the taper should take the load.
+
+*Zebedee, Oct 17, 2010:*
+
+Fantastic stuff
+
+Many thanks for the continued updates
+
+John
+
+*x3300, Nov 5, 2010:*
+
+I've been down riding the black and yellow R100GS in the Mexican Sierra Madre mountains for the past two weeks so haven't been able to make any progress on the build-up.
+
+I did about 1000 miles (1600 km) of dirt riding that really gave me the experiences and the time to think again about the limitations of the R100GS and what I want in my ORGS. Here's a clip from an easy section that shows what I want this bike for.
+
+https://youtu.be/2WIEh48R6r0
+
+fishkens, it is much easier to make a pin accurately fit a hole than it is to make a hole accurately fit a pin, and that is why I didn't use a standard dowel pin, but even drilling the holes and turning the insert ends down to fit was too involved. Also, the void in the holes not taken up by the insert ends can trap air and machining oil which can expand and cause weld contamination and/or weld inclusions. I think holding the parts externally with a v-block fixture is easy and is as accurate as holding them with an internal pin, and the entire cross section can be welded with a butt weld setup.
+
+Airhead Wrangler, friction welding takes a lot of force and a lot of power, it needs some specialized equipment to get the pieces melted then to hold them together until they solidify. Just for anyone interested, check out friction stir welding, a similar technology.
+
+DRjoe, my welder has a pulsed DC feature that I can set a high pulse frequency to get a relatively narrow and deep penetration without having a big chamfer. I found a narrow notch at the joint seems to work OK, and with this method I don't need to add a lot of filler.
+
+-x3300
+
+*fishkens, Nov 5, 2010:*
+
+x3300 said:
+
+fishkens, it is much easier to make a pin accurately fit a hole than it is to make a hole accurately fit a pin, and that is why I didn't use a standard dowel pin, but even drilling the holes and turning the insert ends down to fit was too involved. Also, the void in the holes not taken up by the insert ends can trap air and machining oil which can expand and cause weld contamination and/or weld inclusions. I think holding the parts externally with a v-block fixture is easy and is as accurate as holding them with an internal pin, and the entire cross section can be welded with a butt weld setup. Click to expand...
+
+Okay. I'm familiar with drilling a hole and then reaming it out to size to fit a standard dowel as opposed to machining the pin. But I barely know enough to be dangerous and understand how machining the pin could be easier.
+
+Thanks.
+
+Looking forward to more.
+
+*Airhead Wrangler, Nov 6, 2010:*
+
+x3300 said:
+
+Airhead Wrangler, ... check out friction stir welding
+
+Click to expand...
+
+I like. Hadn't seen that one before.
+
+*rediRrakaD, Nov 6, 2010:*
+
+^ +1. S.
+
+*petekeys, Nov 11, 2010:*
+
+Hi Geoff
+
+Now you are set up with jogs and everything, are you going to offer this as a service?
+
+If so then how much would you charge?
+
+cheers
+
+-Pete
+
+*petekeys, Nov 11, 2010:*
+
+Stagehand said:
+
+wow that is pretty cool-
+
+and yeah, agreed, this is great work. Fun to watch, too. Click to expand...
+
+Is it possible to do this in a conventional lathe? There must be a fair amount of pressure being applied between the two shaft so maybe its not doable in a lathe.
+
+*x3300, Nov 13, 2010:*
+
+petekeys, this project is about realizing my vision, about creating the machine and executing my plan, and also of course about telling the story. Once I create something I really have little interest in doing it again for someone else, unless maybe if it allows me to be involved in some cool project or enterprise. I don't want to get into a discussion about it, but if someone wants to do such a service, all the photos, drawings, and documents from the project are my own and I am the sole copyright holder, but I release them to the public under the terms of the Fabricators Design License. The spirit of the license is to allow anyone to use the material for whatever use they want as long as any modifications or improments to the original design are made available to the public at no cost.
+
+As I mentioned in a previous post, the u-joint of the shaft I extended was going bad so I intended to replace it. I measured the OE joint as 19x44. Here's the joint in the original shaft.
+
+image::31-joint-replacement/old-shaft-sm.jpg[link={imagesdir}/31-joint-replacement/old-shaft.jpg,window=_blank]
+
+After some searching I found two after market u-joints I thought might work. One is a 19x44 and the other a 19x48. From the left; the 19x44, the 19x48, and the OE joints.
+
+image::31-joint-replacement/joints-sm.jpg[link={imagesdir}/31-joint-replacement/joints.jpg,window=_blank]
+
+I was interested in the 19x44 because there's not much clearance between the transmission output flange yoke and the swingarm housing when the swingarm is in the bottomed-out position with my 280mm of wheel travel. I thought with this joint there may be enough room to add a circlip to the yoke to hold the joint in place, but when I got the part I found it to be of very poor quality, and I think intended for steering shaft applications. As seen in the photo the bearing inner shaft has a very small diameter and the needle bearings are much shorter then the OE joint.
+
+Here's a comparison of the OE joint on the left and the 19x48 on the right. The OE joint has larger diameter bearing shafts and longer needle bearings than the replacement 19x48. I think the OE joint would have longer service life in the monolever's splash lube application, but the 19x48 should be sufficient for my application. I am still on the lookout for a better replacement, ideally something near identical to the OE joint.
+
+image::31-joint-replacement/joint-profile-sm.jpg[link={imagesdir}/31-joint-replacement/joint-profile.jpg,window=_blank]
+
+The bigger 19x48 didn't quite fit into the yokes.
+
+image::31-joint-replacement/19x48-cross-sm.jpg[link={imagesdir}/31-joint-replacement/19x48-cross.jpg,window=_blank]
+
+I used a die grinder to take a small amount of material off the yokes and the joint cross.
+
+image::31-joint-replacement/yoke-grinding-sm.jpg[link={imagesdir}/31-joint-replacement/yoke-grinding.jpg,window=_blank]
+
+Here are the shaft parts ready for assembly. The photo shows where I ground two ribs off the joint cross to get the needed clearance for assembly. The replacement joint has a grease fitting and shaft seals, but I didn't install these to allow the gear oil in the swingarm to get to the joint bearings.
+
+image::31-joint-replacement/shaft-parts-sm.jpg[link={imagesdir}/31-joint-replacement/shaft-parts.jpg,window=_blank]
+
+The 1st step in assembly is to get the cross in the yokes.
+
+image::31-joint-replacement/cross-fitted-sm.jpg[link={imagesdir}/31-joint-replacement/cross-fitted.jpg,window=_blank]
+
+Next is to install the caps. I used a brass hammer and some sockets to get caps in place. The photo shows how I used a socket large enough to pass the cap to support the yoke from below. Some light tapping was enough to get the caps positioned.
+
+image::31-joint-replacement/setting-caps-sm.jpg[link={imagesdir}/31-joint-replacement/setting-caps.jpg,window=_blank]
+
+I used a depth micrometer to center the caps in the yoke such that there was no play in the joint bearings.
+
+image::31-joint-replacement/depth-gage-sm.jpg[link={imagesdir}/31-joint-replacement/depth-gage.jpg,window=_blank]
+
+As mentioned, with my increased wheel travel there isn't much clearance between the transmission output flange yoke and the swingarm housing at the bottom-out limit, and with this bigger joint the options for fastening the joint were few. My 1st idea was to make a strap, maybe 5mm wide that would go across the cap and be spot welded to the yokes, but in the end I decided a simpler solution was just to spot weld the cap to the yoke.
+
+I knew that it was somewhat common method, especially in off-road trucks, but wasn't sure if it would work here. To get a better feel for it I cut up a cap from an old joint with an abrasive cut-off tool to see the cross section.
+
+image::31-joint-replacement/cut-cap-sm.jpg[link={imagesdir}/31-joint-replacement/cut-cap.jpg,window=_blank]
+
+I figured that if I did the welds with minimal penetration there was a lot of material there at the end to take the weld, and also, all the u-joints I've ever seen always wear out at the load bearing sides of the needle bearings, so if I put the weld somewhat perpendicular to that the effect of the weld would be minimized. I setup the welder with a low amperage and the DC pulser at around 5 Hz. I just put one weld at the thicker end of the yoke. I can try putting a second weld at the other side if I find trouble when I put it into use.
+
+image::31-joint-replacement/spot-weld-sm.jpg[link={imagesdir}/31-joint-replacement/spot-weld.jpg,window=_blank]
+
+There wasn't much else to do other than weld the other caps on. Here's the finished shaft.
+
+image::31-joint-replacement/finished-shaft-sm.jpg[link={imagesdir}/31-joint-replacement/finished-shaft.jpg,window=_blank]
+
+And the shaft installed on the bike. This shows the yoke clearance problem. When the shaft turns a few degrees from this position the corner of the yoke will almost touch the arm housing.
+
+image::31-joint-replacement/clearance-sm.jpg[link={imagesdir}/31-joint-replacement/clearance.jpg,window=_blank]
+
+I have a spare joint, so when it comes time to replace this joint I'll just need to grind away the spot welds to get the caps out and put in the new joint.
+
+-x3300
+
+*Beemerguru, Nov 13, 2010:*
+
+Great project and wonderful workmanship.
+
+I'm just starting another G/S..this time going retro with a dual shock version of the original late '70s G/S. Of course the frame needs some bracing and wondered if you had any left over finished gussets or if the vector graphic data is still available?
+
+Thanks
+
+Greg in Foster City
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

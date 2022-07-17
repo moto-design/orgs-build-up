@@ -1,0 +1,529 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 2
+
+[big]*The ORGS Build Up Project*
+
+*Page 2*
+
+*Stagehand, Apr 3, 2010:*
+
+120 ppm @ 120degF i think is the flash point of 87 octane gasoline.
+
+Thats all that matters.
+
+*Beemerguru, Apr 3, 2010:*
+
+Great job and wonderful vision....now when the frame is done..you ARE going to send it off to the Frame Man to straighten it out aren't you?
+
+*x3300, Apr 11, 2010:*
+
+Beemerguru, I aligned the steering head when welding it on, and it looked OK after I was done, so shouldn't need any further alignment.
+
+If some frame alignment was needed, well, this project is not about sending things out. It is about creation, about taking an idea, forming a concept, and realizing it in metal, rubber and plastic. A sturdy fixture to bend the frame into alignment would just be one of the many fixtues and jigs that will be made for this project.
+
+I found some thin sheet stock and cut two shims from it to set the steering stop to just before where the steering damper hits its limit.
+
+image::09-tank-mounts/steering-stop-shim-sm.jpg[link={imagesdir}/09-tank-mounts/steering-stop-shim.jpg,window=_blank]
+
+The Applied Racing triple clamp I bought mounts the damper in the reverse direction, so I needed to buy a stepped arm that drops down to clear the damper body. I made this puller to pull the old arm off.
+
+image::09-tank-mounts/scotts-puller-sm.jpg[link={imagesdir}/09-tank-mounts/scotts-puller.jpg,window=_blank]
+
+As I mentioned in my last post, the front HPN tank mounts I made up seemed too flimsy, so I added a brace to the inside of the existing bracket. I found some rusty stock that I cut to fit.
+
+image::09-tank-mounts/second-mount-sm.jpg[link={imagesdir}/09-tank-mounts/second-mount.jpg,window=_blank]
+
+Then welded it on. It is amazing how the triangle makes it really strong, I guess the whole bike could be picked up by just one mount.
+
+image::09-tank-mounts/second-welded-sm.jpg[link={imagesdir}/09-tank-mounts/second-welded.jpg,window=_blank]
+
+To fix the botched rear HPN tank mount I cut the welds of the miss placed bung with an abrasive cut-off wheel, ground off all the old weld, then re-welded the bung at the correct hight.
+
+image::09-tank-mounts/fixed-bung-sm.jpg[link={imagesdir}/09-tank-mounts/fixed-bung.jpg,window=_blank]
+
+I made up this set of smaller bungs with M6x1.0 threads for the R65 tank adapter.
+
+image::09-tank-mounts/r65-bungs-sm.jpg[link={imagesdir}/09-tank-mounts/r65-bungs.jpg,window=_blank]
+
+I needed to set the bungs up so that the bottom of the tank will clear the heads of the bolts that mount the adapter to the frame.
+
+After I figure out what I'll do with the front seat mount, etc., I might simplify things here by cutting up this adapter such that I can just weld it to the frame.
+
+image::09-tank-mounts/r65-adapter-sm.jpg[link={imagesdir}/09-tank-mounts/r65-adapter.jpg,window=_blank]
+
+-x3300
+
+*canderson88, Apr 13, 2010:*
+
+Something wicked this way comes!
+
+*anonny, Apr 13, 2010:*
+
+Cool build I'm in
+
+*x3300, Apr 24, 2010:*
+
+I've been busy on a lot of different things since my last post, and could finally get something together worth reporting. Just to let you know where I am going here is a cardboard box 'studio' photo of the result.
+
+image::10-front-wheel/adapter-parts-sm.jpg[link={imagesdir}/10-front-wheel/adapter-parts.jpg,window=_blank]
+
+These are adapters I found I needed to get all the front wheel related parts I wanted to use mounted up to work together.
+
+Here is a list of the parts:
+
+  Fork:           Honda CRF250R
+  Wheel:          BMW R100GS
+  Axle:           Honda CRF250R
+  Brake Disk:     Ducati snowflake (320mm)
+  Brake Caliper:  BMW R1200RT (4 piston)
+
+I really like the convenience of the stock GS tubeless wheel. It seems really strong, and I can repair a puncture without removing the wheel from the bike. Plus, I just need to carry a small tire plug set and an MTB bicycle pump to do repairs.
+
+The GS axle is bigger than the CRF's. Here is what I measured:
+
+                 R100GS   CRF250R  difference
+  axle diameter: 25.0 mm  20.0 mm  -5.0 mm
+
+I didn't want to bore out the CRF fork ends to accept the GS axle since that would need to be done again if the fork ever needed to be replaced. I looked into fitting a bearing that would have the OD of the GS wheel and the ID of the CRF axle. The GS uses a number 6005 bearing with dimensions 25x47x12. The closest standard bearing with the proper ID and OD is a 6204, with dimensions 20x47x14. The GS wheel bearing bore is really just deep enough for the 12mm bearing, and I didn't think it the good to use the thicker 14mm 6204.
+
+I did find that some Suzuki motorcycles use a 20x47x12 bearing in the transmission, but those wouldn't be sealed, so wouldn't be appropriate for wheel bearings.
+
+I would need to make some custom axle spacers to fit the GS wheel between the CRF fork, so in the end, the solution I came up with to fit the bearings was to make a set of stepped spacers that extend into the wheel bearing to adapt the GS wheel bearing to the CRF axle.
+
+image::10-front-wheel/axle-spacer-plans-sm.jpg[link={imagesdir}/10-front-wheel/axle-spacer-plans.jpg,window=_blank]
+
+I found some kind of stainless round stock at the scrap yard that I though I could use. I made the OD of the new spacers the same as that of the stock GS spacers so I could use the GS bearing protectors on the new spacers. This shows the stock GS axle and spacers on the right, and the CRF axle and custom spacers with the GS bearing protectors switched over on the left.
+
+image::10-front-wheel/axle-compare-sm.jpg[link={imagesdir}/10-front-wheel/axle-compare.jpg,window=_blank]
+
+To get the correct width for each of the new spacers I mounted the GS wheel in the fork with the CRF axle nut screwed on the axle until the outside of the nut was flush with the end of the axle, then positioned the wheel so that the rim was centered between the fork legs. Careful measurement gave me 15.5mm on the right, and 27.0mm on the left for the spacers.
+
+This shows the CRF axle with my new spacers and GS wheel bearings.
+
+image::10-front-wheel/axle-with-spacers-sm.jpg[link={imagesdir}/10-front-wheel/axle-with-spacers.jpg,window=_blank]
+
+I had done a 320mm disk conversion on my PD earlier, so had a good idea of what I needed to get the disk mounted. You can read my write-up of the PD conversion here:
+
+http://www.advrider.com/forums/showpost.php?p=6638696&postcount=214
+
+The Ducati snowflake disk has an offset of 9.67mm, but an additional spacer is needed to get the disk far enough over so that the spokes won't hit the inside of the caliper. Also, it seems to me that if the disk is closer to the fork leg there will be less stress in the caliper mount.
+
+I took the springs out of the fork so I could compress it down the check how thick a spacer I needed to get 2mm clearance between the widest part of the fork upper and the outer surface of the brake disk buttons. I measured that about 11mm would work.
+
+I was lucky and found a 1/2"x4"x4" aluminum cutoff at the scrap yard. I didn't have any proper lathe mandrels so I drilled a hole in the stock and pressed in a piece of scrap steel that I turned down and center drilled. That big square spinning around was a little intimidating at first, but I showed it who as in charge, and quickly got it turned down to its 100mm OD.
+
+image::10-front-wheel/disk-spacer-sm.jpg[link={imagesdir}/10-front-wheel/disk-spacer.jpg,window=_blank]
+
+image::10-front-wheel/disk-spacer-outside-sm.jpg[link={imagesdir}/10-front-wheel/disk-spacer-outside.jpg,window=_blank]
+
+These photos show how the axle spacers and disk spacer work together to position the wheel centered in the fork, and the disk as far to the left as possible.
+
+image::10-front-wheel/disk-spacer-top-sm.jpg[link={imagesdir}/10-front-wheel/disk-spacer-top.jpg,window=_blank]
+
+image::10-front-wheel/disk-clearance-sm.jpg[link={imagesdir}/10-front-wheel/disk-clearance.jpg,window=_blank]
+
+To get the brake caliper setup I just positioned the caliper on the disk to where it looked good. It seems a little high in this photo, I thought it would put too much stress on the upper mount.
+
+image::10-front-wheel/caliper-setting-sm.jpg[link={imagesdir}/10-front-wheel/caliper-setting.jpg,window=_blank]
+
+The geometry of the adapter needed is not simple. I took some measurements, but mainly made the finished piece from a template.
+
+At first I was trying to make templates from thick card stock, but that turned out to be difficult because of the irregularly shaped parts. I hit on this idea to use a thin piece of clear PETE plastic and a sharpie marker.
+
+image::10-front-wheel/caliper-template-setting-sm.jpg[link={imagesdir}/10-front-wheel/caliper-template-setting.jpg,window=_blank]
+
+image::10-front-wheel/caliper-template-sm.jpg[link={imagesdir}/10-front-wheel/caliper-template.jpg,window=_blank]
+
+Once I got the template and knew the size of the adapter I scrounged around at the scrap yard and found a block of aluminum I could use.
+
+The adapter needed two reliefs on the outside for the fork mounts, and one big one on the inside for the caliper. I just sketched the reliefs onto the template to give about 2mm clearance between the adapter and other parts, then just transfered the sketchings to the piece when doing the layout.
+
+This shows the caliper and inside relief, along with some of my fabrication notes.
+
+image::10-front-wheel/caliper-adapter-back-sm.jpg[link={imagesdir}/10-front-wheel/caliper-adapter-back.jpg,window=_blank]
+
+I plan at some time to make a proper mechanical drawing of the adapter for use by anyone interested.
+
+The three big holes on the side are to reduce weight and give a better appearance. I didn't plan on those at first, but once I got it machined and mounted up it looked like a big bulky hunk of metal sitting there so I added the holes. I think it looks a lot better, and is significantly lighter. The holes are not quite lined up because I positioned them in the center of the thickest parts to give maximum strength.
+
+This adapter ties together a Honda fork, a Ducati disk, and a BMW caliper...
+
+image::10-front-wheel/caliper-adapter-mounted-sm.jpg[link={imagesdir}/10-front-wheel/caliper-adapter-mounted.jpg,window=_blank]
+
+Here is a top view. The 2mm relief gap between the adapter and caliper is in the shadows of this photo, but looks narrow and gives a really good effect.
+
+image::10-front-wheel/caliper-adapter-top-sm.jpg[link={imagesdir}/10-front-wheel/caliper-adapter-top.jpg,window=_blank]
+
+It was a lot of work to design and machine the parts, but I am very happy with the result. The axle spacers are stainless, which won't rust, and the caliper adapter has a really cool 'one-off' look to it.
+
+-x3300
+
+*Zebedee, Apr 25, 2010:*
+
+Nice work
+
+John
+
+*SamH, Apr 25, 2010:*
+
+Wow, Fantastiic work.
+
+*Mr. Vintage, Apr 27, 2010:*
+
+Nice job!
+
+*Solo Lobo, Apr 27, 2010:*
+
+Really nice stuff going on here
+
+*x3300, May 1, 2010:*
+
+I'm almost done with all the frame mods and starting to work on various things around the frame. So that I can do some of the measuring and fitting I set the old engine and trans from the parts bike into place. The header pipes were all rusted up so I went over them with a wire wheel and it really improved the look. I guess they will rust up again soon though.
+
+image::11-cooler/engine-installed-sm.jpg[link={imagesdir}/11-cooler/engine-installed.jpg,window=_blank]
+
+I found that when climbing up steep mountain back roads (1st and 2nd gear stuff) in hot weather the engine of my PD would overheat. After a bit of looking around at automotive plumbing catalogs and such I ended up ordering an Earl's Temp-a-Cure oil cooler, some -6 Perform-O-Flex stainless hose, and a few Swivel-Seal hose ends that would mate the cooler to the threaded holes in GS oil filter cover plate. Other aftermarket parts makers have similar offerings.
+
+image::11-cooler/cooler-parts-sm.jpg[link={imagesdir}/11-cooler/cooler-parts.jpg,window=_blank]
+
+I sized the cooler to be a bit bigger than stock and to fit in the space behind the front fender. This photo shows the stock GS cooler compared to the new cooler. It is thicker, and the front has about 30% more finned area.
+
+image::11-cooler/cooler-bottom-view-sm.jpg[link={imagesdir}/11-cooler/cooler-bottom-view.jpg,window=_blank]
+
+I wanted to have the front fender so I could properly fit the cooler. I looked around for something with a modern look to it and settled on a Acerbis for the limited edition black CRF450R. I'm hoping the aerodynamics of it will be good at highway speeds.
+
+image::11-cooler/new-fender-sm.jpg[link={imagesdir}/11-cooler/new-fender.jpg,window=_blank]
+
+To mount the cooler I decided to use two aluminum plates that would mount above and below the cooler to stabilize it and offer some crash protection. The lower plate would mount to two brackets that would be welded to the front frame tube. The lower plate would need two big holes to pass the fittings on the bottom of the cooler.
+
+image::11-cooler/plate-drawing-sm.jpg[link={imagesdir}/11-cooler/plate-drawing.jpg,window=_blank]
+
+As a first attempt I made these plates from 1/8" flat stock. I machined out the top plate mainly for looks, but also to make it lighter.
+
+image::11-cooler/plates-sm.jpg[link={imagesdir}/11-cooler/plates.jpg,window=_blank]
+
+The frame brackets needed to be narrow enough to fit between the cooler fittings. I still need to cut off that horn mount, but will need to wait until the engine is out next.
+
+image::11-cooler/brackets-welded-sm.jpg[link={imagesdir}/11-cooler/brackets-welded.jpg,window=_blank]
+
+The lower plate then mounts to the frame with four counter sunk screws.
+
+image::11-cooler/plate-mounted-sm.jpg[link={imagesdir}/11-cooler/plate-mounted.jpg,window=_blank]
+
+To connect the hoses to the GS filter plate I bought two M12x1.5 'fuel pump' hose ends (Earl's PN 849092). These have the same thread as the stock GS banjo bolts. I also bought some clear 3/4" heat shrink tubing to put over the hose to keep grit out.
+
+The filter cover plate had a recess that the banjo sealing washer fit into that can be seen in this photo.
+
+image::11-cooler/hose-parts-sm.jpg[link={imagesdir}/11-cooler/hose-parts.jpg,window=_blank]
+
+I filed down the edges of the recess to make a flat sealing surface for the new hose ends.
+
+image::11-cooler/cover-filed-sm.jpg[link={imagesdir}/11-cooler/cover-filed.jpg,window=_blank]
+
+Here is how the new fittings connect up with the GS filter plate.
+
+image::11-cooler/cover-and-fittings-sm.jpg[link={imagesdir}/11-cooler/cover-and-fittings.jpg,window=_blank]
+
+image::11-cooler/cover-mounted-sm.jpg[link={imagesdir}/11-cooler/cover-mounted.jpg,window=_blank]
+
+Here is my 1/8" lower mounting plate with some temporary hardware. After getting this far I found the lower plate seemed too flimsy, and I felt the plate would eventually crack from fatigue. There is about 67mm between the inner frame mounting screws and the outer cooler mounting screws, with a big hole between them.
+
+image::11-cooler/right-view-sm.jpg[link={imagesdir}/11-cooler/right-view.jpg,window=_blank]
+
+As a solution I welded some 90 degree angle stock on the sides of the lower bracket. This photo shows that work in progress. On the bottom I needed to grind away some clearance. With hind sight, I think a better design would be to just make the lower plate from 1/4" stock. The current one should work OK, but I may make up a new one.
+
+image::11-cooler/plate-bottom-sm.jpg[link={imagesdir}/11-cooler/plate-bottom.jpg,window=_blank]
+
+I made up this set of spacers from 1/2" round stock to fit between the cooler mount tabs. I machined a flat on two sides to accept a 10mm wrench. I also use two washers between the cooler tabs and the mount plates to space the plates away from the top and bottom of the cooler. The cooler is then sandwiched between the plates to stabilize it.
+
+image::11-cooler/plate-and-spacers-sm.jpg[link={imagesdir}/11-cooler/plate-and-spacers.jpg,window=_blank]
+
+I was concerned that I would not be able to remove the front engine cover with the oil cooler mounted, but I found that the cooler and hoses are far enough forward that there is plenty of room.
+
+image::11-cooler/left-view-sm.jpg[link={imagesdir}/11-cooler/left-view.jpg,window=_blank]
+
+Here's a side view showing the clearance between the cooler and the fender as mounted.
+
+image::11-cooler/cooler-clearance-sm.jpg[link={imagesdir}/11-cooler/cooler-clearance.jpg,window=_blank]
+
+It seems like the front fender will obstruct most of the airflow to the cooler. I'm thinking I'll cut out some of the fender to allow the the air to flow into the cooler, and maybe make some shrouds that attatch to the sides of the cooler to duct some more air through it. I'll wait until later when the bike is ridable and I can do some air flow testing before doing that though. I also need to add the heat shrink cover, and I am thinking I to shorten the hoses by 1/2" or so.
+
+image::11-cooler/front-view-with-fender-sm.jpg[link={imagesdir}/11-cooler/front-view-with-fender.jpg,window=_blank]
+
+-x3300
+
+*Stagehand, May 1, 2010:*
+
+Yah you'll want airflow through the fender,, but you dont have to cut it off if you can just drill some holes in it.
+
+*x3300, May 8, 2010:*
+
+I had one of the Enduralast alternators from Euro MotoElectics on another bike, and can recommend it for the improved charging. The down side of the kit is the wiring. It just provides some general instruction, a handful of electrical connectors and some wire. You are left up to your skills to get it working.
+
+The combined rectifier/regulator comes from a two wire Ducati system, and it just doesn't mate into the two component Bosch diode board + regulator system of the GS very well. Here's the rectifier/regulator from the kit.
+
+image::12-regulator-harness/regulator-sm.jpg[link={imagesdir}/12-regulator-harness/regulator.jpg,window=_blank]
+
+I wanted the wiring for the new alternator to be reliable and clean so figured I'd need to make up some kind of custom wiring harness. I started by taking measurements of the existing engine wiring harness and whatever else would be needed to connect up the new regulator and came up with this harness drawing.
+
+image::12-regulator-harness/enduralast-harness-drawing-sm.jpg[link={imagesdir}/12-regulator-harness/enduralast-harness-drawing.jpg,window=_blank]
+
+I think for maintenance it would be better to have connectors between the regulator and harness so the regulator could be easily replaced, but that would be complicated because the wires to the alternator need a high AC current rating, etc. For reliability I choose to wire the regulator directly into the engine harness.
+
+The result for the most part is a direct replacement for the OE engine harness. The regulator needs switched power on the white wire which has no equivalent in the OE harness. My solution was to run another wire out along side the wires to the main harness connector and put on a blade connector that would need switched power from somewhere. I need to do some re-work on the main harness and I'll add in a new wire from switched power to connect up here.
+
+image::12-regulator-harness/enduralast-harness-sm.jpg[link={imagesdir}/12-regulator-harness/enduralast-harness.jpg,window=_blank]
+
+In my old installation one of the connectors between the alternator and the regulator burned up. It happened on a trip to Baja, and the battery was ruined, so I had to finish the trip with a lot of push starts. I think that the AC current must get really high at times, then any resistance in the connectors will cause them to get hot and eventually burn up. As a quick fix while down in Baja I got some wire nuts from a hardware store. Those worked so well I left them on. Anyway, I want to have some good connectors there to avoid problems. For now, I put in a heavy duty terminal block. I'll attach it to the timing cover with a screw to hold it in place.
+
+-x3300
+
+*x3300, May 15, 2010:*
+
+I'll need a headlight, and I wanted something distinctive, something that said -- off-road.
+
+I liked the the look of the big 8" race lights and figured I'd try to rig something up for street use. Both Baja Designs and Trail Tech make very similar products, an 8" light with a simple frame that attaches to the fork uppers with hose clamps.
+
+I chose the Trail Tech light based solely on Internet photos. Both are so similar that I can't imagine one could be much better than the other. I'd like to hear from anyone who has compared them side-by-side.
+
+Here's what arrived at my door.
+
+image::13-headlight/new-light-front-sm.jpg[link={imagesdir}/13-headlight/new-light-front.jpg,window=_blank]
+
+image::13-headlight/new-light-back-sm.jpg[link={imagesdir}/13-headlight/new-light-back.jpg,window=_blank]
+
+This light comes fitted with a single filament 55 watt H1 bulb. This really isn't suitable for a street use headlight. After a bit of headlight study (see here) my idea was to fit a standard H4 (9003) bulb to the 8" shell. The H4 bulb is a dual filament bulb with an off-focus low beam filament and integral low beam mask.
+
+I needed an H4 bulb holder to replace the existing H1 holder so I searched around at the local motorcycle wrecker and found what seemed to be a pretty common H4 light on older Honda motorcycles. The back shell is made of plastic and I figured it would be easy to cut down to make a bulb holder that could be glued onto the back of the 8" light.
+
+Here's the junker compared to the 8".
+
+image::13-headlight/honda-shell-sm.jpg[link={imagesdir}/13-headlight/honda-shell.jpg,window=_blank]
+
+I took a hammer and a pair of pliers to the Honda light to break away the front lens from the rear shell.
+
+The H1 bulb holder on the 8" light is cast aluminum and held onto the shell by several bent over tangs and a bead of what seemed to be high-temp RTV silicon. I bent the tangs up and cut the silicon away to get the holder off.
+
+Here is the H4 shell set on top of the 8" light.
+
+image::13-headlight/shell-overlay-sm.jpg[link={imagesdir}/13-headlight/shell-overlay.jpg,window=_blank]
+
+Using a lathe I cut off the outer part of the plastic H4 shell then turned it down to a good size. Here's a comparison of the two holders with bulbs.
+
+image::13-headlight/bulbs-sm.jpg[link={imagesdir}/13-headlight/bulbs.jpg,window=_blank]
+
+The drawing shows the bulb dimensions I measured:
+
+  H1      = 27.0 mm
+  H4 high = 20.0 mm
+  H4 low  = 28.0 mm 
+
+The H1 bulb holder places the bulb about 5 mm behind the shell, so to get the H4 high beam filament at the same position that the H1 filament was I would need the base of the H4 bulb about 2 mm in front of where the H1 holder rests against the shell. Anyway, I marked out the cut with a Sharpie pen and started toward it on a bench grinder. I noticed the reflector mirroring started to peal off inside the bulb from the heat of grinding so I switched to a hand file.
+
+Once I started getting close I checked the placement of the bulb by looking through the front lens at the reflection of the high beam filament in the reflector. Because of the reflector's parabolic shape it was easy to see when the filament was at the focal point.
+
+Here's the filed down shell and my bulb holder ready to be glued together.
+
+image::13-headlight/ready-to-glue-sm.jpg[link={imagesdir}/13-headlight/ready-to-glue.jpg,window=_blank]
+
+After all the grinding and filing there was a lot of metal and mirror junk inside the light that needed to be cleaned out. I started by just flushing it with clear warm water, then on the final fill-up I added a tablespoon of household ammonia to help reduce water spots. I was really surprised with the result. A very clean inside and only a few unnoticeable spots.
+
+I got some Permatex Ultra Grey RTV silicon to glue the new holder to the shell. It seems to be very similar to what was originally used to hold the H1 holder on.
+
+image::13-headlight/glued-sm.jpg[link={imagesdir}/13-headlight/glued.jpg,window=_blank]
+
+Here are a few photos that show the finished headlamp.
+
+image::13-headlight/headlight-top-sm.jpg[link={imagesdir}/13-headlight/headlight-top.jpg,window=_blank]
+
+image::13-headlight/headlight-side-sm.jpg[link={imagesdir}/13-headlight/headlight-side.jpg,window=_blank]
+
+image::13-headlight/headlight-mounted-sm.jpg[link={imagesdir}/13-headlight/headlight-mounted.jpg,window=_blank]
+
+Here's the high and low beam patterns on a cardboard target a few feet in front of the bike. Both were taken with the same exposure settings.
+
+image::13-headlight/high-beam-sm.jpg[link={imagesdir}/13-headlight/high-beam.jpg,window=_blank]
+
+image::13-headlight/low-beam-sm.jpg[link={imagesdir}/13-headlight/low-beam.jpg,window=_blank]
+
+The low beam pattern seems pretty good. I'll need to get the bike out of the garage to check how it looks down the road.
+
+-x3300
+
+*x3300, May 30, 2010:*
+
+The frame of the Trail Tech headlamp I bought has four threaded mounts that I thought would be a good place for my dashboard. I wanted to make up something with a minimal look.
+
+I thought a multi-function digital computer would be good to base my dash on since I could get a number of features from a single device. I looked at a few models, and decided on the Trail Tech Vapor. It had most of the features I wanted at a reasonable price.
+
+image::14-dash-fab/computer-sm.jpg[link={imagesdir}/14-dash-fab/computer.jpg,window=_blank]
+
+For warning and indicator lamps I first bought these 12 volt LED lamps which have a built-in resistor and holder, but I had second thoughts about them as they look a little big, so I then bought some bare LEDs and small clip holders that I will try. I'm not sure if I can get the installation of the bare LEDs to be reliable enough. They seem like they will easily get damaged.
+
+image::14-dash-fab/dash-lamps-sm.jpg[link={imagesdir}/14-dash-fab/dash-lamps.jpg,window=_blank]
+
+I also bought a few heavy duty toggle switches. With all the components on hand I did a mock up of the dash to get the measurements for the top panel.
+
+image::14-dash-fab/dash-layout-sm.jpg[link={imagesdir}/14-dash-fab/dash-layout.jpg,window=_blank]
+
+I went through a few iterations of the layout with components at different positions, etc., until I got to the final layout. I did a mock-up with thick card stock to get the shape of the side panels that put the dash at a good viewing angle. Here's one of my design drawings with a side panel template and a few of the different lamps I bought. The sharp point at the top of the template is to form a kind of glare guard and mini wind screen.
+
+image::14-dash-fab/dash-drawing-sm.jpg[link={imagesdir}/14-dash-fab/dash-drawing.jpg,window=_blank]
+
+I found some 1/16" 6061 aluminum sheet at the remnant shop that I thought would work well.
+
+image::14-dash-fab/sheet-stock-sm.jpg[link={imagesdir}/14-dash-fab/sheet-stock.jpg,window=_blank]
+
+After cutting out the rough shapes on a band saw I used a mill to get the parts to shape and machine out the openings for the components.
+
+image::14-dash-fab/dash-panels-sm.jpg[link={imagesdir}/14-dash-fab/dash-panels.jpg,window=_blank]
+
+I used this piece of flat stock as the front mounting bracket. To allow full adjustment of the headlamp I needed to cut out the relief. I made the bracket wide so I can mount a pair of small auxiliary driving lamps above the main headlamp.
+
+image::14-dash-fab/light-bracket-sm.jpg[link={imagesdir}/14-dash-fab/light-bracket.jpg,window=_blank]
+
+Here I have the parts taped together with masking tape as a final check before welding.
+
+image::14-dash-fab/taped-up-sm.jpg[link={imagesdir}/14-dash-fab/taped-up.jpg,window=_blank]
+
+Welding the dash panels to the lower mounts.
+
+image::14-dash-fab/welding-dash-sm.jpg[link={imagesdir}/14-dash-fab/welding-dash.jpg,window=_blank]
+
+Here is the finished dash. I still need to wire up all the components, a big job in itself.
+
+image::14-dash-fab/dash-front-view-sm.jpg[link={imagesdir}/14-dash-fab/dash-front-view.jpg,window=_blank]
+
+image::14-dash-fab/dash-top-view-sm.jpg[link={imagesdir}/14-dash-fab/dash-top-view.jpg,window=_blank]
+
+I also need to get a key lock switch for the ignition. I'm thinking to hang a bracket down below the dash side panel, but on the inside of the headlamp frame so the key switch is recessed into the gap behind the headlamp.
+
+-x3300
+
+*tileman, May 31, 2010:*
+
+I'm liking this
+
+*Zebedee, Jun 5, 2010:*
+
+x3300 said:
+
+...
+
+I also need to get a key lock switch for the ignition. ...
+
+-x3300 Click to expand...
+
+If you are looking for clean and "simple", have you considered keyless?
+
+I seem to recall one Aussie inmates going that way with his R65 Cafe build
+
+$0.10
+
+Cheers
+
+John
+
+*x3300, Jun 5, 2010:*
+
+Zebedee, keyless sounds good. I often seem to get all saddled up with gloves and everything on to only find my key is deep down inside my pocket.
+
+I'll need to make up some kind of custom seat since the stock GS seat doesn't fit with the frame gussets I added, and also, the shape of the HPN and R65 tanks I have are considerably different from the stock GS tank.
+
+To get some ideas I made this seat mock-up from thin cardboard.
+
+image::15-tool-tray/seat-model-sm.jpg[link={imagesdir}/15-tool-tray/seat-model.jpg,window=_blank]
+
+There was a lot of unused space below the seat top, so I thought it would be a good place to store some tools and spare parts. I made up this model to size up a large tool tray.
+
+image::15-tool-tray/cardboard-model-sm.jpg[link={imagesdir}/15-tool-tray/cardboard-model.jpg,window=_blank]
+
+My idea was for the seat pan to mount on the top of the tool tray. The HPN and R65 tanks are different lengths, so I would need a design that would allow the seat to be used with both. I decided that the tray would stay fixed to the frame, and the pan would have front to back adjustment. Here is the pan mock-up on the tray. The marks in the back show the pan position with the two tanks.
+
+image::15-tool-tray/cardboard-pan-sm.jpg[link={imagesdir}/15-tool-tray/cardboard-pan.jpg,window=_blank]
+
+I spent a lot of time measuring the profile of the tanks and cutting and fitting the pan to get a shape and position that I thought looked good. Here's how it fits to the the R65 and HPN tanks.
+
+image::15-tool-tray/r65-tank-sm.jpg[link={imagesdir}/15-tool-tray/r65-tank.jpg,window=_blank]
+
+image::15-tool-tray/hpn-tank-sm.jpg[link={imagesdir}/15-tool-tray/hpn-tank.jpg,window=_blank]
+
+As I mentioned in a previous post, I wanted to replace the R65 tank adapter I had made with a mount welded directly to the frame. I made up this template for a mount that could be used for both the R65 tank and the tool tray. The front of the tool tray will have a bracket welded on that sticks out and bolts to this frame mount. The bracket on the tank and the bracket on the tray will stack together and then bolt to the frame with two bolts.
+
+image::15-tool-tray/rear-tank-template-sm.jpg[link={imagesdir}/15-tool-tray/rear-tank-template.jpg,window=_blank]
+
+Here's the bracket cut out and bent. It will get some threaded bungs welded on after it is welded to the frame.
+
+image::15-tool-tray/rear-tank-mount-sm.jpg[link={imagesdir}/15-tool-tray/rear-tank-mount.jpg,window=_blank]
+
+When I got the 1/16 aluminum stock for the dash I got enough for the tool tray also. I cut the panels then bent the bottom panel on a sheet metal brake. With a bit of filling the side panels were even and mated to the bottom with a good fit.
+
+image::15-tool-tray/panels-sm.jpg[link={imagesdir}/15-tool-tray/panels.jpg,window=_blank]
+
+Here's the bottom panel in position. I left some extra on the front to be trimmed while fitting the front panel.
+
+image::15-tool-tray/bottom-panel-sm.jpg[link={imagesdir}/15-tool-tray/bottom-panel.jpg,window=_blank]
+
+I used this card stock template to get the geometry of a cut out that would be needed to clear the frame.
+
+image::15-tool-tray/cut-out-template-sm.jpg[link={imagesdir}/15-tool-tray/cut-out-template.jpg,window=_blank]
+
+Here's the tray taped together for a final check before welding.
+
+image::15-tool-tray/taped-up-sm.jpg[link={imagesdir}/15-tool-tray/taped-up.jpg,window=_blank]
+
+To weld the panel edges square I used this piece of angled scrap. The vice-grip is set as a stop to register the panel in position.
+
+image::15-tool-tray/welding-stops-sm.jpg[link={imagesdir}/15-tool-tray/welding-stops.jpg,window=_blank]
+
+The panel is set in position.
+
+image::15-tool-tray/welding-ready-sm.jpg[link={imagesdir}/15-tool-tray/welding-ready.jpg,window=_blank]
+
+Then some tack welds.
+
+image::15-tool-tray/welding-sm.jpg[link={imagesdir}/15-tool-tray/welding.jpg,window=_blank]
+
+image::15-tool-tray/welding-tacked-sm.jpg[link={imagesdir}/15-tool-tray/welding-tacked.jpg,window=_blank]
+
+And tack the other edges.
+
+image::15-tool-tray/welding-side-tacked-sm.jpg[link={imagesdir}/15-tool-tray/welding-side-tacked.jpg,window=_blank]
+
+Then the final welds.
+
+image::15-tool-tray/welding-final-sm.jpg[link={imagesdir}/15-tool-tray/welding-final.jpg,window=_blank]
+
+I trimmed the extra off the top of the panels, then used a disc sander to get the top of all the panels even. This shows how the tray fits into the frame and its position with respect to the tank mount, which is welded to the frame here.
+
+image::15-tool-tray/front-gap-sm.jpg[link={imagesdir}/15-tool-tray/front-gap.jpg,window=_blank]
+
+Here's the tray so far.
+
+image::15-tool-tray/welded-bottom-sm.jpg[link={imagesdir}/15-tool-tray/welded-bottom.jpg,window=_blank]
+
+I put in a lot of detail in this write-up, and the piece isn't even finished... I still need to make the two small panels to seal the frame cut-outs, make up the front and rear mounts, and make up a mounting system for the seat pan.
+
+After the tray is done then I can start on the seat pan then move on to the seat pad and cover. I've been gathering up seat design info for the next steps. I found some good info here http://www.diymotorcycleseat.com
+
+-x3300
+
+*notarat, Jun 5, 2010:*
+
+Awesome write up thus far!
+
+Subscribed
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+Copyright x3300

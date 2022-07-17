@@ -1,0 +1,524 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 10
+
+[big]*The ORGS Build Up Project*
+
+*Page 10*
+
+*x3300, Jul 28, 2012:*
+
+To finish off the exhaust I still needed to hookup the collector and arrange something for a muffler. I had these pieces left over from an old project and I was thinking I could make use of them; a muffler shell, a 2-1/4" ID perforated tube, and some packing.
+
+image::49-muffler/old-parts-sm.jpg[link={imagesdir}/49-muffler/old-parts.jpg,window=_blank]
+
+I stopped by the scrap yard and found a piece of 5/8" thick aluminum that I thought I could make some muffler end caps from. I scribed a line using the inside of the muffler shell as a guide and cut out two blanks using a vertical band saw.
+
+image::49-muffler/end-cutting-sm.jpg[link={imagesdir}/49-muffler/end-cutting.jpg,window=_blank]
+
+I used a large floor mounted disk sander to finish the shaping. The end caps need to seal exhaust pressure so I worked slowly until I just had a tight fit into the muffler shell.
+
+image::49-muffler/end-shaped-sm.jpg[link={imagesdir}/49-muffler/end-shaped.jpg,window=_blank]
+
+I don't have a photo, but I mounted the end caps on a lathe using a four-jaw chuck and bored a 2-1/4" hole in the center of each to accept the muffler inlet and outlet tubes. To lighten things up I used this setup to mill out the center section of the end caps. Since this side would be inside the muffler, appearance wasn't so important. I scribed a line around the edge and once I got the bulk of the material removed I then used the X and Y table hand wheels to traverse around the scribe line.
+
+image::49-muffler/end-milling-sm.jpg[link={imagesdir}/49-muffler/end-milling.jpg,window=_blank]
+
+Here are the almost finished end caps. I put four threaded holes on the side of each to hold the end cap in the shell. I planned to use screws during fabrication so I could disassemble it as needed, then use rivets for a clean look during the final assembly.
+
+image::49-muffler/ends-milled-sm.jpg[link={imagesdir}/49-muffler/ends-milled.jpg,window=_blank]
+
+I used this small slip roller to make the 2-1/4" OD muffler inlet and outlet tubes from strips I cut from 16 gage stainless sheet.
+
+image::49-muffler/roller-sm.jpg[link={imagesdir}/49-muffler/roller.jpg,window=_blank]
+
+image::49-muffler/roller-detail-sm.jpg[link={imagesdir}/49-muffler/roller-detail.jpg,window=_blank]
+
+The muffler end caps are made from aluminum, but the muffler tubes are stainless. I needed some way to mechanically connect them, but the dissimilar materials couldn't be welded so my solution was these rings. The rings are from 16 gage stainless that would be welded to the muffler tubes then riveted to the end caps. My original design was to have four rivets each, but in the end I just used two.
+
+image::49-muffler/rings-sm.jpg[link={imagesdir}/49-muffler/rings.jpg,window=_blank]
+
+I had some 2" 18 gage stainless tube that I thought I could use for a tail pipe. To mate the 2" tail pipe with the 2-1/4" muffler outlet I ground a nice radius then polished the short section of 2-1/8" pipe on the left (2-1/8 + 2 * .049 = 2.22). With some grease for lube I pressed the two together using an arbor press. I wasn't sure how it would work out, but I was very happy with the result.
+
+image::49-muffler/swage-sm.jpg[link={imagesdir}/49-muffler/swage.jpg,window=_blank]
+
+The 18 gage tube was pretty thin and likely to crush so I put a small inward curving lip on the end to give it some strength.
+
+image::49-muffler/tail-end-sm.jpg[link={imagesdir}/49-muffler/tail-end.jpg,window=_blank]
+
+To favor power in the low and mid-range I chose a collector with a 1-5/8" (41.275 mm) outlet. To mate that with the 2-1/4" muffler inlet I decided on a 110 mm length of straight 1-5/8" 16 gage tube followed by a 45 mm long transition cone. To form the cone I made a paper template then transfered that to a piece of 16 gage stainless and hand formed it into a rough cone with pliers, hammer and dolly.
+
+image::49-muffler/cone-start-sm.jpg[link={imagesdir}/49-muffler/cone-start.jpg,window=_blank]
+
+With the shape roughed out I tack welded the ends.
+
+image::49-muffler/cone-tacked-sm.jpg[link={imagesdir}/49-muffler/cone-tacked.jpg,window=_blank]
+
+Then finished up with more hammer work and filing. Here's the pattern and the final cone.
+
+image::49-muffler/cone-done-sm.jpg[link={imagesdir}/49-muffler/cone-done.jpg,window=_blank]
+
+With all the pieces formed I spent some time polishing them up. Here are all the parts ready for welding.
+
+image::49-muffler/parts-sm.jpg[link={imagesdir}/49-muffler/parts.jpg,window=_blank]
+
+Welding the transition cone to the muffler inlet. I used Type B Solar Flux on the inside of all the joints.
+
+image::49-muffler/welding-sm.jpg[link={imagesdir}/49-muffler/welding.jpg,window=_blank]
+
+The collector pipe and tail pipe done.
+
+image::49-muffler/welding-done-sm.jpg[link={imagesdir}/49-muffler/welding-done.jpg,window=_blank]
+
+Next came the perforated inner tube. Since the OD of perforated tube was larger than the end cap bore I needed to remember to have the end cap and end ring slipped onto the collector pipe before welding.
+
+image::49-muffler/welding-3-sm.jpg[link={imagesdir}/49-muffler/welding-3.jpg,window=_blank]
+
+To be able to disassemble the muffler I needed this slip joint at the muffler outlet. I made a stainless ring with a 2-1/4" ID to accept the 2-1/4" OD outlet tube and welded the slip ring to the perforated tube. This also shows the ring that will rivet to the end cap welded on.
+
+image::49-muffler/slip-joint-sm.jpg[link={imagesdir}/49-muffler/slip-joint.jpg,window=_blank]
+
+Here's how the pieces all fit together.
+
+image::49-muffler/tail-section-sm.jpg[link={imagesdir}/49-muffler/tail-section.jpg,window=_blank]
+
+To seal the end caps to the shell and the inlet and outlet tubes I used Permatex Ultra Copper RTV sealant, rated to 700 degrees F (371 C).
+
+image::49-muffler/sealer-sm.jpg[link={imagesdir}/49-muffler/sealer.jpg,window=_blank]
+
+This shows the two rivets that attach the tail pipe to the end cap. There is some flex in the joint, and I think three rivets would give a more secure connection.
+
+image::49-muffler/rivets-sm.jpg[link={imagesdir}/49-muffler/rivets.jpg,window=_blank]
+
+For the collector connection I made four loops from 1/8" 308 stainless welding rod.
+
+image::49-muffler/hooks-sm.jpg[link={imagesdir}/49-muffler/hooks.jpg,window=_blank]
+
+Two loops for the collector.
+
+image::49-muffler/hooks-welded-sm.jpg[link={imagesdir}/49-muffler/hooks-welded.jpg,window=_blank]
+
+And one loop on each primary pipe. Exhaust springs come in standard lengths. I chose a 65 mm stainless spring and put the spring loops at 75 mm for a stretch of about 15%.
+
+image::49-muffler/springs-sm.jpg[link={imagesdir}/49-muffler/springs.jpg,window=_blank]
+
+The existing bracket on the muffler shell wouldn't work, so I cut it off and put my own on with an angle to match my sub-frame.
+
+image::49-muffler/bracket-sm.jpg[link={imagesdir}/49-muffler/bracket.jpg,window=_blank]
+
+I just used a bolt and a few washers as a temporary mount until the exhaust work is finished.
+
+image::49-muffler/mount-sm.jpg[link={imagesdir}/49-muffler/mount.jpg,window=_blank]
+
+Here's how the tail section looks. I did some more research into exhaust system design and am now thinking of replacing the straight collector pipe and transition cone with a single 155 mm transition cone that starts right at the collector outlet. I made the tail pipe longer than I thought needed with the intension of trimming it shorter and designing a removable spark arrestor that attaches to the end.
+
+image::49-muffler/done-sm.jpg[link={imagesdir}/49-muffler/done.jpg,window=_blank]
+
+Here's a view from the other side.
+
+image::49-muffler/inside-sm.jpg[link={imagesdir}/49-muffler/inside.jpg,window=_blank]
+
+There were many pieces that needed to fit together and preparing them all and getting them to actually fit together took a lot of effort, but the result sounds really nice and is a lot of fun to listen to while riding.
+
+ORGS Muffler Video: https://youtu.be/VIj9GKm3eqo
+
+-x3300
+
+*slartidbartfast, Jul 28, 2012:*
+
+Sounds great! The suspension looks to be nicely compliant too.
+
+*Clay Spinner, Jul 28, 2012:*
+
+Very nice work... and a great sound!
+
+*bgoodsoil, Jul 29, 2012:*
+
+:eek1 Amazing work, man.
+
+*Caddy82rats, Jul 29, 2012:*
+
++ 1 : I love this work
+
+*x3300, Aug 11, 2012:*
+
+To make riding the bike practical I really needed to have a side stand. I thought it would be an easy thing; a bracket welded to the frame, a tube coming down, a spring to hold it up, but once I got into it I found it much more involved than I thought. First off it needed to look good -- there are so many out there that are just ugly. It would need to be strong enough to hold up the bike, clear the frame, exhaust and rear tire, be at the right angles while both up and down, have a spring sized to hold it up and have that spring's mounting points such that it did hold it up, but also had the proper spring elongation over the entire arc. How far out should the foot be? Self retracting, how to do that?
+
+I started off by cutting a piece of 1/2" diameter PVC plumbing pipe to mock up the stand and study the movement through the arc of travel and what angles the frame mount would need to be at. Once I got a shape and length I thought would work in PVC I took a trip over to the scrap yard an found a length of thick wall 7/8" OD stainless tube I thought would be strong enough to support the weight of the bike. To bend the tube I packed the tube with sand and bent it using this setup on a Hossfeld bender. It was pretty easy to make the bend, so I was worried that the tube wouldn't be strong enough.
+
+image::50-sidestand/bending-sm.jpg[link={imagesdir}/50-sidestand/bending.jpg,window=_blank]
+
+I machined the upper stand end from 1" diameter stainless bar. I did the flats, slot and the hole with a vertical mill as seen here.
+
+image::50-sidestand/milling-sm.jpg[link={imagesdir}/50-sidestand/milling.jpg,window=_blank]
+
+The stand mounts just under the shift lever, so I wanted to keep the profile low as to not get in the way of my boot and effect shifting. To that end I decided on a counter sunk internal hex bolt. I found standard 8 mm rear chain sprocket bolts just about what I wanted. I put an M8x1.25 internal thread on the back tab of the stand end so that a nut on the back would lock the bolt.
+
+To give some more strength at the higher stressed top I welded on a piece of high carbon drill rod to the stainless stand end.
+
+image::50-sidestand/stainless-parts-sm.jpg[link={imagesdir}/50-sidestand/stainless-parts.jpg,window=_blank]
+
+Then pounded the stand end into the stainless tube and welded them together.
+
+image::50-sidestand/welded-sm.jpg[link={imagesdir}/50-sidestand/welded.jpg,window=_blank]
+
+For the frame mount I made up this side stand mount drawing. I initially cut one from 3/16" mild steel plate, which at the time I thought would be strong enough.
+
+image::50-sidestand/mount-drawing-sm.jpg[link={imagesdir}/50-sidestand/mount-drawing.jpg,window=_blank]
+
+To minimize stress on the frame my plan was to weld the side stand mount to a half section of thick wall tube, then weld that half section to the frame such that the welds were at the outer most (lowest stress) points of the lower frame tube. This shows how the mount would weld to the frame. I have the mount tack welded to the half section at the position I wanted.
+
+image::50-sidestand/welding-sm.jpg[link={imagesdir}/50-sidestand/welding.jpg,window=_blank]
+
+Once I got the frame mount welded on and what I had for the stand so far bolted up I found the action of the stand was close to what I wanted, but the 3/16" frame mount would just bend under the weight of the bike. I was really disappointed because I had already invested a lot of effort into the thing and I was still unsure if I could get it to all work out. I hadn't even done anything about the spring, its mounts, the foot, etc. and I was already facing failure.
+
+The disappointment didn't last long and soon turned to revenge. I got a piece of 5/16" (8 mm) leaf spring from the rear suspension of a truck. Even in the annealed state machining this stuff isn't practical. I cut out the rough shape with a hand held plasma cutter then ground it to the final shape. For the bolt hole I used the plasma cutter to pierce a starter hole then annealed the material around the hole with a torch then filed the hole to the needed 8 mm diameter. That old wimpy thing came off.
+
+image::50-sidestand/cut-sm.jpg[link={imagesdir}/50-sidestand/cut.jpg,window=_blank]
+
+This shows the difference in thickness of the mounts and a section of the truck leaf spring I cut the new one from. I welded the new mount on with a lot of filler to get a good attachment to the frame half section.
+
+image::50-sidestand/mounts-sm.jpg[link={imagesdir}/50-sidestand/mounts.jpg,window=_blank]
+
+With the new mount done I turned to working out the foot and spring. For the foot I cut what I thought was a nice shape from some stainless plate and also cut the lower end of the stand to be horizontal to the ground.
+
+image::50-sidestand/foot-sm.jpg[link={imagesdir}/50-sidestand/foot.jpg,window=_blank]
+
+I used this board and aluminum plate to guide the tack welding of the foot so that the flat relief of the foot was parallel to the tire's edge. I put a single tack in this position, then with the stand lowered and the weight of the bike on the foot I put a few more tack welds on to keep it positioned for the final welding.
+
+image::50-sidestand/foot-welding-sm.jpg[link={imagesdir}/50-sidestand/foot-welding.jpg,window=_blank]
+
+I used this string to study how the position of the spring mounts would effect the action of the stand. I wanted to arrange things to get a self-retracting stand.
+
+image::50-sidestand/string-sm.jpg[link={imagesdir}/50-sidestand/string.jpg,window=_blank]
+
+For the upper spring mount I cut a groove in a piece of round stock on a lathe.
+
+image::50-sidestand/spring-mount-sm.jpg[link={imagesdir}/50-sidestand/spring-mount.jpg,window=_blank]
+
+Then welded a small piece of that on the back side of the frame mount at the position I determined from the string study would give me the retracting action I wanted and would also give an acceptable amount of spring elongation at the spring's longest point.
+
+image::50-sidestand/spring-post-sm.jpg[link={imagesdir}/50-sidestand/spring-post.jpg,window=_blank]
+
+To get an idea of what size spring I would need and to try out the action of the stand I used a GS center stand spring and hose clamp as a mock up.
+
+image::50-sidestand/spring-test-sm.jpg[link={imagesdir}/50-sidestand/spring-test.jpg,window=_blank]
+
+There really wasn't enough space at the top of the stand to have a spring there without it looking pretty unsightly. I decided a cleaner look would to run a cable from the upper spring mount down to the lower part of the stand and put the spring behind the stand down there. It took some time to made up this paper pattern for the upper cable mount that would work the way I wanted it to.
+
+image::50-sidestand/cable-end-pattern-sm.jpg[link={imagesdir}/50-sidestand/cable-end-pattern.jpg,window=_blank]
+
+Here are the parts I made up for cable routing. The shorter tube welds to the cable mount and it accepts a stainless cable from a bicycle hand brake lever. The longer tube welds into the bend in the stand to route the cable through the bend and around to the back.
+
+image::50-sidestand/cable-bits-sm.jpg[link={imagesdir}/50-sidestand/cable-bits.jpg,window=_blank]
+
+For the lower spring mount I welded this stainless bolt to the stand then cut it off at a length that would hold the spring.
+
+image::50-sidestand/lower-spring-mount-sm.jpg[link={imagesdir}/50-sidestand/lower-spring-mount.jpg,window=_blank]
+
+I found a couple of springs I thought would work at my local hardware store.
+
+image::50-sidestand/springs-sm.jpg[link={imagesdir}/50-sidestand/springs.jpg,window=_blank]
+
+Here's how I reworked them. The inner one adds a little more force per displacement.
+
+image::50-sidestand/reworked-springs-sm.jpg[link={imagesdir}/50-sidestand/reworked-springs.jpg,window=_blank]
+
+Here's how the cable and spring look with the stand up. I used two aluminum cable ferrules to make a loop that connects the spring and cable.
+
+image::50-sidestand/up-sm.jpg[link={imagesdir}/50-sidestand/up.jpg,window=_blank]
+
+And the stand in the down position.
+
+image::50-sidestand/down-sm.jpg[link={imagesdir}/50-sidestand/down.jpg,window=_blank]
+
+I wanted to have the bike really stable when on the side stand so I put the foot pretty far out to the side. This view shows the stance it has.
+
+image::50-sidestand/stance-sm.jpg[link={imagesdir}/50-sidestand/stance.jpg,window=_blank]
+
+Once again, things took a lot more effort than I had first thought, but I find it really satisfying to see that all stainless stand holding the bike up, and it is so much more convenient that having to always arrange for something to be there when I want to get off the bike.
+
+ORGS Side Stand Video: https://youtu.be/g9Qwp4SzFsk
+
+-x3300
+
+*x3300, Aug 18, 2012:*
+
+I've been doing a lot of work lately to get the bike more road worthy. I found found a good price on a set of TKC-80's so decided to replace the worn ones I had. Here's how they arrived.
+
+image::51-new-boots/package-sm.jpg[link={imagesdir}/51-new-boots/package.jpg,window=_blank]
+
+I recently bought this set of Motion Pro tire irons that I'd try out. They are a little pricey, but I found them really nice to work with.
+
+image::51-new-boots/irons-sm.jpg[link={imagesdir}/51-new-boots/irons.jpg,window=_blank]
+
+I made up this static balancer from some thin cable, two big washers and four furniture drawer rollers. I hang it over the ceiling joist and center the tire between the cables. Allowing the wheel to swing a little overcomes the static friction in the bearing and gives a really accurate balance. I can do down to 1/16 ounce (1.75 gm) repeatably.
+
+image::51-new-boots/balancing-sm.jpg[link={imagesdir}/51-new-boots/balancing.jpg,window=_blank]
+
+I got a selection of wheel weights cheap from the scrap yard. I use masking tape to attach weights to the rim until I find the right amount, then use contact cement to attach them semi-permanently.
+
+image::51-new-boots/weights-sm.jpg[link={imagesdir}/51-new-boots/weights.jpg,window=_blank]
+
+For the rear wheel I made up this adapter. One set of holes are threaded so I can use the wheel bolts to attach it.
+
+image::51-new-boots/axle-sm.jpg[link={imagesdir}/51-new-boots/axle.jpg,window=_blank]
+
+Here's the adapter in use, and shows more detail of the balancer.
+
+image::51-new-boots/adapter-sm.jpg[link={imagesdir}/51-new-boots/adapter.jpg,window=_blank]
+
+I didn't balance the old tires, and can really tell the difference when on the highway around 50 MPH.
+
+-x3300
+
+*Velocipede, Sep 21, 2012:*
+
+Oh,to have your ability and a machine shop to put it to good use.I have read your thread in one sitting,just like a good book that can't be put down. As has already been stated you really have something with those exhaust pipes,beautiful work.I'd love a set on my GSPD.
+
+John
+
+*x3300, Sep 22, 2012:*
+
+I'd like to thank everyone for the kind comments. I'm glad that there are some out there that can enjoy my write-ups.
+
+To ride in the forests and off-road parks around where I live you need a US Forest Service approved spark arrestor, and the rangers are always checking for spark arrestors. To get an understand of what I needed I checked the USFS Spark Arrestor Guide. It said I needed one that was approved by them, and listed in their Guide, so it seems I couldn't just make one myself, even if it met their requirements. It also said the thing had to trap particles down to .023 inch (.584 mm), and have a method to remove accumulated particles.
+
+I did some searching around and found that there are some companies that make add-on muffler end caps that have a USFS approved screen type spark arrestor.
+
+image::52-spark-arrestor/end-cap.jpg[]
+
+I figured I could make something up to test with, and if it worked out I could buy an 'approved' one and fit it to my bike.
+
+To start, I cut off the long tail pipe section I had initially welded on my muffler end cap to a reasonable length and used that extra piece as the body of my arrestor. To make a slip-on connection I used the same method I had used on the muffler to swage one end using this arbor press. I greased things up and the two slid together without much effort.
+
+image::52-spark-arrestor/swage-sm.jpg[link={imagesdir}/52-spark-arrestor/swage.jpg,window=_blank]
+
+I made up a few other pieces from stainless steel and bought some short 38mm stainless exhaust springs.
+
+image::52-spark-arrestor/one-parts-sm.jpg[link={imagesdir}/52-spark-arrestor/one-parts.jpg,window=_blank]
+
+Here's how I secured the screen to the body. Three pop rivets hold the inner ring in place. I figured to replace the screen I would need to drill out the rivets and put new ones in.
+
+image::52-spark-arrestor/one-screen-sm.jpg[link={imagesdir}/52-spark-arrestor/one-screen.jpg,window=_blank]
+
+And the spring mounted slip-fit.
+
+image::52-spark-arrestor/one-installed-sm.jpg[link={imagesdir}/52-spark-arrestor/one-installed.jpg,window=_blank]
+
+I took it out for a highway test and here's what I got back with.
+
+image::52-spark-arrestor/one-blown-sm.jpg[link={imagesdir}/52-spark-arrestor/one-blown.jpg,window=_blank]
+
+To understand things better I did some power runs with my (gloved) hand over the outlet. At 5000 RPM and full throttle there's a huge volume coming out, and it gets real hot.
+
+I did some more searching around and what I found that I thought would work would be to fit some SuperTrapp discs and a SuperTrapp end cap. The discs come in 3", 4" and 5" sizes. I had an old SuperTrapp exhaust for an R100GS that had 7 4" discs on it, an end cap, and a heat shield. To mount the discs on my arrestor body I bored a hole in that end cap the same size as the OD of my arrestor body.
+
+image::52-spark-arrestor/two-bore-sm.jpg[link={imagesdir}/52-spark-arrestor/two-bore.jpg,window=_blank]
+
+I bought 12 more stainless discs and a stainless end cap. I figured 19 discs would at least have enough flow for lower trail riding speeds. The discs have an ID of 61 mm, and if the disc gap is .584 mm, then 19 discs should give an outlet area of about 2126 square mm (19 * 3.14 * 61 * .584), which is just under the area of my 2" tail pipe (3.14 * 52 * 52 / 4 = 2122).
+
+Here are the parts I collected.
+
+image::52-spark-arrestor/two-parts-sm.jpg[link={imagesdir}/52-spark-arrestor/two-parts.jpg,window=_blank]
+
+I trimmed down the length of the arrestor body some and welded the bored end cap on. Here are a few views of the finished arrestor. Its all stainless, so a little heavy.
+
+image::52-spark-arrestor/two-front-sm.jpg[link={imagesdir}/52-spark-arrestor/two-front.jpg,window=_blank]
+
+image::52-spark-arrestor/two-side-sm.jpg[link={imagesdir}/52-spark-arrestor/two-side.jpg,window=_blank]
+
+And the all important markings. The Spark Arrestor Guide has an entry for the SuperTrapp T-102.
+
+image::52-spark-arrestor/approved-sm.jpg[link={imagesdir}/52-spark-arrestor/approved.jpg,window=_blank]
+
+Here's how it looks installed. A little bulky, but I just intend to use it when its required.
+
+image::52-spark-arrestor/two-installed-sm.jpg[link={imagesdir}/52-spark-arrestor/two-installed.jpg,window=_blank]
+
+I did a few test runs with it, and it seems to work OK. The 19 discs make it a little more quiet, especially in the mid and high RPMs. It also seems to not rev up to high RPM as quick with it on, so I guess it is too restrictive. I'm thinking to buy some more disks to experiment with, but for now it is enough for trail riding.
+
+-x3300
+
+*igormortis, Sep 22, 2012:*
+
+Outstanding, as always.
+
+Gotta say that your sidestand is beautiful. An odd thing to praise maybe, but it's really, really nice!
+
+*Toyanvil, Sep 22, 2012:*
+
+WOW
+
+*x3300, Sep 28, 2012:*
+
+I took the bike down to Hollister Hills OHV park for a shake-down ride. I was thinking to ride it there, about 70 miles, but I figured I better be safe and loaded it into the truck. The ranger at the entrance looked at my spark arrestor and said I was OK to come in.
+
+image::53-hollister-hills/truck-sm.jpg[link={imagesdir}/53-hollister-hills/truck.jpg,window=_blank]
+
+Ready for a day of fun.
+
+image::53-hollister-hills/me-sm.jpg[link={imagesdir}/53-hollister-hills/me.jpg,window=_blank]
+
+In general I was more than happy with the way the bike handled in dirt. It jumps really well and is very controllable for such a big bike. As long as there is traction the bike does well. Its great at climbing hills, as long as the rear tire stays hooked up. The biggest problem I had was with deep dust. The bike starts sliding and it is hard to control all the weight. I think real knobbies may help.
+
+I had relatively few problems, and all pretty minor. The battery mounts fell off. I think just some loctite is all that's needed.
+
+image::53-hollister-hills/battery-mount-sm.jpg[link={imagesdir}/53-hollister-hills/battery-mount.jpg,window=_blank]
+
+There seems to be a pin hole leak in the boot. Some RTV sealer should fix it.
+
+image::53-hollister-hills/boot-sm.jpg[link={imagesdir}/53-hollister-hills/boot.jpg,window=_blank]
+
+The plastic coating on the stainless front brake line got shredded. I think the brake line is hanging up on something at full extension.
+
+image::53-hollister-hills/brake-line-sm.jpg[link={imagesdir}/53-hollister-hills/brake-line.jpg,window=_blank]
+
+Need to make a stronger rear fender mount. It didn't like taking so many jumps.
+
+image::53-hollister-hills/fender-sm.jpg[link={imagesdir}/53-hollister-hills/fender.jpg,window=_blank]
+
+Lost a screw from the hang guard mount.
+
+image::53-hollister-hills/guard-sm.jpg[link={imagesdir}/53-hollister-hills/guard.jpg,window=_blank]
+
+The extra weight of the spark arrestor caused the tail pipe connection to become loose. I think I need to add two more rivets to the end cap.
+
+image::53-hollister-hills/muffler-sm.jpg[link={imagesdir}/53-hollister-hills/muffler.jpg,window=_blank]
+
+I bottomed out on the back of the oil pan a few times coming down from big jumps that had whoops on the far side. I'll have to make up a skid plate. The rear spring seems a little soft, so a stiffer one should reduce the bottoming.
+
+image::53-hollister-hills/pan-sm.jpg[link={imagesdir}/53-hollister-hills/pan.jpg,window=_blank]
+
+I kept turning the gas off with my knee. I'll try a putting a left side petcock on the right.
+
+image::53-hollister-hills/tap-sm.jpg[link={imagesdir}/53-hollister-hills/tap.jpg,window=_blank]
+
+The TKC-80s seemed to get chewed up easily.
+
+image::53-hollister-hills/tire-sm.jpg[link={imagesdir}/53-hollister-hills/tire.jpg,window=_blank]
+
+Oil leaked out of the final drive vent when the bike had fallen down on its side. I'll need to make up a hose vent for it.
+
+image::53-hollister-hills/vent-sm.jpg[link={imagesdir}/53-hollister-hills/vent.jpg,window=_blank]
+
+ORGS Donut Video: https://youtu.be/R0C5depXCuk
+
+ORGS Jump Video: https://youtu.be/QuAk78SmH1s
+
+I could survive the day, and so did the bike.
+
+image::53-hollister-hills/done-sm.jpg[link={imagesdir}/53-hollister-hills/done.jpg,window=_blank]
+
+-x3300
+
+*Mr. Vintage, Sep 29, 2012:*
+
+Awesome, great job.
+
+*Padmei, Sep 29, 2012:*
+
+Jeez why did you have to post that vid of the jump? I'm a very impressionable kinda kid:eek1
+
+Now to get the kids skate ramp out on the driveway.
+
+Well done.
+
+*igormortis, Sep 30, 2012:*
+
+Beautiful.
+
+Any observations from riding around with your spark arrestor fitted? I would expect quieter and a change in power delivery, but neither of those things seem like a problem from your videos. Great work!
+
+*One Less Harley, Sep 30, 2012:*
+
+Here's a link to a breather hose I made up, it'll give you some ideas...at least how to improve on it anyway.
+
+*x3300, Oct 7, 2012:*
+
+Over the past month I've been plagued with a lot of drive shaft problems.
+
+When I had welded the extension into the shaft I noticed what looked like some inclusions in one of the welds, but left the repair for later. I decided to take care of that a few weeks ago. I ground out the inclusions with an angle grinder using the edge of the disk. I felt like a dentist working on a tooth. Once I got all the bad parts out I welded up the voids and ground off the excess. To stress relieve the weld joint I heated it to a dull red with a torch then covered the shaft with rags to cool slowly.
+
+image::54-shaft-saga/inclusion-sm.jpg[link={imagesdir}/54-shaft-saga/inclusion.jpg,window=_blank]
+
+Here's the setup I used to check the alignment.
+
+image::54-shaft-saga/shaft-check-sm.jpg[link={imagesdir}/54-shaft-saga/shaft-check.jpg,window=_blank]
+
+The other extension weld looked OK, so I thought I was done with the drive shaft and had a confident feeling about it...
+
+Before my trip to Hollister Hills I tried to do a wheelie over a speed bump to impress onlookers. It ended badly, and needed to bring the bike home in the truck. Here's what I found when I took it apart.
+
+image::54-shaft-saga/broke-sm.jpg[link={imagesdir}/54-shaft-saga/broke.jpg,window=_blank]
+
+The break was at the other weld that had looked OK. There wasn't much weld penetration, and the crack seems to have started at some inclusions below the surface. As I had mentioned, I decided I didn't like the method of using a pin to align the shaft for welding because I thought the hole for the pin could trap air or machining oil that would contaminate the weld and lead to inclusions. I had used a narrow square butt joint for the weld, and I thought I would get sufficient penetration with it.
+
+image::54-shaft-saga/break-sm.jpg[link={imagesdir}/54-shaft-saga/break.jpg,window=_blank]
+
+For the repair I made up this fixture. To get perfect alignment of the V-grooves I finished them with a single pass on a mill.
+
+image::54-shaft-saga/fixture-sm.jpg[link={imagesdir}/54-shaft-saga/fixture.jpg,window=_blank]
+
+Here's the shaft in the fixture. I ground the ends to make a V butt weld joint this time.
+
+image::54-shaft-saga/v-joint-sm.jpg[link={imagesdir}/54-shaft-saga/v-joint.jpg,window=_blank]
+
+I did the weld, more carefully than usual, removed the excess, stress relieved the weld and aligned the shaft and once again thought I was done with the drive shaft...
+
+After coming back from my shake-down ride at Hollister Hills I noticed a clicking sound from inside the swing arm when I moved the bike around. On taking it apart I found one of the welds on the U-joint caps had broken and the cap was coming out of the yoke. I could also see scrape marks on the top inside of the swing arm where something was hitting.
+
+I don't think the torque through the joint was the cause, but more that the swing arm was going beyond its intended limit while bottoming and putting a large downward force on the yoke when the yoke and swing arm came into contact, and this force is what broke the weld and pushed the cap out. I had noticed before that the yoke clearance was very tight when the shock was fully compressed, and I now think there is deflection in the frame or other parts that is allowing the swing arm to more than expected in relationship to the transmission output flange.
+
+I re-set the cap and put a new tack weld on it. While I had the shaft out I also decided to clean up the two extension welds. As can be seen on the far right of this view the weld is under cut is some places, and also has a few stray grind marks around it. I laid new weld beads over all the bad parts. To finish the shaft this time I did the stress relief, aligned it, then turned and polished the shaft on a lathe to get a smooth finish.
+
+image::54-shaft-saga/joint-sm.jpg[link={imagesdir}/54-shaft-saga/joint.jpg,window=_blank]
+
+I also decided to make a spacer for the coupler spring to stiffen up the damper. I had a few pieces of 5 mm thick 6061-T4 aluminum scrap I cut out the spacer from.
+
+image::54-shaft-saga/spacer-sm.jpg[link={imagesdir}/54-shaft-saga/spacer.jpg,window=_blank]
+
+Here's how the spacer looks in the assembled shaft. This view also shows the polished weld.
+
+image::54-shaft-saga/spacer-installed-sm.jpg[link={imagesdir}/54-shaft-saga/spacer-installed.jpg,window=_blank]
+
+To limit the shock travel I made a 3 mm aluminum spacer to put under the rubber bumper of the shock. I didn't take a photo of it though. Because the swing arm is at such an angle I need to jack the back end up to add the swing arm oil.
+
+image::54-shaft-saga/fill-sm.jpg[link={imagesdir}/54-shaft-saga/fill.jpg,window=_blank]
+
+I fixed up the other shake-down problems and I took the bike down to Hollister Hills again for another shake-down. I tried to ride it hard to get things to break, but just found a few minor things not worth reporting.
+
+ORGS MX Video: https://youtu.be/qkKDj9AkBTY
+
+-x3300
+
+*Prutser, Oct 7, 2012:*
+
+What an AMAZING video !
+
+Lot of respect for your build skills.
+
+*Clay Spinner, Oct 7, 2012:*
+
+What a fun looking ride! Well done with all the mods as well... a real accomplishment!
+
+*LukasM, Oct 7, 2012:*
+
+So you've got bike building, metal working and riding skills... Not that's a good combination!!
+
+Really enjoyed reading this thread, thanks for posting.
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

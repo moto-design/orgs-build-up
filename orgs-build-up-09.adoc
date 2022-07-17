@@ -1,0 +1,378 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 9
+
+[big]*The ORGS Build Up Project*
+
+*Page 9*
+
+*x3300, May 19, 2012:*
+
+I had been looking around and collecting different kinds of foam samples to mock up and test the seat with. After some trials I found that a base layer of rebond foam with another layer of firm weight upholstery grade open cell foam over it provides enough bottoming protection from the rebond and enough cushion from the open cell. Here's a view of the bare seat pan.
+
+image::45-seat-foam/bare-pan-sm.jpg[link={imagesdir}/45-seat-foam/bare-pan.jpg,window=_blank]
+
+These are the things I used on the foam. An angle grinder with an 80 grit flapper disk, some coarse sand paper and a block of wood, a hack saw with a 32T blade for cutting the foam into shapes, some 3M Super 77 adhesive spray, and some Three Bond 1521 adhesive. I didn't really use the Three Bond 1521 though.
+
+image::45-seat-foam/tools-sm.jpg[link={imagesdir}/45-seat-foam/tools.jpg,window=_blank]
+
+I just had some strips of rebond foam, so I cut three pieces with the hacksaw and glued them onto the pan with some Super 77 adhesive. I put a slightly thicker piece at the back with the idea of making a kind of stepped profile. I used the angle grinder to flatten the surface and shape the step at the rear. The angle grinder and flapper disk worked really well at shaping the foam, but it was touchy to control. If the disk was not close to flat it would grab into the foam and remove too much.
+
+image::45-seat-foam/1st-glued-sm.jpg[link={imagesdir}/45-seat-foam/1st-glued.jpg,window=_blank]
+
+After I got the base layer shaped I added a layer of firm weight open cell made from three strips.
+
+image::45-seat-foam/2nd-glued-sm.jpg[link={imagesdir}/45-seat-foam/2nd-glued.jpg,window=_blank]
+
+Then used the angle grinder to flatten the top and shape the sides to match the contour of the pan sides.
+
+image::45-seat-foam/roughed-sm.jpg[link={imagesdir}/45-seat-foam/roughed.jpg,window=_blank]
+
+To finish and level the foam I used the sand paper and block of wood. The block sanding worked well to level the surface, but tended to round the corners of the foam as the foam deflected under the sand paper. This rounding didn't happen with the angle grinder. I could get a really sharp corner with it, but found I couldn't control it well enough to smooth a large surface.
+
+image::45-seat-foam/shaped-sm.jpg[link={imagesdir}/45-seat-foam/shaped.jpg,window=_blank]
+
+This view shows the layers and how I shaped the sides to match the seat pan.
+
+image::45-seat-foam/profile-sm.jpg[link={imagesdir}/45-seat-foam/profile.jpg,window=_blank]
+
+I had read a write-up on seat making that recommended having a final layer of soft foam on the seat, so I added a layer of this pink soft weight open cell foam.
+
+image::45-seat-foam/pink-bottom-sm.jpg[link={imagesdir}/45-seat-foam/pink-bottom.jpg,window=_blank]
+
+Here's how it looked on the bike. As can be seen the soft outer foam makes all the corners rounded, and when I tried wrapping some fabric around it to mock a seat cover I found it to look like cheap over-stuffed furniture.
+
+image::45-seat-foam/pink-done-sm.jpg[link={imagesdir}/45-seat-foam/pink-done.jpg,window=_blank]
+
+I tried pealing, shaving, cutting, scraping, but the only way I could remove the outer foam was with a wire wheel mounted in a hand drill. The result on the floor was not pretty. Heres the stripped seat. I made a few gouges at first until I learned to control the wire wheel.
+
+image::45-seat-foam/pink-stripped-sm.jpg[link={imagesdir}/45-seat-foam/pink-stripped.jpg,window=_blank]
+
+I went over it with the flapper disk and sanding block to get the remaining glue off. There is one remaning gouge I need to fill before its ready to cover.
+
+image::45-seat-foam/foam-done-sm.jpg[link={imagesdir}/45-seat-foam/foam-done.jpg,window=_blank]
+
+-x3300
+
+*x3300, May 26, 2012:*
+
+I wanted to put a leather cover on the seat, but wanted to get something that had a good looking grain and some grip in its texture. I stopped by the LeatherWise leather shop in Santa Cruz, CA and talked with owner Ross Levoy. He told me all about leathers, and after looking over his stock I ended up leaving with a four square foot chunk from a black 2 oz. chrome-tanned cowhide skin.
+
+image::46-seat-cover/skin-sm.jpg[link={imagesdir}/46-seat-cover/skin.jpg,window=_blank]
+
+I did a trial fitting of the material and marked off the seam corners.
+
+image::46-seat-cover/trial-fit-sm.jpg[link={imagesdir}/46-seat-cover/trial-fit.jpg,window=_blank]
+
+Then used some taylor's chalk and a rule to layout the seams. This shows the rear panel and its layout.
+
+image::46-seat-cover/layout-sm.jpg[link={imagesdir}/46-seat-cover/layout.jpg,window=_blank]
+
+Since this leather was soft and fairly thin I just used a conventional electric sewing machine to stich the panels together using plain seams.
+
+image::46-seat-cover/sewing-sm.jpg[link={imagesdir}/46-seat-cover/sewing.jpg,window=_blank]
+
+I used some leather specific thread and a conventional #16 needle. I have seen leather specific needles though, and have heard standard nylon thread will work OK. I'll try some leather needles next time, as I did have a little trouble with the thread binding.
+
+image::46-seat-cover/thread-sm.jpg[link={imagesdir}/46-seat-cover/thread.jpg,window=_blank]
+
+Leather is kind of thick and stiff, so to finish the seam I used some Three Bond 1521 adhesive on the seam allowance and adjoining fabric.
+
+image::46-seat-cover/glue-seam-sm.jpg[link={imagesdir}/46-seat-cover/glue-seam.jpg,window=_blank]
+
+Once the glue setup I pounded the seam flat with a rubber mallet which put a nice crease in the leather.
+
+image::46-seat-cover/pound-seam-sm.jpg[link={imagesdir}/46-seat-cover/pound-seam.jpg,window=_blank]
+
+I decided to put a stitch along the allowance to complete the finish, but I think the glue would have been enough to keep the seam flat.
+
+image::46-seat-cover/flat-seam-sm.jpg[link={imagesdir}/46-seat-cover/flat-seam.jpg,window=_blank]
+
+Once I had the cover sewn I used some spray adhesive to glue it down to the foam and seat pan. I ran out of 3M Super 77 Adhesive spray so used some 3M General Trim Adhesive spray. I couldn't really tell any difference between the two.
+
+On the bottom I used plenty of spray and stretched and folded the leather over the corners to get a smooth wrinkle free top. I trimmed down the excess and pounded the folds flat with the rubber mallet. I had planned on using some strips of stiff plastic and pop rivets to hold the underside of the cover from pealing away from the pan, but the 3M adhesive alone seems strong enough for now. I'll add something more if it starts to peal.
+
+image::46-seat-cover/bottom-sm.jpg[link={imagesdir}/46-seat-cover/bottom.jpg,window=_blank]
+
+Here's how it looks on the bike. I now have a custom leather seat to fill the gap behind the tank. It seems a little short when sitting on it, and I think I'd like to have a little padding on the sides too, but I'll need to do some riding with it to make a real judgment.
+
+image::46-seat-cover/seat-done-sm.jpg[link={imagesdir}/46-seat-cover/seat-done.jpg,window=_blank]
+
+I've done a lot of sewing in the past but mostly with nylon and fleece. This was the first major work with leather. I always find sewing very satisfying and recommend it to everyone. Its like welding without the heat, gloves and helmet.
+
+-x3300
+
+*Padmei, May 26, 2012:*
+
+Great write up. Thanks for taking the timeto do this. I agree about the sewing/ metalwork comparison- different skills but same thought processes.
+
+*Zebedee, May 27, 2012:*
+
+Padmei said:
+
+Great write up ... Click to expand...
+
++1
+
+... and it's great to see the build back on track
+
+*mikyheimann, May 28, 2012:*
+
+But you must have an iron butt!!
+
+*x3300, Jun 2, 2012:*
+
+I spent the long holiday weekend finishing up a lot of the small miscellaneous work. All those small jobs ended up taking a lot of time.
+
+To get a 12mm socket on the final drive mounting nuts I needed to grind some of the weld off the lower swingarm stiffener I added.
+
+image::47-forward-motion/grind-sm.jpg[link={imagesdir}/47-forward-motion/grind.jpg,window=_blank]
+
+The longer swingarm would need more oil, so I looked at the specs for the SWB and LWB /5's. The LWB has a 50mm longer swingarm and takes 25cc more oil, so for my arm I added:
+
+orgs oil = 150cc + 125mm * 25cc / 50mm = 212cc
+
+I swapped out the bean can I had overhauled before for another that needed service. I wanted to find a replacement oil seal. The one in the can was marked 12.5 x 20 x 5. After some searching I found that there is a distributor seal kit (part number 969330K) for 1988-1991 Volvo 780 Turbos that has a 12.5 x 20 x 5 seal in it. I ordered a kit to have on hand, but just lubed up and reassembled this can with the old seal.
+
+image::47-forward-motion/bean-can-sm.jpg[link={imagesdir}/47-forward-motion/bean-can.jpg,window=_blank]
+
+I wanted to use some LED turn signals because of their longer 'bulb' life and reduced power, but the GS flasher unit cannot drive the higher impedance LEDs properly. Also, the later model R100GS uses the K-bike controls which use momentary switches to engage the signal and a single momentary switch to cancel. The controller unit is not just a simple thermal flasher relay, but has some more circuitry for the logic needed.
+
+image::47-forward-motion/flasher-sm.jpg[link={imagesdir}/47-forward-motion/flasher.jpg,window=_blank]
+
+It was a little pricey, but as an easy way to get things to work I bought a Kisan Electronics Signal Minder model SM-6. This unit can drive LED signals, and has some other added features.
+
+image::47-forward-motion/signal-minder-sm.jpg[link={imagesdir}/47-forward-motion/signal-minder.jpg,window=_blank]
+
+I was a little disappointed that it wasn't a direct replacement. I wrapped it in tape to insulate the connectors from grounding against the frame and used a tie wrap to attach it. I'll work on a permanent mount for it if I decide to use it, but I may just convert to a simpler system that doesn't use the GS controls.
+
+image::47-forward-motion/minder-mount-sm.jpg[link={imagesdir}/47-forward-motion/minder-mount.jpg,window=_blank]
+
+I bought some Lockhart Phillips short stalk signals and made these slots in my tail light bracket for them. The wires come out the center of the signal mounting bolt, so with a slot I can remove the signals easier.
+
+image::47-forward-motion/rear-signal-sm.jpg[link={imagesdir}/47-forward-motion/rear-signal.jpg,window=_blank]
+
+For a clean look I routed the harness under the back of the fender. It comes out from a hole near the rear rack, then up to the front of the sub-frame.
+
+image::47-forward-motion/tail-light-sm.jpg[link={imagesdir}/47-forward-motion/tail-light.jpg,window=_blank]
+
+I put the front signals on the side of the dash.
+
+image::47-forward-motion/front-signals-sm.jpg[link={imagesdir}/47-forward-motion/front-signals.jpg,window=_blank]
+
+I had a trashed R100GS SupperTrapp exhaust that with some encouragement and bailing wire I got to fit with my swingarm and subframe.
+
+image::47-forward-motion/muffler-sm.jpg[link={imagesdir}/47-forward-motion/muffler.jpg,window=_blank]
+
+Its been a long time since I've had the bike out of the garage, but after checking all the wiring, hooking up the fuel lines, filling the final drive, mounting the battery, etc. I couldn't think of any reason not to bring it out. I used this differential manometer to get the carbs balanced.
+
+image::47-forward-motion/balance-sm.jpg[link={imagesdir}/47-forward-motion/balance.jpg,window=_blank]
+
+I don't have a side stand yet so use this step to prop the bike up.
+
+ORGS 1st Ride Video: https://youtu.be/d9b6zWR_9og
+
+-x3300
+
+*hardwaregrrl, Jun 2, 2012:*
+
+Whoooo-hooooo!!!!!!
+
+*Padmei, Jun 2, 2012:*
+
+cool daddio
+
+*mr_magicfingers, Jun 3, 2012:*
+
+That ride must have felt good
+
+*Zebedee, Jun 3, 2012:*
+
+Nice to see the bike mobile, especially after the great build report ...
+
+John
+
+*Tengai In Toronto, Jun 3, 2012:*
+
+I'm proud of myself after changing my own brake pads. I might even brag to my girlfriend. But this? This is just ridiculous.
+
+*x3300, Jun 23, 2012:*
+
+The exhaust system is one of the things that really makes a bike's character, and I figured I'd like to have one that was distinctive. I'd need something that would work with my repositioned foot pegs and custom sub-frame. The idea of custom stainless sounded cool, but I was a bit unsure if I could make that happen; two tubes snaking around the bike, close to the frame, fitting into the head, no leaks, ground clearance, coming together, welded stainless, what to buy.
+
+The info I found on exhaust system design was mainly for cars. Some of it was useful, but some was clearly incorrect. A good one on welding is here at Burns Stainless.
+
+For my use I want good low and mid-range power so I decided to make some long primary tubes close to the 38 mm outside diameter of the stock GS. I studied the catalog at Columbia River Mandrel Bending and found a selection of 1.5" OD 16 gage 304 stainless bends. 1.5" equals 38.1 mm, and I though I could do something to get that to fit into the 38 mm exhaust port. To get an idea of what would work I made up some paper patterns. This one is based on a 2.25" radius 180 degree bend mated to a 3.0" radius 45 degree.
+
+image::48-equal-length-tubes/patern-sm.jpg[link={imagesdir}/48-equal-length-tubes/patern.jpg,window=_blank]
+
+After a lot of thought and mockups I put in an order for a selection of bends. I ended up not using the big U bends seen. Once I received the bends I thought the 16 gage was a little heavy, but indestructible. Maybe 18 gage would be better.
+
+image::48-equal-length-tubes/bends-sm.jpg[link={imagesdir}/48-equal-length-tubes/bends.jpg,window=_blank]
+
+I used the solid sealing ring as a guide and filed the tube until it fit into the exhaust port.
+
+image::48-equal-length-tubes/port-file-sm.jpg[link={imagesdir}/48-equal-length-tubes/port-file.jpg,window=_blank]
+
+Here's a stock R100GS exhaust header. I wanted to not make mine any more vulnerable, but saw no reason to match the shape of this one.
+
+image::48-equal-length-tubes/stock-left-sm.jpg[link={imagesdir}/48-equal-length-tubes/stock-left.jpg,window=_blank]
+
+I used this setup to make sure the upper end of the 45 degree bend intersected the U bend at a tangent. The larger board in back extends out parallel to the plane of the U bend.
+
+image::48-equal-length-tubes/right-fitting-sm.jpg[link={imagesdir}/48-equal-length-tubes/right-fitting.jpg,window=_blank]
+
+Once I got the lower end of the 45 to follow the frame where I wanted it and the upper end to be in the same plane and touching the U bend I marked where the cuts were needed. I used the geometry of my setup to get the cut point of the 45. The tubes are 1.5" diameter, and at a tangent to the U bend, which has an outside radius of 3" (2.25 + 1.5 / 2 = 3), so I figured to move the 45 bend back along the axis of its lower end until it mated with the U bend I would need to move the cut up by 1.5", the green mark shown.
+
+image::48-equal-length-tubes/right-layout-sm.jpg[link={imagesdir}/48-equal-length-tubes/right-layout.jpg,window=_blank]
+
+I used this setup with the 3" side of some 1-2-3 blocks to make a mark the was perpendicular to the bend. The tubes have a 2.25" centerline bend and 1.5" OD, so any centerline radius would be 3" (2.25 + 1.5 / 2 = 3) above an outside tangent.
+
+image::48-equal-length-tubes/scribe-sm.jpg[link={imagesdir}/48-equal-length-tubes/scribe.jpg,window=_blank]
+
+Here's how I got the inside.
+
+image::48-equal-length-tubes/inner-scribe-sm.jpg[link={imagesdir}/48-equal-length-tubes/inner-scribe.jpg,window=_blank]
+
+I tried using a hacksaw, but I guess the stainless would work harden and it was really tough going. I ended up using this abrasive cut off tool then finishing with some grinding and filing as needed to get the joint fitted without gaps.
+
+image::48-equal-length-tubes/cutting-sm.jpg[link={imagesdir}/48-equal-length-tubes/cutting.jpg,window=_blank]
+
+Even though I still had a huge amount ahead of me I was really happy to get this far.
+
+image::48-equal-length-tubes/header-done-sm.jpg[link={imagesdir}/48-equal-length-tubes/header-done.jpg,window=_blank]
+
+On the right I needed to route around the oil cooler lines. It seems equal length header tubes have desirable performance properties, and I read they are a source of pride for header builders, so I figured I needed them too.
+
+I measured that the right cylinder is 40 mm in front of the left, but in my design I wanted the muffler on the left, so the right tube would need to cross over to the left side in back of the trans. That cross over adds more than the 80 mm gained from cylinder offset, so I made the right tube as short I could while clearing the oil lines. To get the tight route I decided I would arrange it so that to change the filter I could remove the rear muffler section, loosen the exhaust port nut and swing the right header tube out enough to access the filter.
+
+To fit the right side I used the cut part of the left hand U bend and a new 2.25" U bend with one end cut down to a minimum. If the mating ends were in the same plane a straight edge touching both would naturally be at tangents, so it was easy to mark the cuts and measure the length of tube needed to connect the bends.
+
+image::48-equal-length-tubes/left-layout-sm.jpg[link={imagesdir}/48-equal-length-tubes/left-layout.jpg,window=_blank]
+
+Stainless steel oxidizes at welding temperatures, so special care should be taken to avoid oxidation of the back side of the weld. The standard methods are to either back purge while welding by sealing the tube ends and filling the tubes with welding gas, or use a stainless welding flux. I used this Type B Solar Flux. I found that a contact lens case makes a nice mixing container. The methyl alcohol that it needs to be mixed with evaporates quickly and this case can be closed up while working.
+
+image::48-equal-length-tubes/flux-sm.jpg[link={imagesdir}/48-equal-length-tubes/flux.jpg,window=_blank]
+
+The flux seems like a vitreous enamel that melts and forms a liquid seal that crystallizes when it cools. Here's the back side after a weld.
+
+image::48-equal-length-tubes/melted-flux-sm.jpg[link={imagesdir}/48-equal-length-tubes/melted-flux.jpg,window=_blank]
+
+Headers tacked.
+
+image::48-equal-length-tubes/headers-sm.jpg[link={imagesdir}/48-equal-length-tubes/headers.jpg,window=_blank]
+
+To mock up the tubes I used these sleeves made from plastic drink bottles and hose clamps. They didn't make super solid joints, but it made things a lot easier. With the clear plastic I could center the hose clamp over the joint.
+
+image::48-equal-length-tubes/sleeve-sm.jpg[link={imagesdir}/48-equal-length-tubes/sleeve.jpg,window=_blank]
+
+I wanted to route the tubes in close to the frame, but there are just a few bends available in the catalog to work with, and that really complicates the process. I spent a lot of time fitting the rear parts, getting a nice route where both tubes would come together in the back where I wanted them to.
+
+image::48-equal-length-tubes/rear-fitting-sm.jpg[link={imagesdir}/48-equal-length-tubes/rear-fitting.jpg,window=_blank]
+
+I used this piece of larger tube to mark straight tubes for cutting.
+
+image::48-equal-length-tubes/tube-scribe-sm.jpg[link={imagesdir}/48-equal-length-tubes/tube-scribe.jpg,window=_blank]
+
+I chiseled out a few threads in this hose clamp to help tack weld in tight places.
+
+image::48-equal-length-tubes/tack-clamp-sm.jpg[link={imagesdir}/48-equal-length-tubes/tack-clamp.jpg,window=_blank]
+
+At first it was hard accept that it was welded together, but it just didn't work. After breaking a dozen joints or so I found I would do it without hesitation just to try a minor adjustment.
+
+image::48-equal-length-tubes/break-sm.jpg[link={imagesdir}/48-equal-length-tubes/break.jpg,window=_blank]
+
+I laid the bike over like this while working. I had a stool positioned on each side so I could flip it back and forth as needed.
+
+image::48-equal-length-tubes/lean-sm.jpg[link={imagesdir}/48-equal-length-tubes/lean.jpg,window=_blank]
+
+I used some wide boards against the rear tire to get the tube ends parallel to the bike's centerline and positioned to clear the tire. To check the tube length I laid a piece of string over the centerline of the tubes.
+
+image::48-equal-length-tubes/board-sm.jpg[link={imagesdir}/48-equal-length-tubes/board.jpg,window=_blank]
+
+To make it easy to get the left tube out of the cylinder head I wanted to route the left tube such that it would clear the foot peg when swung out.
+
+image::48-equal-length-tubes/peg-bend-sm.jpg[link={imagesdir}/48-equal-length-tubes/peg-bend.jpg,window=_blank]
+
+image::48-equal-length-tubes/peg-clearance-sm.jpg[link={imagesdir}/48-equal-length-tubes/peg-clearance.jpg,window=_blank]
+
+Once I had the tube routing done and all joints tacked I measured the tube lengths and found I needed to add 28 mm to the left tube. I had planned on needing this adjustment and arranged for the left tube to be positioned such that I could add 14 mm to the tube where it fits into the exhaust port and add another 14 mm to a straight section under the cylinder to make up for the 28 mm difference but leave the rear routing of the tube unchanged. The photo of the melted flux shows the 14 mm end extension.
+
+As received, the tubes have a lot of tooling marks from the bending process. Once I got the tubes tack welded together I spent some time polishing before doing the final welds. Here's the setup I used to do the final welds. With the round profile of the tubes I found I needed to be very careful to keep the torch near perpendicular to the tube to get proper gas coverage to avoid oxidation.
+
+image::48-equal-length-tubes/welding-sm.jpg[link={imagesdir}/48-equal-length-tubes/welding.jpg,window=_blank]
+
+The finished equal length tubes.
+
+image::48-equal-length-tubes/tubes-sm.jpg[link={imagesdir}/48-equal-length-tubes/tubes.jpg,window=_blank]
+
+To do a final more accurate check I taped up the front ends and filled each tube with water using this graduated cylinder. I was really surprised to find that the difference was within the accuracy of the cylinder, so within about 1 ml. The volume was 1100 ml each, just over two displacements of the engine's 490 cc cylinder.
+
+image::48-equal-length-tubes/fill-sm.jpg[link={imagesdir}/48-equal-length-tubes/fill.jpg,window=_blank]
+
+I used this expander on the right tube to get a good seal at the exhaust port. The short tube end was drawn smaller near the bend.
+
+image::48-equal-length-tubes/expander-sm.jpg[link={imagesdir}/48-equal-length-tubes/expander.jpg,window=_blank]
+
+Here are a few views of the finished tubes installed.
+
+image::48-equal-length-tubes/end-done-sm.jpg[link={imagesdir}/48-equal-length-tubes/end-done.jpg,window=_blank]
+
+image::48-equal-length-tubes/left-done-sm.jpg[link={imagesdir}/48-equal-length-tubes/left-done.jpg,window=_blank]
+
+image::48-equal-length-tubes/right-done-sm.jpg[link={imagesdir}/48-equal-length-tubes/right-done.jpg,window=_blank]
+
+Stainless steel is cool to work with, its really nice to get it polished up.
+
+At the start I didn't know what the outcome would be, and it was a lot of work, much more than I thought, but when I look at the result I am very satisfied with my exhaust so far.
+
+-x3300
+
+*Padmei, Jun 23, 2012:*
+
+Wow:eek1 There is a lot of work in that. Nice work.
+
+*villageidiot, Jun 23, 2012:*
+
+beautiful pipes.
+
+now all you need to do is take them to a tubing place like advanced tube in huntington beach and they can bend that up on a computer inside mandrel bender.
+
+im sure people would love to have a set of pipes like that
+
+*bpeckm, Jun 23, 2012:*
+
+At the start I didn't know what the outcome would be, and it was a lot of work, much more than I thought, but when I look at the result I am very satisfied with my exhaust so far. Click to expand...
+
+wow!
+
+*mr_magicfingers, Jun 24, 2012:*
+
+That's a serious amount of work, and fascinating to follow along with the process. This bike really is going to be a complete one-off labour of love.
+
+*Jon-Lars, Jun 24, 2012:*
+
+Awesome! That is some nice fab work, once again!
+
+*Gimmeslack, Jun 25, 2012:*
+
+Schweeeeet!!!
+
+*datchew, Jun 25, 2012:*
+
+you're an animal.
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

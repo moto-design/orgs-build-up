@@ -1,0 +1,489 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 4
+
+[big]*The ORGS Build Up Project*
+
+*Page 4*
+
+*fishkens, Aug 21, 2010:*
+
+Wowza. So far you've done a few things that I've done or had on my list for a long time (relocated oil cooler with earles fittings, Acerbis nylon tank, new headlight, gauges, etc.) and about a million things I never dreamed of. I'm fascinated.
+
+Thanks for the write up.
+
+*AirheadGS, Aug 22, 2010:*
+
+Nice work! Thanks for posting the dimensions for the shim plate. You might want to put in a night mode on the LEDs now. I changed out all my bulbs to LEDs and the high beam turned out to be too bright for night, and I still have not fixed it.
+
+*x3300, Aug 28, 2010:*
+
+The Trail Tech computer I'll use has its own reed switch speed sensor, so I won't need the trans speedo cable. I also wanted to arrange a trans vent hose to both avoid the OE hollow trans bolt and to have the ability to put the hose into the air box to draw moisture out of the trans when water gets in there from a river crossing or whatever.
+
+I made up this trans vent plug from aluminum. Also shown is the stock trans plug that attaches the speedo cable.
+
+image::24-trans-vent/trans-vent-parts-sm.jpg[link={imagesdir}/24-trans-vent/trans-vent-parts.jpg,window=_blank]
+
+This is an updated trans vent drawing. I haven't yet made one to verify the updates, but I think it should be OK.
+
+image::24-trans-vent/trans-vent-drawing-sm.jpg[link={imagesdir}/24-trans-vent/trans-vent-drawing.jpg,window=_blank]
+
+I measured the trans hole as 19.0 mm. The design uses a 1/8 NPT hose barb fitting for the outlet, but to keep the plug's profile low I decided to turn the threads of the hose fitting down and just epoxy the fitting into the plug. I put a metric 16 x 2.0 o-ring on the bottom of the plug to keep oil from seeping up and out of the fastening bolt and the top of the plug.
+
+O-rings seal by being squeezed between mating parts, the terms 'squeeze' or 'crush' are generally used here, and is expressed as a percentage of the o-ring cross-section. Generally, for a static cylinder plug like this a crush of around 20%+ is recommended.
+
+The machined edges of the trans, both at the hole's opening and at the edge formed by the cross drilling of the fastening bolt were sharp and made it difficult to install the plug without cutting the o-ring at 20%, so I reduced the crush to about 17% by cutting the groove deeper. I also put a chamfer on the trans opening, but it was still a careful operation to install the greased plug.
+
+Here's the assembled plug.
+
+image::24-trans-vent/trans-vent-sm.jpg[link={imagesdir}/24-trans-vent/trans-vent.jpg,window=_blank]
+
+And the plug installed in the trans.
+
+image::24-trans-vent/trans-vent-installed-sm.jpg[link={imagesdir}/24-trans-vent/trans-vent-installed.jpg,window=_blank]
+
+-x3300
+
+*nella, Aug 28, 2010:*
+
+Very nice work!
+
+Scott
+
+*x3300, Sep 2, 2010:*
+
+There have been a few glimpses in past posts that there is just a bare hub where the front wheel should be. Things finally came together to get that taken care of.
+
+image::25-front-wheel-build/wheel-missing-sm.jpg[link={imagesdir}/25-front-wheel-build/wheel-missing.jpg,window=_blank]
+
+I put in an order and this box arrived.
+
+image::25-front-wheel-build/rim-box-sm.jpg[link={imagesdir}/25-front-wheel-build/rim-box.jpg,window=_blank]
+
+Inside was a shiny new 21" tubeless rim.
+
+image::25-front-wheel-build/new-rim-sm.jpg[link={imagesdir}/25-front-wheel-build/new-rim.jpg,window=_blank]
+
+Older rims were marked Akrnot, Spain, but this is marked Behr, Germany. The markings are sand blasted on.
+
+image::25-front-wheel-build/rim-detail-sm.jpg[link={imagesdir}/25-front-wheel-build/rim-detail.jpg,window=_blank]
+
+I wanted to make up something distinctive and decided to try some powder coat. A little research told me that polyurethane powder would be well suited for wheels, and I found this 'Black Cat' polyurethane powder from Caswell Plating. I also got a roll of high-temp powder coat masking tape from them.
+
+image::25-front-wheel-build/powder-sm.jpg[link={imagesdir}/25-front-wheel-build/powder.jpg,window=_blank]
+
+My first real attempt at powder coating. I was really happy with the result. I masked off the bearing bores to keep the coating out and applied two heavy coats.
+
+image::25-front-wheel-build/hub-sm.jpg[link={imagesdir}/25-front-wheel-build/hub.jpg,window=_blank]
+
+I made up this bearing driver to install the wheel bearings in the hub.
+
+image::25-front-wheel-build/bearing-driver-sm.jpg[link={imagesdir}/25-front-wheel-build/bearing-driver.jpg,window=_blank]
+
+To prepare the rim for coating I needed to sand blast the polished finish off the new rim. It was a hard thing to bring myself to do considering the time I have spent polishing GS rims, but once I got the rim in the sandblaster and pulled the trigger I went at it with determination. The blasted rim.
+
+image::25-front-wheel-build/rim-blasted-sm.jpg[link={imagesdir}/25-front-wheel-build/rim-blasted.jpg,window=_blank]
+
+I sent out inquiries for R100GS spokes to both Buchanan's Spoke & Rim and The Devon Rim Company. I received a very queer reply from Buchanan's recommending spokes threaded on both ends and 80 nipples per wheel.
+
+Doug Richardson of Devon Rim seemed to understand what I needed and even with shipping from the UK and a currency exchange fee gave me a better quote than Buchanan's. The only difficulty I had with Devon Rim was their inability to do credit card sales. I need to send them a personal check, which I found a bit out of date. All went well though, and these polished stainless spokes arrived in a small heavy package.
+
+image::25-front-wheel-build/spokes-sm.jpg[link={imagesdir}/25-front-wheel-build/spokes.jpg,window=_blank]
+
+The powder coat oven I have access to is not big enough to fit a 21" front rim, so I needed to make up some way to heat the rim to 390 degrees Fahrenheit and hold that temperature for 15 minutes. My solution was to heat the rim with two propane torches while I spun it on a wheel stand. Here's my setup.
+
+image::25-front-wheel-build/rim-cure-setup-sm.jpg[link={imagesdir}/25-front-wheel-build/rim-cure-setup.jpg,window=_blank]
+
+I found a discarded bead frame rail in a dumpster that I used for the stand. I just did a very quick fab job cutting the sections and welded them together. I laced four spokes into the wheel, just enough to support the rim as I turned it gently. The torches are propped in position by large c-clamps.
+
+I needed to keep both torches at full to get the rim to come up to temperature. I think three torches would work better.
+
+image::25-front-wheel-build/curring-sm.jpg[link={imagesdir}/25-front-wheel-build/curring.jpg,window=_blank]
+
+I used this infrared thermometer from Harbor Freight to monitor the rim temperature.
+
+image::25-front-wheel-build/temp-check-sm.jpg[link={imagesdir}/25-front-wheel-build/temp-check.jpg,window=_blank]
+
+Anyway, after two coats and lots of spinning I was really surprised at what came out.
+
+image::25-front-wheel-build/wheel-coated-sm.jpg[link={imagesdir}/25-front-wheel-build/wheel-coated.jpg,window=_blank]
+
+After getting the rim coated I had everything needed to start the wheel build. I used copper based anti-seize on the spoke threads and the hub nipple bores.
+
+image::25-front-wheel-build/wheel-parts-sm.jpg[link={imagesdir}/25-front-wheel-build/wheel-parts.jpg,window=_blank]
+
+Lacing the wheel was pretty straight forward. Since the brake caliper is mounted on the left I laced the hub with the hub markings on the right so the markings would be visible as on the original wheel.
+
+To get a close to equal initial spoke length I used this M3 screw with nuts as a depth gauge through the top of the nipple. Also shown here are some grub screws. I ended up not using these. I'll see how things work out without them.
+
+image::25-front-wheel-build/depth-gauge-sm.jpg[link={imagesdir}/25-front-wheel-build/depth-gauge.jpg,window=_blank]
+
+To keep track of where I was I put these marks on the wheel. The tape on the rim with the red circle marks the axial high point. The blue was to mark the rim weld.
+
+image::25-front-wheel-build/marks-sm.jpg[link={imagesdir}/25-front-wheel-build/marks.jpg,window=_blank]
+
+Here are the tools I used to build the wheel. A dial indicator, a torque wrench, masking tape and markers.
+
+image::25-front-wheel-build/tools-sm.jpg[link={imagesdir}/25-front-wheel-build/tools.jpg,window=_blank]
+
+Here's how I setup the dial indicator. It was a little tiring to bend over to read it though. I put a little grease on the rim to lubricate where the dial indicator plunger slid on the rim. I didn't want to put the indicator on the outside of the rim for fear of scratching that finish.
+
+image::25-front-wheel-build/indicator-sm.jpg[link={imagesdir}/25-front-wheel-build/indicator.jpg,window=_blank]
+
+After I got the radial and axial run-out in control I set the dish with this straight edge.
+
+image::25-front-wheel-build/dish-sm.jpg[link={imagesdir}/25-front-wheel-build/dish.jpg,window=_blank]
+
+In the end I had a radial run-out of 0.7 mm and an axial run-out of 0.4 mm. The BMW service manual gives a factory tolerance of 1.0 mm and a service limit of 1.3 mm for both.
+
+Here's the finished wheel with a TKC-80 mounted.
+
+image::25-front-wheel-build/wheel-installed-sm.jpg[link={imagesdir}/25-front-wheel-build/wheel-installed.jpg,window=_blank]
+
+I can now finally after many months roll the bike around.
+
+-x3300
+
+*Padmei, Sep 3, 2010:*
+
+Far out nice rims.
+
+*NordieBoy, Sep 3, 2010:*
+
+Nicely done.
+
+*Gimmeslack, Sep 3, 2010:*
+
+This is frikkin' amazing. Brilliant hillbilly engineering!!
+
+x3300 said:
+
+The powder coat oven I have access to is not big enough to fit a 21" front rim, so I needed to make up some way to heat the rim to 390 degrees Fahrenheit and hold that temperature for 15 minutes. My solution was to heat the rim with two propane torches while I spun it on a wheel stand. Here's my setup.
+
+I found a discarded bead frame rail in a dumpster that I used for the stand. I just did a very quick fab job cutting the sections and welded them together. I laced four spokes into the wheel, just enough to support the rim as I turned it gently. The torches are propped in position by large c-clamps.
+
+I needed to keep both torches at full to get the rim to come up to temperature. I think three torches would work better.
+
+I used this infrared thermometer from Harbor Freight to monitor the rim temperature.
+
+Anyway, after two coats and lots of spinning I was really surprised at what came out.
+
+-x3300 Click to expand...
+
+*rediRrakaD, Sep 3, 2010:*
+
+Once again a creative solution . Thanks for posting. S.
+
+*datchew, Sep 3, 2010:*
+
+black rims and TKC-80's.
+
+I'm seeing a trend developing here. Real nice work so far. I'm enjoying watching.
+
+*One Less Harley, Sep 3, 2010:*
+
+wish I had known you needed a rim as I could have sold you a good used one for half of BMW price. To late as I sent the rim and hub to have a tube rim laced to a GS front hub.
+
+*x3300, Sep 19, 2010:*
+
+I needed to make up a long brake line that routes around the big Trail Tech race lamp.
+
+The R1200RT caliper I'm using had a broken off bleeder, so I figured it would be a good time to fix it. I bought a new bleeder and removed the broken stub with a bolt extractor. I heated the caliper around the bleeder with a torch to expand the aluminum.
+
+image::26-brake-line/extractor-sm.jpg[link={imagesdir}/26-brake-line/extractor.jpg,window=_blank]
+
+I got a few different kinds of hose to make up the brake line. Also shown is the bulk braided brake hose.
+
+image::26-brake-line/hose-sm.jpg[link={imagesdir}/26-brake-line/hose.jpg,window=_blank]
+
+I used Earl's Speed Flex -3 hose and Speed Seal hose ends to makeup the line. Details of its use have been covered elsewhere. To get some rigidity in the run between the mount at the top of the fork protector and the line guide I used some stiff plastic hose over the brake line.
+
+When the fork compressed a sharp bend was forming at the upper hose end. I was worried that over time the brake hose Teflon liner may fail here due to fatigue so I used some flexible hose over the brake hose there to reduce the the stress. I used some heat shrink tubing to seal the joints and hold things together. The banjo bolts are just OE BMW (M10x1.0x18).
+
+image::26-brake-line/finished-line-sm.jpg[link={imagesdir}/26-brake-line/finished-line.jpg,window=_blank]
+
+The CRF has a plastic brake line guide that mounts close to the center of the lower triple clamp. It was not possible to use this with the Trail Tech Race Lamp so I made up a guide from aluminum that mounts to the fork upper with a large hose clamp. For a trim look I used a European spec clamp that has the thinner band width.
+
+image::26-brake-line/guide-sm.jpg[link={imagesdir}/26-brake-line/guide.jpg,window=_blank]
+
+Here's how the guide mounts to the fork. I made the hole big enough to slide a hose end through, but since there's no split in the guide I'll need to remove a hose end from either the master cylinder or the caliper to get the guide off the line.
+
+image::26-brake-line/guide-installed-sm.jpg[link={imagesdir}/26-brake-line/guide-installed.jpg,window=_blank]
+
+After getting the line on and the system bled I found that two of the caliper pistons were sticky, so I took the caliper apart to clean it up and found some build up on those pistons. The seals didn't show any wear so I didn't replace them.
+
+This caliper uses internal dust seals, as apposed to the external seal of the OE R100GS caliper. I think this internal seal design would be effected by dirt riding more than the external seal design.
+
+image::26-brake-line/caliper-sm.jpg[link={imagesdir}/26-brake-line/caliper.jpg,window=_blank]
+
+This photo shows the seal grooves of the caliper body. The inner groves are for the pressure seals, and the outer for the dust seals.
+
+image::26-brake-line/grooves-sm.jpg[link={imagesdir}/26-brake-line/grooves.jpg,window=_blank]
+
+After the cleanup the caliper worked better. Heres a view of the lower line routing.
+
+image::26-brake-line/done-sm.jpg[link={imagesdir}/26-brake-line/done.jpg,window=_blank]
+
+-x3300
+
+*x3300, Sep 24, 2010:*
+
+I saw this R100RT monolever arm up for sale so I figured I'd see what could be done with it.
+
+image::27-monolever-arm/new-arm-sm.jpg[link={imagesdir}/27-monolever-arm/new-arm.jpg,window=_blank]
+
+image::27-monolever-arm/arm-inside-sm.jpg[link={imagesdir}/27-monolever-arm/arm-inside.jpg,window=_blank]
+
+Here are a few shots that compare the parlever arm to the monolever.
+
+image::27-monolever-arm/compare-arm-sm.jpg[link={imagesdir}/27-monolever-arm/compare-arm.jpg,window=_blank]
+
+image::27-monolever-arm/compare-brake-face-sm.jpg[link={imagesdir}/27-monolever-arm/compare-brake-face.jpg,window=_blank]
+
+image::27-monolever-arm/compare-brake-side-sm.jpg[link={imagesdir}/27-monolever-arm/compare-brake-side.jpg,window=_blank]
+
+The GS wheel fitted to the monolever arm. There's about a 20 mm gap betwen the hub and the final drive.
+
+image::27-monolever-arm/wheel-offset-sm.jpg[link={imagesdir}/27-monolever-arm/wheel-offset.jpg,window=_blank]
+
+image::27-monolever-arm/gripster-clearance-sm.jpg[link={imagesdir}/27-monolever-arm/gripster-clearance.jpg,window=_blank]
+
+I did some measurements to get an idea of wheel travel limits with the monolever arm. In both the topped-out and bottomed-out case the limiting factor was the u-joint rubbing on the inside of the swingarm.
+
+image::27-monolever-arm/topped-out-sm.jpg[link={imagesdir}/27-monolever-arm/topped-out.jpg,window=_blank]
+
+image::27-monolever-arm/half-sm.jpg[link={imagesdir}/27-monolever-arm/half.jpg,window=_blank]
+
+image::27-monolever-arm/bottomed-out-sm.jpg[link={imagesdir}/27-monolever-arm/bottomed-out.jpg,window=_blank]
+
+To get the drive shaft out of the swingarm I made up this spring compressor. The threaded parts extra long so it will work with longer swingarms.
+
+image::27-monolever-arm/compressor-sm.jpg[link={imagesdir}/27-monolever-arm/compressor.jpg,window=_blank]
+
+Here's the compressor in action.
+
+image::27-monolever-arm/compressing-sm.jpg[link={imagesdir}/27-monolever-arm/compressing.jpg,window=_blank]
+
+The u-joint was going bad so I'll need to replace it. I pressed the bearing caps out with this press, but I think just the screw of a bench vise would give enough force.
+
+image::27-monolever-arm/pressing-sm.jpg[link={imagesdir}/27-monolever-arm/pressing.jpg,window=_blank]
+
+Once the bearing cap was pressed out as much as it could be I grabbed the end of it with a bench vise and hammered the yoke off it.
+
+image::27-monolever-arm/joint-removal-sm.jpg[link={imagesdir}/27-monolever-arm/joint-removal.jpg,window=_blank]
+
+The disassembled arm and shaft.
+
+image::27-monolever-arm/mono-parts-sm.jpg[link={imagesdir}/27-monolever-arm/mono-parts.jpg,window=_blank]
+
+I did this mock-up to see where things could go.
+
+image::27-monolever-arm/lt-mockup-sm.jpg[link={imagesdir}/27-monolever-arm/lt-mockup.jpg,window=_blank]
+
+-x3300
+
+*fishkens, Sep 24, 2010:*
+
+Neato. Looking forward to the next update.
+
+Thanks.
+
+*rediRrakaD, Sep 25, 2010:*
+
+X303,
+
+Heading in this direction???
+
+image::dr-mono-arm.jpg[]
+
+*x3300, Oct 1, 2010:*
+
+rediRrakaD, whether or not we have realized it yet, I think we are all heading there.
+
+I took a trip over to the scrap yard to look around for some stock I'll need while working on the monolever arm.
+
+Here's what I found from the left; two 3/4" hardened bolts for the shaft, one of which I hoped would work, a section of 2"x1/16" tube for a cross brace, a rusty piece of 1" square tube for a fixture brace, and a section of 3"x2"x3/16" rectangular tube to make up the main part of the fixture.
+
+image::28-swingarm-fixture/fixture-stock-sm.jpg[link={imagesdir}/28-swingarm-fixture/fixture-stock.jpg,window=_blank]
+
+My idea was to have a T-shaped fixture made of heavy gauge rectangular tube that would clamp the front of the swingarm at the swingarm pivot bearings, and then to have an indexable end plate that duplicates the final drive mounting pattern to hold the rear of the arm. The indexing of the end plate would allow it to hold swingarms of differing lengths.
+
+I made up these swingarm fixture drawings to work with:
+
+  bearing plug drawing  http://stuff.gotdns.org/bike/orgs-build-up/28-swingarm-fixture/bearing-plug.dxf
+  angle plate drawing   http://stuff.gotdns.org/bike/orgs-build-up/28-swingarm-fixture/angle-plate.dxf
+  main arm drawing      http://stuff.gotdns.org/bike/orgs-build-up/28-swingarm-fixture/main-arm.dxf
+
+The main arm acts as a stable base for the other parts and allows indexing of the angle plate at 25mm increments. Arms of 0, 50, 75, 100, and 125mm. I don't think 25mm worth the effort, and the two index holes at 50mm were actually an error in my drawing that I didn't catch until after I got the machining done.
+
+image::28-swingarm-fixture/main-arm-drawing-sm.jpg[link={imagesdir}/28-swingarm-fixture/main-arm-drawing.jpg,window=_blank]
+
+The angle plate duplicates the mounting pattern of the final drive and holds the rear of the swingarm in position. The lower section of the plate has two 10mm chromed pins pressed in that allow precision positioning of the plate on the main arm. The pins provide the alignment, and two 13mm bolts provide the attachment force.
+
+image::28-swingarm-fixture/angle-plate-drawing-sm.jpg[link={imagesdir}/28-swingarm-fixture/angle-plate-drawing.jpg,window=_blank]
+
+The bearing plugs fit into the bores of the swingarm pivot bearings and clamp the front of the swingarm in position. Two bolts with 15mm of the diameter turned down fit into the center hole of the plugs. These bolts then thread into nuts welded on the front risers of the fixture.
+
+image::28-swingarm-fixture/bearing-plug-drawing-sm.jpg[link={imagesdir}/28-swingarm-fixture/bearing-plug-drawing.jpg,window=_blank]
+
+I found these concrete anchor bolts are a handy way to pull the swingarm bearing out of the race.
+
+image::28-swingarm-fixture/bearing-puller-sm.jpg[link={imagesdir}/28-swingarm-fixture/bearing-puller.jpg,window=_blank]
+
+I decided to make the angle plate out of aluminum because aluminum is easy to work with, but I think now it would be better made of steel since it seems as it will wear fast. I bored out the big hole in the angle plate and drilled the holes with this setup.
+
+image::28-swingarm-fixture/boring-sm.jpg[link={imagesdir}/28-swingarm-fixture/boring.jpg,window=_blank]
+
+Here's a detail of the main arm and angle plate. This gives a good view of the angle plate's alignment pins. The bolts fix the plate to the arm and are 1/2-20 UNF grade 8. The hole in the far end of the arm is to accept a bolt that will act as a jack screw to keeps the swingarm from rotating on the front bearing plugs. I found I needed to reposition this hole outward as seen in other photos.
+
+image::28-swingarm-fixture/main-arm-sm.jpg[link={imagesdir}/28-swingarm-fixture/main-arm.jpg,window=_blank]
+
+Anyway, after a while I had this collection of fixture parts assembled and ready for welding.
+
+image::28-swingarm-fixture/fixture-parts-sm.jpg[link={imagesdir}/28-swingarm-fixture/fixture-parts.jpg,window=_blank]
+
+To get the arms aligned for welding I clamped them down to this piece of 3/8" aluminum plate.
+
+image::28-swingarm-fixture/welding-fixture-sm.jpg[link={imagesdir}/28-swingarm-fixture/welding-fixture.jpg,window=_blank]
+
+I welded nuts onto the fixture at the bearing plugs and the jack screw. After welding I needed to chase the threads. This photo also shows the jack screw bolt and how I put a rounded profile on the top to get a constant contact area between the bolt and the swingarm when the bolt is turned.
+
+image::28-swingarm-fixture/chasing-sm.jpg[link={imagesdir}/28-swingarm-fixture/chasing.jpg,window=_blank]
+
+And the finished fixture, its relly a heavy beast.
+
+image::28-swingarm-fixture/fixture-done-sm.jpg[link={imagesdir}/28-swingarm-fixture/fixture-done.jpg,window=_blank]
+
+Here's another view with the arm installed. The idea for use is to set the angle plate at the 0 index, bolt an unmodified arm to the angle plate, then close up the bearing plugs, jack screw and top clamp such that the arm is held in place without any bending force, then cut the arm with a hacksaw and move the index plate to a new position.
+
+image::28-swingarm-fixture/arm-mounted-sm.jpg[link={imagesdir}/28-swingarm-fixture/arm-mounted.jpg,window=_blank]
+
+After having the actual fixture and with some fitting of the arm to it I think the bearing plug method of holding the arm will be difficult to control accurately. I think it will be enough with some careful setup, but I think something with fixed alignment stops welded to the fixture may work better.
+
+-x3300
+
+*fishkens, Oct 1, 2010:*
+
+Fancy! Keep up the great work.
+
+*x3300, Oct 8, 2010:*
+
+I did some hunting around the Internet and took a few trips to local MC dealers with a tape measure in my pocket to collect some info on rear suspensions. I'm not sure of how wheelbase is measured, but I put down what I measured with the bike supported and the suspension topped out, plus an adjustment for the longer swingarm. Here's the tally; wheelbase, travel front and rear, swingarm length, final drive ratio:
+
+  bike     wbase front rear salen final
+
+  R80G/S   1465  200   170  410   3.36
+  CRF250R  1478  315   315  ?     -
+  R100GS   1514  225   180  455   3.09
+  R1200GS  1520  190   200  533   -
+  F800GS   1577  230   215  622   -
+  HP2      1610  270   250  575   -
+  HPN-Adv  1620  295   240  510   -
+  ORGS     1622  280   280  535   2.91
+
+It seems 100mm is a common monolever swingarm extension. I wanted to get some more travel and figured I'd try 125mm, so 80mm more than the max of the R100GS paralever swingarm.
+
+I marked the cut with a Sharpie pen, put the arm in the fixture, then went at it with a hacksaw. I put the cut where the swingarm tube runs exactly parallel to the centerline of the bike so that both swingarm tube and the extension tube ends would need 90 degree cuts.
+
+image::29-monolever-extension/cut-arm-sm.jpg[link={imagesdir}/29-monolever-extension/cut-arm.jpg,window=_blank]
+
+Here's a view of the section.
+
+image::29-monolever-extension/section-view-sm.jpg[link={imagesdir}/29-monolever-extension/section-view.jpg,window=_blank]
+
+The 2"x1/16" tube I mentioned in the previous post was intended for the cross brace. I bolted the back end of the arm at the 125mm index of the fixture then measured the angles the cross brace would need. I set the brace to give the maximum support and have just enough clearance to fit an 18" wheel.
+
+I used this hole saw and a vertical mill to cut the tube ends. I set the head at the needed angle then made the cut.
+
+image::29-monolever-extension/hole-saw-sm.jpg[link={imagesdir}/29-monolever-extension/hole-saw.jpg,window=_blank]
+
+The hole saw wasn't long enough to cut straight through the tube, so I needed to cut until the saw bottomed, remove the tube from the vise and cut off the scrap, and then remount the tube and continue with the cut.
+
+image::29-monolever-extension/hole-saw-finish-sm.jpg[link={imagesdir}/29-monolever-extension/hole-saw-finish.jpg,window=_blank]
+
+I drilled this small hole in the bottom of the brace to vent the tube while welding.
+
+image::29-monolever-extension/cross-vent-sm.jpg[link={imagesdir}/29-monolever-extension/cross-vent.jpg,window=_blank]
+
+Here's the arm and additions cleaned up and ready for welding.
+
+image::29-monolever-extension/arm-parts-sm.jpg[link={imagesdir}/29-monolever-extension/arm-parts.jpg,window=_blank]
+
+I used masking tape to hold the extension in place for tack welding. I cut out small sections of tape and made the tack welds.
+
+image::29-monolever-extension/tack-welds-sm.jpg[link={imagesdir}/29-monolever-extension/tack-welds.jpg,window=_blank]
+
+I used this big C-clamp to hold the brace in position for tacking.
+
+image::29-monolever-extension/tacked-cross-sm.jpg[link={imagesdir}/29-monolever-extension/tacked-cross.jpg,window=_blank]
+
+There wasn't much room between the bottom of the arm and the fixture so I needed to use this short tungsten cap to get in there.
+
+image::29-monolever-extension/short-cap-sm.jpg[link={imagesdir}/29-monolever-extension/short-cap.jpg,window=_blank]
+
+Welding in progress.
+
+image::29-monolever-extension/cross-welded-sm.jpg[link={imagesdir}/29-monolever-extension/cross-welded.jpg,window=_blank]
+
+And the finished arm out of the fixture.
+
+image::29-monolever-extension/cross-done-sm.jpg[link={imagesdir}/29-monolever-extension/cross-done.jpg,window=_blank]
+
+I measured the arm before and after welding with this height gage to check the alignment.
+
+image::29-monolever-extension/measure-length-sm.jpg[link={imagesdir}/29-monolever-extension/measure-length.jpg,window=_blank]
+
+Here's the arm installed with a fender and shock mock-up.
+
+image::29-monolever-extension/right-view-sm.jpg[link={imagesdir}/29-monolever-extension/right-view.jpg,window=_blank]
+
+I really like the look of the triangle the arm and big cross brace make just in front of the wheel.
+
+image::29-monolever-extension/left-view-sm.jpg[link={imagesdir}/29-monolever-extension/left-view.jpg,window=_blank]
+
+I'll need to look into and decide on a shock before setting up the shock mounts.
+
+-x3300
+
+*fishkens, Oct 8, 2010:*
+
+x3300 said:
+
+I marked the cut with a Sharpie pen, put the arm in the fixture, then went at it with a hacksaw. I put the cut where the swingarm tube runs exactly parallel to the centerline of the bike so that both swingarm tube and the extension tube ends would need 90 degree cuts.
+
+-x3300 Click to expand...
+
+Still my favorite thread.
+
+But a hacksaw? Is that because you don't have a cutoff saw or band saw where you could set a jig to cut at a 90 degree angle or because you felt you could cut an equally square cut in the same time with a hacksaw or for some other reason. Just curious.
+
+Thanks.
+
+*x3300, Oct 9, 2010:*
+
+fishkens said:
+
+But a hacksaw? Click to expand...
+
+Hi fishkens,
+
+I used a hacksaw because I wanted to make a cut that was relatively narrow and also precise. I didn't want to have a big gap to weld up, nor to mess around with grinding and fitting the pieces. I think it would be difficult to get that fixture into a bandsaw at the correct orientation. With the arm cut accurately I could just cut the extension tube to 125mm (on a horizontal bandsaw) and weld it in.
+
+The swingarm tube is thin and made of mild steel, so easy enough to cut by hand with a sharp blade. I made an accurate mark around the circumference of the tube with the marker and just made sure the cut was always progressing along that mark.
+
+-x3300
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

@@ -1,0 +1,476 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 3
+
+[big]*The ORGS Build Up Project*
+
+*Page 3*
+
+*Benjamin M, Jun 12, 2010:*
+
+Great thread dude. Especially interested in the high/low beam mod that you've made to the TT 8" headlight..
+
+Any progress made since your last post?
+
+Cheers, Benjamin
+
+*RemcoR, Jun 12, 2010:*
+
+Looks like a great project! My respect for your drive to do so many things yourself.
+
+I am working on something similar, but I have the advantage some work has been done for me and there is a bit more stuff for sale over here.
+
+I bought this 1992 R80GS with a Siebenrock 1000cc kit and a WP 48mm usd front fork (foto attached). After that I have put on a mono seat on a self made shortend rear frame, with a smaller battery, a BSM stainless steel exhaust with a good Y-pipe, a UNI open airfilter, an oilcooler, a ring to enlarge the oil pan and self made bash plate instead of the pan, an inversed brake lever at the back, a HE 320mm front brake disk, adaptor plate and caliper. I am trying to reduce weight everywhere (mainly using the angle grinder). The dashboard consists only of a Nuvi 510 GPS, the instrument lights and a bycicle speedometer. A second one and a roadbook holder will follow. The taillight consists of LED's and the front light (classic G/S basic front) has an xenon light.
+
+I am busy refurbishing the carbs, timing chain and rectifier (same as your setup) and I want to mount some subframe for a set of saddle bags (no cases for me). I have an appointment with a suspension specialist because I also want to raise the rear end (so please keep us posted here, the road I want to take is to shorten the bar underneath the swinarm and with that straightening the rear angle of the swingarm) and I am interested in your frame reinforcement drawings.
+
+Regards, Remco
+
+*x3300, Jun 13, 2010:*
+
+There seems to be a lot of popcorn munchers out there...
+
+I got some more work done on the tool tray, but it's still not finished yet. I made up some corner pieces to complete the cut-outs I needed to clear the frame. Here I have the first one tacked in.
+
+image::16-seat-pan/cut-out-panels-sm.jpg[link={imagesdir}/16-seat-pan/cut-out-panels.jpg,window=_blank]
+
+After I got it all welded up I did a backyard hydrostatic leak test. This photo shows two cross tubes I added to make the sides more rigid and to work as part of the seat pan mount. They also make nice carrying handles.
+
+image::16-seat-pan/hydro-test-sm.jpg[link={imagesdir}/16-seat-pan/hydro-test.jpg,window=_blank]
+
+I made up a single wide front mount that bolts to the R65 tank mount I now have welded on the frame, and two rear mounts that have slots that go onto the sub-frame cross tube as seen in the later photos.
+
+image::16-seat-pan/tray-mounts-sm.jpg[link={imagesdir}/16-seat-pan/tray-mounts.jpg,window=_blank]
+
+I wanted to have a design that would have the seat, tool tray and battery theft proof with a single lock. My idea was to have the rear of the tray slide onto the sub-frame cross tube with the front of the tray elevated. The tray would then pivot around the sub-frame tube to bring the front down to its mount, and front would then be bolted to the frame. The seat covers those bolts, and then the seat will have a bracket of some kind (TBD) to allow it to be locked to the frame.
+
+My solution will certainly work, but now that I have it fabricated I feel it could use some improvement. The rear mounts seem like they will wear fast and get sloppy. Also, there is too much side to side flexing of the tray so the rear mounts move side to side. I'll think about some way to improve it.
+
+image::16-seat-pan/tray-rear-sm.jpg[link={imagesdir}/16-seat-pan/tray-rear.jpg,window=_blank]
+
+I have a Rick Mayer solo seat on my PD that I find comfortable on long rides so I decided to try to incorporate the same general shape into my seat, but on a much trimmed down scale. To start, I made up this seat pan template that could support the seat I'm thinking of.
+
+image::16-seat-pan/pan-template-sm.jpg[link={imagesdir}/16-seat-pan/pan-template.jpg,window=_blank]
+
+I found this 16 gauge aluminum sheet from a discarded air conditioner cover or something that I thought I could use. I thought the alloy was 3003, but it seemed to crack easily when shaping it, so it might have been something harder. I laid out the sheet with a Sharpie pen.
+
+image::16-seat-pan/sheet-layout-sm.jpg[link={imagesdir}/16-seat-pan/sheet-layout.jpg,window=_blank]
+
+The shape of the pan didn't allow me to shrink the material to form this corner so I cut out a wedge shaped section with the plan to weld the seam together. Here I have the seam tack welded. As I was shaping I didn't do any annealing, and some cracks resulted which are visible in this photo at the top of the seam. I welded up the cracks with the seam.
+
+image::16-seat-pan/seam-tacked-sm.jpg[link={imagesdir}/16-seat-pan/seam-tacked.jpg,window=_blank]
+
+For added strength I made this 6061 under pan to weld onto the bottom of the seat pan.
+
+image::16-seat-pan/under-pan-sm.jpg[link={imagesdir}/16-seat-pan/under-pan.jpg,window=_blank]
+
+Here it is welded to the bottom of the pan.
+
+image::16-seat-pan/under-pan-welded-sm.jpg[link={imagesdir}/16-seat-pan/under-pan-welded.jpg,window=_blank]
+
+Here's the seat pan so far. Its a little difficult to see, but the photos show how I put both a lengthwise crown and a cross crown to stiffen up the top of the pan.
+
+image::16-seat-pan/pan-front-sm.jpg[link={imagesdir}/16-seat-pan/pan-front.jpg,window=_blank]
+
+image::16-seat-pan/pan-rear-sm.jpg[link={imagesdir}/16-seat-pan/pan-rear.jpg,window=_blank]
+
+I'm really happy with the result of the tool tray and seat pan so far. Before I started on them I was wondering what I could do and wasn't quite so sure how to progress, but now they are almost finished with just a few more bits of work to do.
+
+-x3300
+
+*x3300, Jun 29, 2010:*
+
+The design and fab of the tool tray plus seat pan assembly has taken some time, but I'm almost finished. In my design the tool tray bolts down to the frame, with the seat pan then attached to the tool tray.
+
+I made up these aluminum hooks to weld to the bottom of the seat pan. The hooks are intended to slide under the tubes I have welded into the tool tray and hold the seat pan firmly to the tool tray.
+
+image::17-seat-pan-mount/rail-hooks-sm.jpg[link={imagesdir}/17-seat-pan-mount/rail-hooks.jpg,window=_blank]
+
+I had previously welded a solid sheet of aluminum to the underside of the seat pan to form a stable base for its mounting to the tool tray, but I decided to remove that sheet and instead use two pieces of aluminum angle to act as sub frame rails. The hooks get welded to the rails.
+
+image::17-seat-pan-mount/pan-rails-sm.jpg[link={imagesdir}/17-seat-pan-mount/pan-rails.jpg,window=_blank]
+
+Here's how the rails fit onto the tool tray tubes. The sides of the tool tray fit into the groove between the rail and the hook to hold the pan from moving side to side.
+
+image::17-seat-pan-mount/rail-check-sm.jpg[link={imagesdir}/17-seat-pan-mount/rail-check.jpg,window=_blank]
+
+I then welded the rails onto the underside of the seat pan.
+
+image::17-seat-pan-mount/rails-welded-sm.jpg[link={imagesdir}/17-seat-pan-mount/rails-welded.jpg,window=_blank]
+
+To add some rigidity to the sides of the seat pan I made up end panels from flat sheet and welded them to the seat pan.
+
+image::17-seat-pan-mount/front-panel-welded-sm.jpg[link={imagesdir}/17-seat-pan-mount/front-panel-welded.jpg,window=_blank]
+
+Once I got the rails and end panels welded in I did some trial fitting with the R65 and HPN tanks to find out how much of the underside hooks to trim. Here is the finished seat pan with the hooks trimmed.
+
+image::17-seat-pan-mount/pan-finished-sm.jpg[link={imagesdir}/17-seat-pan-mount/pan-finished.jpg,window=_blank]
+
+Here's a back view. I just laid a string of spot welds to hold the end panels in.
+
+image::17-seat-pan-mount/rear-panel-welded-sm.jpg[link={imagesdir}/17-seat-pan-mount/rear-panel-welded.jpg,window=_blank]
+
+I still need to arrange some kind of latch and lock mechanism. I found this nice looking draw latch at McMaster-Carr which looks like I can mount the arm vertically on the rear end panel and the strike below on the tool tray to draw the seat pan firmly down onto to tool tray and lock it into position.
+
+image::17-seat-pan-mount/latch.jpg[]
+
+To get a feel for how much and what kinds of foam I'll need I glued on a few layers of packing foam I had on hand.
+
+image::17-seat-pan-mount/with-foam-sm.jpg[link={imagesdir}/17-seat-pan-mount/with-foam.jpg,window=_blank]
+
+The seat pan mount is functional, but I'm not entirely satisfied with it. I don't really like the rail and hook solution I came up with. The pan is hard to put on, doesn't really fit well, and the rails aren't very strong so won't offer much theft protection. I already have a reworked design that I think will function better, but my plan is to move on to unfinished things like the seat foam and cover.
+
+-x3300
+
+*x3300, Jul 3, 2010:*
+
+After a bit of looking I came across the Master Receiver Lock 1473DAT at my local auto parts store that I thought I could make work as a fork lock. The package included 1/2" and 5/8" receiver pins and a single lock.
+
+Here's the 5/8" pin and lock.
+
+image::18-fork-lock/master-1473dat-sm.jpg[link={imagesdir}/18-fork-lock/master-1473dat.jpg,window=_blank]
+
+I used an abrasive cut-off wheel to cut the pin so that the fork upper would hit the lock squarely when locked on. I ground off some of the chrome plating near the end of the pin then welded it onto the frame head tube so that there would only be a few degrees of fork movement.
+
+image::18-fork-lock/stud-welded-sm.jpg[link={imagesdir}/18-fork-lock/stud-welded.jpg,window=_blank]
+
+Here's how it looks when locked. Its not super secure, but will prevent an opportunistic roll away theft.
+
+image::18-fork-lock/locked-sm.jpg[link={imagesdir}/18-fork-lock/locked.jpg,window=_blank]
+
+I can also lock it in the other direction, but it is harder to access the lock and there's about 30 degrees fork movement.
+
+image::18-fork-lock/alt-locked-sm.jpg[link={imagesdir}/18-fork-lock/alt-locked.jpg,window=_blank]
+
+-x3300
+
+*x3300, Jul 5, 2010:*
+
+I've started to focus on getting the electrical system in order, which will be a fair amount of work in all. I've already got the voltage regulator harness done as reported in a previous post. I'll also need to rebuild the main and sensor harnesses, which will include some mods to each. The rear harness is in good condition, and I think I can use it as is with maybe some changes to the terminals for a different tail lamp and turn signals. The dash electronics need to be designed and wire up, and an overhaul of the bean can which has a sticky advance is needed. I haven't decided on the tail lamp and turn signals, but I do know I'll try to use LED units for those.
+
+I needed to wire in an engine temperature sensor for the Trail Tech computer I have in the dash. I figured the cleanest way was to have the sensor lead run under the left carb and hook into the existing GS sensor harness then go up through the main harness to come out up near the steering head.
+
+I took some measurements of the GS sensor harness and came up with this harness design diagram. The connector I used for the temp sensor between the sensor harness and the main harness is a Molex .062 2-pin connector.
+
+image::19-sensor-harness/sensor-harness-diagram-sm.jpg[link={imagesdir}/19-sensor-harness/sensor-harness-diagram.jpg,window=_blank]
+
+Here is the stripped sensor harness, a Trail Tech temp sensor I'll use, and a Trail Tech V300-48 sensor extension cable. The extension cable isn't long enough to reach from under the carb to the steering head so I'll need to extend it with some wire in the main harness. For the sensor harness end I just cut it to the right length and soldered on Molex connector pins.
+
+image::19-sensor-harness/stripped-sm.jpg[link={imagesdir}/19-sensor-harness/stripped.jpg,window=_blank]
+
+Here's the finished sensor harness with a new connector for the oil pressure switch.
+
+image::19-sensor-harness/done-sm.jpg[link={imagesdir}/19-sensor-harness/done.jpg,window=_blank]
+
+I'll put the temp sensor under the rear left valve cover nut. I plan to hook up an oil temp sensor later.
+
+-x3300
+
+*Mr. Vintage, Jul 6, 2010:*
+
+Lookin' very good. Clever fork lock design too.
+
+*x3300, Jul 11, 2010:*
+
+The main wiring harness needed some modification to accommodate the Enduralast voltage regulator and other accessories I wanted. I made up this diagram to work from.
+
+image::20-main-harness/mods-diagram-sm.jpg[link={imagesdir}/20-main-harness/mods-diagram.jpg,window=_blank]
+
+At the dash I wanted dedicated power and ground for auxiliary lights, grip heaters, etc., and to have those switched by a relay in series with the existing load shedding relay so that the accessories would also be shed when the starter motor was running.
+
+I found the existing tach signal compatible with the trail tech computer so no harness mod was needed for that, but I did needed to run temperature sensor leads down to the sensor harness as I mentioned was needed in my previous post.
+
+The parts bike didn't have a usable main harness, so I found one on ebay from a seller in Israel. Here's what arrived. It's generally in good shape, but much of the wrapping tape is falling apart.
+
+image::20-main-harness/start-sm.jpg[link={imagesdir}/20-main-harness/start.jpg,window=_blank]
+
+It seems after time the tape adhesive dries up and what's left is just glue dust and loose fabric. Where the fabric is really loose dirt and grit enter into the harness.
+
+As I was cutting off the layers a lot of sand and dust was coming out and I imagined the previous owner hauling out in top gear across the vastness of the Israeli desert with a huge cloud of dust trailing behind.
+
+image::20-main-harness/dust-sm.jpg[link={imagesdir}/20-main-harness/dust.jpg,window=_blank]
+
+image::20-main-harness/stripped-sm.jpg[link={imagesdir}/20-main-harness/stripped.jpg,window=_blank]
+
+I cleaned up the bare harness and all the connectors with compressed air and a tooth brush.
+
+To start with the mods I put the harness in position and installed the various components it connected up with.
+
+image::20-main-harness/installed-sm.jpg[link={imagesdir}/20-main-harness/installed.jpg,window=_blank]
+
+I choose to use 3M Scotch Super 33+ and Super 88 vinyl tape for the rebuild. The 33+ is a little thinner and good for binding and prep work. I used the thicker 88 for the final wrap layer.
+
+I've used these tapes before for harness rebuilds and was satisfied with the result. The finished look is different than the original GS fabric tape, but I think it gives an acceptable look.
+
+image::20-main-harness/tools-sm.jpg[link={imagesdir}/20-main-harness/tools.jpg,window=_blank]
+
+For spicing wires together I bought several sizes of brass tube from a local hobby shop. I cut a small piece off with a hacksaw and finish the ends with a file then crimp and solder the connection.
+
+image::20-main-harness/connector-stock-sm.jpg[link={imagesdir}/20-main-harness/connector-stock.jpg,window=_blank]
+
+Here's where I tapped into the existing green 'switched power' in the harness to add in the new voltage regulator power lead.
+
+image::20-main-harness/regulator-power-sm.jpg[link={imagesdir}/20-main-harness/regulator-power.jpg,window=_blank]
+
+And the finished connection between the main and engine wiring harnesses.
+
+image::20-main-harness/regulator-connection-sm.jpg[link={imagesdir}/20-main-harness/regulator-connection.jpg,window=_blank]
+
+Here's what I was faced with in the front. A lot of existing stuff, and a lot of added stuff for the dash. It took a while to get everything sorted out.
+
+image::20-main-harness/front-harness-sm.jpg[link={imagesdir}/20-main-harness/front-harness.jpg,window=_blank]
+
+I could get that thing under control though, and here's the finished harness laid out.
+
+image::20-main-harness/done-sm.jpg[link={imagesdir}/20-main-harness/done.jpg,window=_blank]
+
+With the harness wrap finished I installed it on the bike and started on hooking up all the connections. This shows how the voltage regulator and relays fit with my custom mounts and the rebuilt harness.
+
+image::20-main-harness/relays-sm.jpg[link={imagesdir}/20-main-harness/relays.jpg,window=_blank]
+
+To get the things under the front cover in order I needed to take apart the bean can and figure out why the advance was sticking. I won't go into the details of that since its well reported elsewhere. I found some rust on the moving parts of the advance mechanism and figured that was the problem. I cleaned it up and put some high temp grease at the moving parts.
+
+image::20-main-harness/bean-can-sm.jpg[link={imagesdir}/20-main-harness/bean-can.jpg,window=_blank]
+
+This shows how I ran the alternator output wires and how I attached the terminal block to the timing chain cover.
+
+image::20-main-harness/alt-term-block-sm.jpg[link={imagesdir}/20-main-harness/alt-term-block.jpg,window=_blank]
+
+In the front there was a lot of extra wire since I no longer have the faring nor instruments. It took a while to get it routed and bundle so it wasn't too ugly. The headlight covers most of the bundles.
+
+I'll do some more work up here later as I continue on the dash wiring.
+
+image::20-main-harness/front-done-sm.jpg[link={imagesdir}/20-main-harness/front-done.jpg,window=_blank]
+
+-x3300
+
+*rediRrakaD, Jul 11, 2010:*
+
+Thanks for sharing and inspiring. Nice build. Cheers, S.
+
+*Zebedee, Jul 11, 2010:*
+
+rediRrakaD said:
+
+Thanks for sharing and inspiring. Nice build.
+
+Cheers,
+
+^^^ what he said ^^^
+
+Don't ya just hate it when these folks make it look so easy ...
+
+John
+
+*x3300, Jul 24, 2010:*
+
+I've been working on the dash wiring and a lot of other miscellaneous things around the bike since my last report. I'm hoping to get the dash wiring done this weekend.
+
+Here's what I've been dealing with.
+
+image::21-dash-wiring/wiring-dash-sm.jpg[link={imagesdir}/21-dash-wiring/wiring-dash.jpg,window=_blank]
+
+All custom stuff for the most part. I made up this diagram to work from. It doesn't yet include the instrument lights.
+
+image::21-dash-wiring/dash-diagram-sm.jpg[link={imagesdir}/21-dash-wiring/dash-diagram.jpg,window=_blank]
+
+On the dash I'll have switches for two independently switched auxiliary front lights, a switch for the headlight low beam, and a switch for the hazard flasher. I have a hazard capable flasher unit, but I still need to figure out what kind of switch it needs and how to wire it in. I'll also have a rotary pot for variable power grip heaters. I'll cover the design of these in another report.
+
+To power the GPS unit I'll have a 5 volt source going to a USB Mini-B plug. This will plug directly into my GPS. I'll also have another 5 volt source going to a USB Series A receptacle to power auxiliary devices like a cell phone charger, a Walkman, or an NiMH battery charger.
+
+Here's what I'm working on for the USB power, I'll have two separate LM7805 linear voltage regulators for the supply. I had some USB cables kicking around that I'll cut up and solder to the LM7805's output.
+
+image::21-dash-wiring/usb-regulators-sm.jpg[link={imagesdir}/21-dash-wiring/usb-regulators.jpg,window=_blank]
+
+Just for reference, a typical pinout for USB connectors:
+
+  pin 1 red   = +5 volt
+  pin 2 white = data -
+  pin 3 green = data +
+  pin 4 black = gnd
+
+I'll just leave the white and green data lines unconnected. The regulators I chose can source 2 amps each, but to do so for very long will need good heat sinks on them. I'll screw them down directly to the aluminum dash for that.
+
+-x3300
+
+*NordieBoy, Jul 24, 2010:*
+
+x3300 said:
+
+Just for reference, a typical pinout for USB connectors:
+
+  pin 1 red   = +5 volt
+  pin 2 white = data -
+  pin 3 green = data +
+  pin 4 black = gnd
+
+I'll just leave the white and green data lines unconnected. The regulators I chose can source 2 amps each, but to do so for very long will need good heat sinks on them. I'll screw them down directly to the aluminum dash for that.
+
+-x3300 Click to expand...
+
+Some gps's'ss's's need the data lines shorted or something so they don't go into mass storage mode.
+
+*Zebedee, Jul 26, 2010:*
+
+`NordieBoy said:
+
+... gps's'ss's's ... Click to expand...
+
+Bless you, Nordie.
+
+  bless you, English/Kiwi = Gazuntite, 'merkin
+
+Oh, and keep up the good work X3300
+
+*Mr. Vintage, Jul 30, 2010:*
+
+x3300 said:
+
+To power the GPS unit I'll have a 5 volt source going to a USB Mini-B plug. This will plug directly into my GPS. I'll also have another 5 volt source going to a USB Series A receptacle to power auxiliary devices like a cell phone charger, a Walkman, or an NiMH battery charger. Click to expand...
+
+What is a walkman?
+
+Lookin good....
+
+*x3300, Aug 14, 2010:*
+
+NordieBoy, pin #4 of the USB Mini-B is normally not used. Some newer Garmin units use pin #4 to detect if the unit is connected to a computer or a charger. Chargers have pin #4 grounded, and computer cables have it open. My unit (Oregon) has an option (Spanner) to ask the user what to do on connection.
+
+Here's the connector pinout:
+
+  USB Mini-B pinout
+
+  pin 1 red   = +5 volt
+  pin 2 white = data -
+  pin 3 green = data +
+  pin 4 brown = n/c
+  pin 5 black = gnd
+
+For now I'll use Spanner mode. I'd like to have a connector that has pin #4 grounded, but I haven't found anyway to do this other than by buying a Garmin charger and cutting off the connector.
+
+I found these cables from Argent Data Systems that have a lead for pin #4, but unfortunately, the angle of the connector won't work with my Oregon.
+
+image::22-dash-done/usb-mini-b-ra-sm.jpg[link={imagesdir}/22-dash-done/usb-mini-b-ra.jpg,window=_blank]
+
+Here's how I soldered up the 5 volt regulators.
+
+image::22-dash-done/regulator-soldering-sm.jpg[link={imagesdir}/22-dash-done/regulator-soldering.jpg,window=_blank]
+
+And the finished supplies ready for installation. I applied some heat sink compound and screwed the heat sinks down to the underside of the front dash mount bracket.
+
+image::22-dash-done/regulators-sm.jpg[link={imagesdir}/22-dash-done/regulators.jpg,window=_blank]
+
+I decided to try using the individual LEDs for the dash instrument lights. I soldered on 1K ohm resistors to each LED and used heat shrink tube on all the connections to insulate and strengthen.
+
+All I have to show the construction is this blurry photo.
+
+image::22-dash-done/led-resistors-sm.jpg[link={imagesdir}/22-dash-done/led-resistors.jpg,window=_blank]
+
+And here are the finished dash lights. I used the OE light harness and cut off the existing bulbs then soldered on my LEDs. The photo also shows my notes on polarity and wire color of the different lights.
+
+image::22-dash-done/dash-leds-sm.jpg[link={imagesdir}/22-dash-done/dash-leds.jpg,window=_blank]
+
+Here's the dash powered up. I pressed the LEDs into their clip holders from the back with a few drops of 'super glue' to keep them from popping out.
+
+image::22-dash-done/dash-done-sm.jpg[link={imagesdir}/22-dash-done/dash-done.jpg,window=_blank]
+
+It seems the 1K resistors will give a good brightness. I'm thinking a night dimmer would be nice to have, but I'll wait until I get some real use before deciding to make something.
+
+I found the dash as designed really too tight underneath. It was hard to install and wire up the components. It would be nice to have some more space below the top panel to ease maintenance.
+
+-x3300
+
+*nella, Aug 14, 2010:*
+
+The dash looks great!
+
+*x3300, Aug 21, 2010:*
+
+I noticed that the output shaft of the trans was a bit tight to turn, and I had intended to go through it, so decided it was as good a time as any to take the trans apart put some new parts in. I won't go into much detail of how to do a rebuild since it has been well reported elsewhere.
+
+I have this flange puller from Ed Korn's Cycleworks. I don't think it would be to hard to make something though.
+
+image::23-trans-rebuild/flange-puller-sm.jpg[link={imagesdir}/23-trans-rebuild/flange-puller.jpg,window=_blank]
+
+Here's a side view of the puller.
+
+image::23-trans-rebuild/puller-detail-sm.jpg[link={imagesdir}/23-trans-rebuild/puller-detail.jpg,window=_blank]
+
+With the flange off I used some heat and a plastic mallet to get the cover off and pull out the parts.
+
+image::23-trans-rebuild/parts-out-sm.jpg[link={imagesdir}/23-trans-rebuild/parts-out.jpg,window=_blank]
+
+The new parts; 5 shaft bearings, some seals, a neutral switch, the critical shifter spring, a 1st gear bushing, and a 688 bearing. The front input bearing was OK, so I decided to not replace it. I also put in a new cover gasket.
+
+image::23-trans-rebuild/trans-parts-sm.jpg[link={imagesdir}/23-trans-rebuild/trans-parts.jpg,window=_blank]
+
+I took the shift mechanism apart to replace the critical spring. I put a witness line on the cams with a Sharpie marker.
+
+image::23-trans-rebuild/shifter-apart-sm.jpg[link={imagesdir}/23-trans-rebuild/shifter-apart.jpg,window=_blank]
+
+I also replaced the plastic detent roller with a 688 roller bearing as seen here. 688s are used for in-line skate wheels, so easy to find.
+
+image::23-trans-rebuild/shifter-roller-sm.jpg[link={imagesdir}/23-trans-rebuild/shifter-roller.jpg,window=_blank]
+
+I used this puller to get the bearings off.
+
+image::23-trans-rebuild/pulling-bearing-sm.jpg[link={imagesdir}/23-trans-rebuild/pulling-bearing.jpg,window=_blank]
+
+Here's the output shaft disassembled. I took it down this far to machine a groove to accept a circlip that will hold the front bearing on, a standard mod for these transmissions.
+
+image::23-trans-rebuild/output-shaft-sm.jpg[link={imagesdir}/23-trans-rebuild/output-shaft.jpg,window=_blank]
+
+The circlip is an external 17x1. The DIN 471 spec gives a groove diameter of 16.2 mm, so I only needed to remove 0.8 mm off the shaft diameter.
+
+Here's how I mounted the output shaft on a lathe to turn the groove. I ground the width of a standard carbide cutting tool down to about 1.5 mm, then made the cut with the right edge of the tool 18 mm from the bearing shoulder (17 for the bearing, and 1 for the circlip). The shaft was pretty hard, but I went slow and could make the cut with the carbide tool. I've heard of using a grinding attachment to grind the groove.
+
+image::23-trans-rebuild/cutting-groove-sm.jpg[link={imagesdir}/23-trans-rebuild/cutting-groove.jpg,window=_blank]
+
+To make up a plate for shimming the bearings I mounted the trans cover on a mill and used the mill's DRO and an edge finder to get the relevant cover dimensions.
+
+image::23-trans-rebuild/cover-measure-sm.jpg[link={imagesdir}/23-trans-rebuild/cover-measure.jpg,window=_blank]
+
+Here are the measurements I came up with.
+
+image::23-trans-rebuild/cover-dimentions-sm.jpg[link={imagesdir}/23-trans-rebuild/cover-dimentions.jpg,window=_blank]
+
+And the resulting shim plate drawing to work with.
+
+image::23-trans-rebuild/plate-drawing-sm.jpg[link={imagesdir}/23-trans-rebuild/plate-drawing.jpg,window=_blank]
+
+Here's the plate bolted to the assembled trans ready for shimming.
+
+image::23-trans-rebuild/shim-plate-sm.jpg[link={imagesdir}/23-trans-rebuild/shim-plate.jpg,window=_blank]
+
+The bearing end clearance of each of the three shafts needs to be set using shims. The proper shim thickness is determined by measuring the depth of the cover hole that accepts the bearing, the thickness of the plate, the thickness of the cover gasket, and the height of the bearing above the plate.
+
+Code: gap = cover + gasket - plate - bearing
+
+image::23-trans-rebuild/shimming-sm.jpg[link={imagesdir}/23-trans-rebuild/shimming.jpg,window=_blank]
+
+Anyway, I could get it all shimmed up and reassembled without much worth reporting.
+
+image::23-trans-rebuild/trans-done-sm.jpg[link={imagesdir}/23-trans-rebuild/trans-done.jpg,window=_blank]
+
+-x3300
+
+*bgoodsoil, Aug 21, 2010:*
+
+Seriously man, what do you do for a living? This isn't the work of some n00b like me.
+
+*maverick, Aug 21, 2010:*
+
+Nice work dude, following with interest. You are certainly very talented
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+Copyright x3300

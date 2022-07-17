@@ -1,0 +1,535 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 6
+
+[big]*The ORGS Build Up Project*
+
+*Page 6*
+
+*maverick, Nov 14, 2010:*
+
+Just another WOW and thanks for sharing the info. Simple question is the swingarm extention tool you welded up just based on a 90 degree angle when it extends out to the longer sections or at a slightly different angle as the shaft is not entirely centre to start with on the original swingarm if that makes any sense?
+
+*x3300, Nov 20, 2010:*
+
+maverick, I assume everything is aligned; trans output shaft, final drive input shaft, swingarm pivot, etc. I didn't check that, but I can see my extended shaft and arm seem to have the proper alignment.
+
+Beemerguru and others, I have received a lot of inquiries about the gussets so I created a new thread dedicated to them here: [thread]638795[/thread]
+
+To get the rear wheel travel I wanted with my extended swingarm I either needed to fit a custom shock to work with the original GS upper shock mount or make a new shock mount to fit a shock from some other bike.
+
+Modern off-road suspensions have progressive damping, where the damping increases as the shock compresses. This is done either through a linkage mechanism or through shock valving. Such systems have been well received, so I figured I'd try to get some progressiveness in my design. Since the GS has no linkage I would need to fit a shock with progressive damping. Not too many bikes use such a shock and this requirement would really limit the shocks I could choose from.
+
+As a start to get an idea of what shock length and stroke values would work for my application I made a spreadsheet that calculated the shock length and stroke needed to get my 280 mm of travel using the original GS upper shock mount. I set it up to do the geometric calculations at 2 mm increments along the swingarm.
+
+image::32-shock-mounts/spreadsheet-sm.jpg[link={imagesdir}/32-shock-mounts/spreadsheet.jpg,window=_blank]
+
+I used the values to compare what would work with what was available from various shock catalogs. I wasn't so lucky, no stock shock would work with the original GS mount, and the only progressive shocks that seemed like they might work were from a BMW G 450X, or a few of the KTMs. I figured KTMs are pretty common compared to a BMW G 450X, so decided on fitting a KTM shock. After a bit of searching around the Internet this box arrived with an Ohlins TTX44 for a KTM 250 SX-F. The length is advertised as 410.5 mm and stroke 109 mm.
+
+image::32-shock-mounts/new-shock-sm.jpg[link={imagesdir}/32-shock-mounts/new-shock.jpg,window=_blank]
+
+With the shock in hand I could estimate how much the stroke was decreased by the bottoming bumper and how much space was needed between the lower shock mount and the swing arm centerline. Both these need to be considered in the design.
+
+The geometric equations that describe the set of mounting points that would work with this shock are non-linear and difficult to solve for even using numeric methods, so I decided to use a graphical method. I used a large piece of paper to layout a full scale drawing with the swingarm pivot, upper shock mount, and swingarm at the upper and lower limits of travel. I used two thick pieces of paper marked at the extended and compressed lengths of 410.5 and 306.5 (5.0 mm bumper thickness) to find a set of mount points that would work.
+
+image::32-shock-mounts/arm-drawing-sm.jpg[link={imagesdir}/32-shock-mounts/arm-drawing.jpg,window=_blank]
+
+Here's the detail near the top mount. As the drawing shows, any lower mount from about 240 mm to 320 mm rear of the swingarm pivot won't work with this shock because the frame tube is in the way of the top mount. The points from around 320 mm on back could give the proper wheel travel but would put the upper mount in the middle of the frame tube and I thought that that would put a lot of bending load on the tube so I chose not to use those points. Around 230 mm seemed good. This would put the shock and mount up above the original shock mount, but I thought it would be OK since I needed to make a custom sub-frame and seat anyway.
+
+image::32-shock-mounts/arm-drawing-detail-sm.jpg[link={imagesdir}/32-shock-mounts/arm-drawing-detail.jpg,window=_blank]
+
+Once I got some mount points I thought would work I laid those out on the frame and swingarm with some masking tape to do an initial check of the fitting.
+
+image::32-shock-mounts/tape-layout-sm.jpg[link={imagesdir}/32-shock-mounts/tape-layout.jpg,window=_blank]
+
+When I was confident I didn't need the upper mount I used a cutoff wheel and angle grinder to remove it, then laid out some mount points on card stock tapped to the frame.
+
+image::32-shock-mounts/on-bike-layout-sm.jpg[link={imagesdir}/32-shock-mounts/on-bike-layout.jpg,window=_blank]
+
+And checked what would give enough clearance between shock and frame.
+
+image::32-shock-mounts/fitting-shock-sm.jpg[link={imagesdir}/32-shock-mounts/fitting-shock.jpg,window=_blank]
+
+To accurately check the fitting with the swingarm in the up and down positions I made this jig with holes drilled at 410.5 mm and 306.5 mm.
+
+image::32-shock-mounts/jig-up-sm.jpg[link={imagesdir}/32-shock-mounts/jig-up.jpg,window=_blank]
+
+image::32-shock-mounts/jig-down-sm.jpg[link={imagesdir}/32-shock-mounts/jig-down.jpg,window=_blank]
+
+Then, after all the checking I made this paper template for the upper mount.
+
+image::32-shock-mounts/upper-template-sm.jpg[link={imagesdir}/32-shock-mounts/upper-template.jpg,window=_blank]
+
+image::32-shock-mounts/upper-fitting-sm.jpg[link={imagesdir}/32-shock-mounts/upper-fitting.jpg,window=_blank]
+
+Here are the upper and lower mounts I made up. I thought it would be hard to do the bends a one piece upper mount would need so I decided to make it from two pieces that would weld together.
+
+image::32-shock-mounts/mount-parts-sm.jpg[link={imagesdir}/32-shock-mounts/mount-parts.jpg,window=_blank]
+
+First I welded on the outer piece.
+
+image::32-shock-mounts/upper-outer-welded-sm.jpg[link={imagesdir}/32-shock-mounts/upper-outer-welded.jpg,window=_blank]
+
+And then the inner.
+
+image::32-shock-mounts/upper-welded-sm.jpg[link={imagesdir}/32-shock-mounts/upper-welded.jpg,window=_blank]
+
+Here's a view from the inside with the shock in place.
+
+image::32-shock-mounts/upper-inside-sm.jpg[link={imagesdir}/32-shock-mounts/upper-inside.jpg,window=_blank]
+
+With the upper mount welded on I used the jig to mark arcs at the extremes of swingarm angle at my chosen lower mount point (230 mm from the swingarm pivot). The red shows the upper limit that would not allow the transmission yoke to contact the swingarm housing when the suspension bottomed out, and the green the lower limit that would keep the transmission output flange bolts from tearing up the rubber swingarm boot when the suspension topped out. I would have liked a little more margin for safety, but had to accept what I was faced with. The black cross shows my drill point.
+
+image::32-shock-mounts/upper-hole-layout-sm.jpg[link={imagesdir}/32-shock-mounts/upper-hole-layout.jpg,window=_blank]
+
+The lower mount would need a spherical rod end bearing to match the shock's lower clevis mount. Some searching in the McMaster-Carr catalog showed two bearings that could work, a 12x30x16 metric bearing and a 1/2"x1"x1/2" inch bearing. I decided on the 1/2"x1" bearing since it was cheaper and would allow a lower profile mount. I made up this mount from some rectangular tubing and round stock.
+
+image::32-shock-mounts/lower-parts-sm.jpg[link={imagesdir}/32-shock-mounts/lower-parts.jpg,window=_blank]
+
+Here are the internal parts of the lower mount. I bored out the round stock to allow a press fit of the bearing and turned down the edges of some aluminum stock to make two spacers that allow the joint's ball to rotate a few degrees.
+
+image::32-shock-mounts/joint-parts-sm.jpg[link={imagesdir}/32-shock-mounts/joint-parts.jpg,window=_blank]
+
+Here are the pieces assembled and the joint set at its limit.
+
+image::32-shock-mounts/joint-asm-sm.jpg[link={imagesdir}/32-shock-mounts/joint-asm.jpg,window=_blank]
+
+And the mount tack welded to swingarm. The shock is installed for checking. I'm thinking to make some short tube shaped seals from neoprene sheet to keep dirt and water out of the bearing.
+
+image::32-shock-mounts/lower-tacked-sm.jpg[link={imagesdir}/32-shock-mounts/lower-tacked.jpg,window=_blank]
+
+Not much was left to do other than to finish the lower mount welds. Here's a view from the rear of the finished installation. The reservoir at 45 degrees sticks out a little, but I'll make the sub-frame go around this as needed.
+
+image::32-shock-mounts/finished-rear-sm.jpg[link={imagesdir}/32-shock-mounts/finished-rear.jpg,window=_blank]
+
+And a view from the side.
+
+image::32-shock-mounts/finished-side-sm.jpg[link={imagesdir}/32-shock-mounts/finished-side.jpg,window=_blank]
+
+I'm really happy with the result. 280 mm (11") of travel and a first class shock. The hollow lower mount gussets didn't work out as well as I thought they would. The rectangle tube wall was relatively thin and difficult to weld to the thicker swingarm. I think some gussets from 1/16" or a little thicker sheet, maybe with some drilled holes would be better.
+
+-x3300
+
+*Mr. Vintage, Nov 21, 2010:*
+
+Awesome, as usual.
+
+*x3300, Nov 26, 2010:*
+
+The R100GS takes a huge battery, so I figured I could save some weight and make more room for a bigger tool tray if I fitted a smaller one, with the expectation that I would replace it more often to keep it up to peak capacity.
+
+I looked through the Yuasa battery catalog and found the YTX14AHL-BS which seemed like it might be enough. Its used on some other big displacement bikes. Here's how the specs compare to the 53030:
+
+  model       AH CCA acid   weight L   W   H
+  53030       30 ?   1600ml 7.3kg  186 130 171
+  YTX14AHL-BS 14 210 660ml  4.1kg  134 89  166
+
+With a little searching I found one advertised cheap locally so picked it up to try it out. Here's how it compares to the original GS battery.
+
+image::33-battery-tray/battery-compare-sm.jpg[link={imagesdir}/33-battery-tray/battery-compare.jpg,window=_blank]
+
+To start I made up a paper model to find the best fit in the frame and get an idea of styling that would look good.
+
+image::33-battery-tray/fitting-check-sm.jpg[link={imagesdir}/33-battery-tray/fitting-check.jpg,window=_blank]
+
+Here's a slightly revised version of the battery tray drawing for the unfolded sheet metal. As seen in the photos following my original design didn't have the full front panel this drawing has.
+
+image::33-battery-tray/battery-tray-drawing-sm.jpg[link={imagesdir}/33-battery-tray/battery-tray-drawing.jpg,window=_blank]
+
+I used some 16 gage aluminum sheet I had that was left over from the dash, and after a quick layout with a Sharpie marker I used this holesaw and drill press to make the big side holes. These holes were bigger in my original design, and I found they removed too much material which left the sides a bit too flimsy.
+
+image::33-battery-tray/hole-saw-sm.jpg[link={imagesdir}/33-battery-tray/hole-saw.jpg,window=_blank]
+
+I could make the smaller holes with this rotex sheet metal punch.
+
+image::33-battery-tray/punching-holes-sm.jpg[link={imagesdir}/33-battery-tray/punching-holes.jpg,window=_blank]
+
+Here's the plate with the main holes. I don't have a photo of it, but next I punched four very small holes at the intersection of the fold lines then used a corner notcher to cut out the corners. The holes help to make a smooth bend.
+
+image::33-battery-tray/holes-done-sm.jpg[link={imagesdir}/33-battery-tray/holes-done.jpg,window=_blank]
+
+I used a sheet metal brake to bend the panels up. Also shown are the mounts I cut from aluminum angle. To be safe I made the mounts a bit longer than I measured was needed with the intension of trimming them down after welding and fitting.
+
+image::33-battery-tray/bent-sm.jpg[link={imagesdir}/33-battery-tray/bent.jpg,window=_blank]
+
+Here's the finished tray with the corners and mounts welded, and mount holes drilled.
+
+image::33-battery-tray/tray-with-model-sm.jpg[link={imagesdir}/33-battery-tray/tray-with-model.jpg,window=_blank]
+
+The old and new parts compared.
+
+image::33-battery-tray/trays-compared-sm.jpg[link={imagesdir}/33-battery-tray/trays-compared.jpg,window=_blank]
+
+Here's how the tray fits in the frame. It leaves a lot of room for a big tool tray, exhaust pipes, and muffler. I still need to clean up the mount ends and add a hold down strap.
+
+image::33-battery-tray/installed-sm.jpg[link={imagesdir}/33-battery-tray/installed.jpg,window=_blank]
+
+And a view with the battery. This photo doesn't really show it, but the contrast between the dark battery and the shiny aluminum makes the strip and five holes look really good.
+
+image::33-battery-tray/battery-installed-sm.jpg[link={imagesdir}/33-battery-tray/battery-installed.jpg,window=_blank]
+
+As mentioned, this first version is a little flimsy, I think the new version of the drawing will be enough in 16 gage aluminum, maybe with a slightly stronger attachment of the mounts to the tray panels.
+
+-x3300
+
+*x3300, Dec 5, 2010:*
+
+I'll need some kind of spring to hold up the back of the bike. As I mentioned in an earlier post modern off-road bikes have progressive suspension systems where the damping force and spring rate increase as the shock compresses. Most bikes use a linkage mechanism to achieve this, but some have a linkless design where the progressive effect is accomplished with progressive shock valving and progressive rate springs.
+
+Here's a nice spring force diagram from Race Tech:
+
+image::34-rear-spring/race-tech-image002-sm.jpg[link={imagesdir}/34-rear-spring/race-tech-image002.jpg,window=_blank]
+
+With some searching I found two progressive springs on the market that I thought would fit my TTX44 shock. One is the Race Tech 6326 Series.
+
+image::34-rear-spring/SRSP6327P25.jpg[]
+
+The other is the Langston Racing Super Progressive.
+
+image::34-rear-spring/LRS02-OR_CN400.jpg[]
+
+Just based on these two photos the Langston spring seems to have a much more progressive wind than the Race Tech.
+
+Here's a comparison of the recommended springs for a 250 SX-F from Ohlins, Race Tech and Langston. The stock spring rate for the 250 SX-F is 62 N/mm.
+
+  rider weight  Ohlins     Race Tech  Langston
+  kg (lb)       N/mm (lb/in)          N/mm
+  64 (140)      -          6326P05    -
+  69 (152)      -          -          LRS-01 64-132
+  70 (154)      60 (343)   -          -
+  75 (165)*     62 (354)   -          -
+  76 (167)      -          6326P10
+  80 (176)      64 (365)   -          -
+  85 (187)      66 (377)   -          -
+  90 (198)      68 (388)   6326P15
+  95 (209)      70 (400)   -          -
+  105 (230)     -          6326P20    -
+  109 (240)     -          -          LRS-02 83-176
+  120 (265)     -          6326P25    -
+  136 (300)     -          6326P30    -
+
+To get a handle on which of these would work with my custom rear suspension I considered how the ORGS rear compares with some linkless KTMs.
+
+  bike          style  travel(mm) ratio weight(kg) rate(N/mm)[/b]
+  KTM 250 SX-F  MX     335        3.07  100        62
+  KTM 450 SX-F  MX     335        3.07  105        68
+  ORGS          trail  280        2.57  200        -
+
+This bike will be much heavier than a 250cc MX bike, but it will mainly be used on trails, and the shock leverage is about 80% of the KTMs. I thought I'd rather have the back end a little too soft than too stiff, so I decided on the Race Tech 6326P10. The LRS-01 was another choice, but I thought it might be too stiff near bottoming. I put in an order and this arrived.
+
+image::34-rear-spring/new-spring-sm.jpg[link={imagesdir}/34-rear-spring/new-spring.jpg,window=_blank]
+
+Here's what I measured it to be:
+
+  Race Tech 6326P10
+  length = 260mm  10.35"
+  ID     = 63mm   2.48"
+  wire   = 13.0mm 0.51"
+
+Pretty close to 2.5" x 10", a common size of off-road racing truck coil-over springs. I've never seen any progressively wound truck springs though.
+
+To get the spring on the shock I needed to make a spring compressor. Here's an updated version of my ohlins spring plate drawing.
+
+image::34-rear-spring/ohlins-plate-drawing-sm.jpg[link={imagesdir}/34-rear-spring/ohlins-plate-drawing.jpg,window=_blank]
+
+The design is similar to my drive shaft spring compressor. A base plate has two arms welded to it.
+
+image::34-rear-spring/welding-arms-sm.jpg[link={imagesdir}/34-rear-spring/welding-arms.jpg,window=_blank]
+
+And two bolts are welded to the arms that pass through the plate.
+
+image::34-rear-spring/compressor-sm.jpg[link={imagesdir}/34-rear-spring/compressor.jpg,window=_blank]
+
+Here's the unit in action. I made the arms long enough to allow a block of plastic at the bottom to keep the shock from getting scratched.
+
+image::34-rear-spring/compressing-sm.jpg[link={imagesdir}/34-rear-spring/compressing.jpg,window=_blank]
+
+This photo shows how the 36.5mm radius cut-out allows the spring clip to be placed in position while the spring is compressed.
+
+image::34-rear-spring/ring-sm.jpg[link={imagesdir}/34-rear-spring/ring.jpg,window=_blank]
+
+And the shock with spring installed. I noticed that the spring hits the corner of the battery. I thought that it might after I got the new tray done. There's enough room to move the battery to the left a little. I just need to drill another set of mounting holes in the tray.
+
+image::34-rear-spring/installed-sm.jpg[link={imagesdir}/34-rear-spring/installed.jpg,window=_blank]
+
+With the shock installed I checked the free sag and ride height. For the 250 SX-F Ohlins recommends 30mm and 110-115mm for those. Converting by 109/335 gives 9.7mm and 35.8-37.4mm at the shock shaft. I measured 10mm and 28mm, which would seem a little too stiff, but I think it will be OK with the heavy bike, and the next lighter spring in the 6326 series is considerably lighter. After I get some trail riding time on the bike I'll be able to judge how well this spring works. I guess I'll need a stiffer spring while carrying traveling gear.
+
+I spent a lot of time researching springs, studying the data, and writing up the report, but the rear suspension is a big part of what this bike is and so I wanted to give selection of the spring proper coverage.
+
+-x3300
+
+*fishkens, Dec 5, 2010:*
+
+Thanks for the detailed posts. I learn something every time I visit your thread.
+
+*Zebedee, Dec 5, 2010:*
+
+fishkens said:
+
+Thanks for the detailed posts. I learn something every time I visit your thread. Click to expand...
+
+I'll second that ...
+
+Keep up the good work.
+
+John
+
+*brunocrossley, Dec 16, 2010:*
+
+X3300, please tell me. Are the upper and lower shock mounts exactly perpendicular to the swinging arm pivot axis, or do you allow for any misalignment with the rose joints? I'm trying to do something similar with a 'twin shock-to -mono' arrangement and find that the available target area on the main frame loop is inboard of that on the swinging arm. The shock wants to point in towards the spine of the main frame, and is trying to twist the conventional rubber shock-mounting eyes. I suppose that rod-ends would allow for that?
+
+I know it would be easier to find a mono frame, but where's the fun in that?
+
+Mark
+
+*x3300, Dec 17, 2010:*
+
+brunocrossley said:
+
+The shock wants to point in towards the spine of the main frame, and is trying to twist the conventional rubber shock-mounting eyes. Click to expand...
+
+brunocrossley, It sounds to me like you need to remove the old mounts and make some new ones where they will be aligned.
+
+I setup up the shock mounts so that the center of the shock end bearings were in the same plane, and that that plane was perpendicular to the swing arm pivot when the swingarm was centered in the swingarm bearing adjustments. With the lower clevis mount I can make adjustments with a thicker bearing spacer on one side if the swingarm needed to be moved over for drive shaft clearance or whatever, but I don't think that will be needed.
+
+This photo shows the mounts from the rear.
+
+image::32-shock-mounts/finished-rear-sm.jpg[link={imagesdir}/32-shock-mounts/finished-rear.jpg,window=_blank]
+
+-x3300
+
+*x3300, Dec 18, 2010:*
+
+With the extended swingarm and KTM shock there's no way the OE subframe will fit, and the subframe is something I thought I could replace with a lighter and simpler design.
+
+There were a lot of things I needed to consider for the subframe design. It needs to support the seat, rear fender, tail light, license plate, luggage racks, muffler, etc., in such a way that they all fit and work together, plus it also needs to clear the tire when the suspension bottoms out and somehow needs to connect to the main frame and be strong enough to hold the rider and luggage. With just blank nothingness at the back of the bike the task seemed a little daunting at first. Here's what I was faced with:
+
+image::35-subframe/nothingness-sm.jpg[link={imagesdir}/35-subframe/nothingness.jpg,window=_blank]
+
+To get an idea of what would work I made this mock-up with some aluminum flats I happened to have. I wanted to have as much as possible just straight tube so it would be easy to build and so it would have good load bearing for the weight.
+
+image::35-subframe/mock-up-sm.jpg[link={imagesdir}/35-subframe/mock-up.jpg,window=_blank]
+
+image::35-subframe/full-mock-up-sm.jpg[link={imagesdir}/35-subframe/full-mock-up.jpg,window=_blank]
+
+Once I had an idea of what would work I made up this subframe drawing to work with. The GS subframe is made of 18mm thick wall tube. My idea was to make a lighter weight unit of 3/4" (19mm) thin wall 1018 steel that may not be as strong, but had a simple design that could be easily replaced when damaged or updated with a chromoly or aluminum version without much effort. The design has only two bent tubes, the right front support needed to bend out to clear the shock reservoir, and the rear connecting tube needed to loop up and around the fender.
+
+image::35-subframe/subframe-drawing-sm.jpg[link={imagesdir}/35-subframe/subframe-drawing.jpg,window=_blank]
+
+To prepare the tube ends for welding I used a 3/4" end mill on a vertical milling machine to plunge into the tubes at the proper angels. I didn't have a 3/4" hole saw but the end mill worked OK. The other cuts I could do in a standard milling vice but for the shallow cut on the lower front supports I needed to use this angle plate setup. It wasn't a very solid setup so I used a 4 fluted mill and went in real slow. I've since bought a 3/4" ball end mill that will allow me to do shallow angle cuts in a vise.
+
+image::35-subframe/mill-setup-sm.jpg[link={imagesdir}/35-subframe/mill-setup.jpg,window=_blank]
+
+I have access to a Hossfeld tube bender. It only has press bending dies, but I thought that it would be enough to do the front support tube. I'll make up a set of 1/2" rotary draw dies to do the rear connecting loop and a top luggage rack. This photo is just a setup I did later to show the bender. When I did the bend I filled the tube with sand and sealed the ends with PVC electrical tape. The sand supports the tube from the inside and gives a smother bend.
+
+image::35-subframe/bender-sm.jpg[link={imagesdir}/35-subframe/bender.jpg,window=_blank]
+
+With the tube ends done and the front support bent I did a trial fitting to check the tire clearance and figure out what kind of mounts were needed on the frame.
+
+image::35-subframe/fitting-tire-sm.jpg[link={imagesdir}/35-subframe/fitting-tire.jpg,window=_blank]
+
+Here are the frame mounts I added. To get a shape and location that would work with my subframe I started with some templates from thick paper card stock then when I was satisfied with them I made up a set from 1/8" steel plate.
+
+image::35-subframe/mounts-sm.jpg[link={imagesdir}/35-subframe/mounts.jpg,window=_blank]
+
+To add some strength at the mount points I put on a set of lugs made from 7/8" thin wall tube slid over the 3/4". The welded subframe would be too big to fit into the sandblaster I have access to, so I sand blasted the individual tubes in preparation for painting.
+
+image::35-subframe/parts-sm.jpg[link={imagesdir}/35-subframe/parts.jpg,window=_blank]
+
+Here's a detail of a lug. I slid the outer tube over the main tube then crimped the end in an arbor press. I used a large open end wrench to form a rounded crimp edge which I thought would give a stiffer side-to-side crimp. I couldn't get enough force out of the press to completely flatten the tube and lug so I finished the crimp with a hammer and anvil. To finish the lugs I ground the crimped area to have a nice profile and have some clearance for the upper mounts, then welded a bead along the tube ends. In retrospect, I would have liked to put some relief on the ends of the lug to reduce the stress at that junction, similar to the way old lugged bicycle frames were done.
+
+image::35-subframe/welded-ends-sm.jpg[link={imagesdir}/35-subframe/welded-ends.jpg,window=_blank]
+
+With the tubes prepared I did another trial fitting to check the tire, fender, and shock clearance. When I setup the shock I put it as far inboard as possible so that there would be enough clearance to allow a straight lower subframe support as seen here.
+
+image::35-subframe/fitting-sm.jpg[link={imagesdir}/35-subframe/fitting.jpg,window=_blank]
+
+I used this carpenter's level to get the top tubes parallel to the main frame just before tack welding.
+
+image::35-subframe/weld-setup-sm.jpg[link={imagesdir}/35-subframe/weld-setup.jpg,window=_blank]
+
+Here are the sides welded up. This photo shows the simplicity of the design.
+
+image::35-subframe/sides-sm.jpg[link={imagesdir}/35-subframe/sides.jpg,window=_blank]
+
+To add some strength to the joining of the support tubes I made up this set of gussets.
+
+image::35-subframe/gussets-sm.jpg[link={imagesdir}/35-subframe/gussets.jpg,window=_blank]
+
+I used this hole punch to punch the hole and cut out the reliefs.
+
+image::35-subframe/punch-sm.jpg[link={imagesdir}/35-subframe/punch.jpg,window=_blank]
+
+And here's the subframe all welded up. I added a small plate on the middle cross tube to mount the fender.
+
+image::35-subframe/welded-sm.jpg[link={imagesdir}/35-subframe/welded.jpg,window=_blank]
+
+And the subframe with a UFO enduro fender. I still haven't decided on a rear fender yet...
+
+image::35-subframe/with-fender-sm.jpg[link={imagesdir}/35-subframe/with-fender.jpg,window=_blank]
+
+Here's a detail of the fender mount.
+
+image::35-subframe/fender-mount-sm.jpg[link={imagesdir}/35-subframe/fender-mount.jpg,window=_blank]
+
+And a shot with my old seat pan, which unfortunately, will no longer work. I'll need to make a new one.
+
+image::35-subframe/with-seat-sm.jpg[link={imagesdir}/35-subframe/with-seat.jpg,window=_blank]
+
+To finish the subframe I still need to make up the rear fender mount loop. I also plan to make a small detachable top luggage rack and two light weight detachable side luggage racks. All of these though depend on the rotary dies which need to be made.
+
+-x3300
+
+*Zebedee, Dec 19, 2010:*
+
+Thanks for the detailed updates ...
+
+Keep up the good work.
+
+John
+
+*fishkens, Dec 19, 2010:*
+
+Love it.
+
+I'm looking forward to how the luggage racks will be integrated. Do you think they'll bolt on or will they be welded for a permanent installation? Bolt on would be nice to allow removal and lighten the bike a up a bit when luggage isn't needed.
+
+*turnipbmw, Jan 1, 2011:*
+
+Love this kind of report !
+
+if you need any more parts from the UK, I will be visiting my uncle in Cupertino in the spring so may be able to bring them for you
+
+*datchew, Jan 1, 2011:*
+
+Fantastic.
+
+I eat this type of design and fab up! Yummy. :dg
+
+*x3300, Jan 1, 2011:*
+
+I've been down riding in Baja for the last week, so haven't made any progress on the build-up.
+
+Here's a video from along the coast south of San Felipe where they run the Baja 250 race:
+
+https://youtu.be/vWLamvA86ig
+
+-x3300
+
+*x3300, Jan 9, 2011:*
+
+There are some differences between the monolever and GS paralever final drives. The brake drum and output flange diameters are the same, but the GS output flange is a lot shorter.
+
+image::36-rear-hub/compare-brake-side-sm.jpg[link={imagesdir}/36-rear-hub/compare-brake-side.jpg,window=_blank]
+
+Here's how it looks when I mounted the GS wheel on the monolever drive. It can't be seen, but the brake shoes are hanging out into the gap. I figured it'd be best to try to fill up the gap somehow.
+
+image::36-rear-hub/wheel-offset-sm.jpg[link={imagesdir}/36-rear-hub/wheel-offset.jpg,window=_blank]
+
+I planned to rebuild the wheel so I pulled out the hub to work on it.
+
+image::36-rear-hub/hub-out-sm.jpg[link={imagesdir}/36-rear-hub/hub-out.jpg,window=_blank]
+
+Here's how it mounts up. I measured the gap as 22.5mm.
+
+image::36-rear-hub/the-gap-sm.jpg[link={imagesdir}/36-rear-hub/the-gap.jpg,window=_blank]
+
+The hub has a center section that extends out. To cut it down I mounted the hub on a lathe with a four-jaw chuck and used this indicator to get the hub centered.
+
+image::36-rear-hub/align-r-sm.jpg[link={imagesdir}/36-rear-hub/align-r.jpg,window=_blank]
+
+Then used this indicator and a mallet to set the axial alignment.
+
+image::36-rear-hub/align-a-sm.jpg[link={imagesdir}/36-rear-hub/align-a.jpg,window=_blank]
+
+After a few iterations of radial and axial alignment I could get the hub set. I cut off 21.5mm to leave a 1mm gap between the hub and final drive.
+
+image::36-rear-hub/turning-hub-sm.jpg[link={imagesdir}/36-rear-hub/turning-hub.jpg,window=_blank]
+
+After I got the center section cut down I checked for interference by pushing the drive into the hub and and turning it around.
+
+image::36-rear-hub/checking-fit-sm.jpg[link={imagesdir}/36-rear-hub/checking-fit.jpg,window=_blank]
+
+I found I needed to re-shape the uncut center section to make room for the brake springs as seen here. The outer edge of the monolever drum seals with two ridges, but the spoked paralever drum has only one outer ridge with the spoke nipples directly below. I trimmed a little off the outer edge of the hub to make some room, but there wasn't enough material there to cut off, and have some regrets now since it didn't solve the problem.
+
+image::36-rear-hub/spring-clearance-sm.jpg[link={imagesdir}/36-rear-hub/spring-clearance.jpg,window=_blank]
+
+To get the clearance I mounted the drive on the table of a vertical mill using this setup and cut 2mm off the inner sealing ridge. I just used the X and Y hand wheels while watching the cut to manually feed the cutter around the circular path.
+
+image::36-rear-hub/milling-drive-sm.jpg[link={imagesdir}/36-rear-hub/milling-drive.jpg,window=_blank]
+
+Even with all the cutting I still found the brake spring damper caused the spring to rub on the hub. The damper is really thick and causes the spring to bulge out. I'm not sure if it will rub when the brakes are properly adjusted, since the spring will move out a little when the brake is applied. I'll try a thinner damper if the spring rubs when the brake is setup.
+
+image::36-rear-hub/damper-problem-sm.jpg[link={imagesdir}/36-rear-hub/damper-problem.jpg,window=_blank]
+
+-x3300
+
+*Rucksta, Jan 9, 2011:*
+
+There is an alternate spring damper that is internal to the spring and does not incrrease the diameter
+
+*x3300, Jan 23, 2011:*
+
+Machining 21.5mm off the center of the rear wheel hub moved the hub that much closer to the swingarm. To fit a wide tire like the Gripster or TKC-80 I would need to offset the rim to the left to get the needed tire clearance.
+
+With a stock wheel and Metzler ME 880 140/80 tire mounted I measured the gap between the swingarm and tire to be about 10.5mm. I also measured the Gripster to be about 4mm wider than the ME 880, so as a rough figure I thought I'd need about 14mm of offset to have a 3mm tire to swingarm gap. I didn't think I could move the rim over that much and have proper spoke/nipple engagement with stock length spokes. I did have a set of stock length spokes I had bought to use with the paralever rear end, so I decided to do a temporary wheel build with them to get the length difference needed to have proper engagement.
+
+The spoke holes in the hub and wheel are drilled so they are close to being aligned when the wheel is assembled. With a rim offset of 14mm the holes would no longer be aligned. I decided to re-angle the holes a little to reduce the bend of the spokes. Due to the geometry of the wheel some spokes needed a little more rework than others. At first I used a hand drill with a twist drill to do the rim, but then switched to a small end mill chucked in the hand drill which gave me better control.
+
+image::37-rear-spokes/rim-holes-sm.jpg[link={imagesdir}/37-rear-spokes/rim-holes.jpg,window=_blank]
+
+I used an appropriately sized twist drill to do the hub.
+
+image::37-rear-spokes/hub-holes-sm.jpg[link={imagesdir}/37-rear-spokes/hub-holes.jpg,window=_blank]
+
+During my first attempt at building the wheel I found the spokes on the right hand side started to protrude into the nipple so much that the allen key would no longer engage. To continue I ground 3mm off the threaded end of half the spokes. I used this caliper as a length gage while grinding.
+
+image::37-rear-spokes/spoke-length-sm.jpg[link={imagesdir}/37-rear-spokes/spoke-length.jpg,window=_blank]
+
+The rear wheel lacks the bearings of the front wheel, so poses a challenge on how to support it for truing. I used the final drive and swingarm held up in a vise. I found that with no oil and the drive shaft splines disengaged it wasn't too bad. I needed to take the wheel off the drive to work on the spokes that had nipples inside the hub though. I didn't need super precision for the run-out, so I just used this setup with a sheet metal pointer held with a c-clamp.
+
+image::37-rear-spokes/truing-wheel-sm.jpg[link={imagesdir}/37-rear-spokes/truing-wheel.jpg,window=_blank]
+
+Once I got the wheel built I checked the tire clearance with several different tires mounted, and it seemed the 14mm offset would be OK. I used this 3mm screw and nuts as a depth gage and found I needed the left hand side spokes 6mm longer. The spokes had enough of the length threaded so that I would be able to use the shortened ones on the right hand side.
+
+image::37-rear-spokes/length-check-sm.jpg[link={imagesdir}/37-rear-spokes/length-check.jpg,window=_blank]
+
+Here's the wheel with a TKC-80 tire mounted that shows the offset rim and a little of the tire clearance.
+
+image::37-rear-spokes/dish-right-sm.jpg[link={imagesdir}/37-rear-spokes/dish-right.jpg,window=_blank]
+
+And a view of the left to compare.
+
+image::37-rear-spokes/dish-left-sm.jpg[link={imagesdir}/37-rear-spokes/dish-left.jpg,window=_blank]
+
+The spokes on the left side of the rim have just a few millimeters of the tread engaged. It is enough to hold the bike up, but I don't think will be strong enough to ride with. I need to get some longer ones to do the final build.
+
+-x3300
+
+*jgrady1982, Jan 24, 2011:*
+
+All I have to say is...wow
+
+*bikecat, Jan 24, 2011:*
+
+X3300,
+
+Great thread, and even greater work!
+
+One question; how difficult it is to rebuild the X-spokes wheel? Literature on the net makes it sound next to impossible.
+
+Cheers
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

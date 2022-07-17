@@ -1,0 +1,271 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 8
+
+[big]*The ORGS Build Up Project*
+
+*Page 8*
+
+*fishkens, Mar 26, 2011:*
+
+As with everything you've done, this is a very nice mod. This has been on the list for my GS (stock swingarm) for some time and I hope to get to it this spring.
+
+*NordieBoy, Mar 29, 2011:*
+
+x3300 said:
+
+image::42-rear-brake/fitting-cable-sm.jpg[link={imagesdir}/42-rear-brake/fitting-cable.jpg,window=_blank]
+
+You're going to need a bigger tyre than that one...
+
+*x3300, Apr 12, 2011:*
+
+I took the rear wheel apart to do the final build with the proper length spokes. In preparation for powder coating I scrubbed up the rim and hub with a strong detergent and steel wool followed by sand blasting and another detergent scrub and rinse.
+
+image::43-rear-wheel/blasted-parts-sm.jpg[link={imagesdir}/43-rear-wheel/blasted-parts.jpg,window=_blank]
+
+The smaller rear rim would just barely fit into the oven I have access to, but I wasn't confident I could get the rim into the oven without jarring the rim and having the loose powder come off, so I decided to use the same setup I used with the front rim to do a partial bake of the rim on the bench to stabilize the coating then I transfered the rim to the oven to do a final bake.
+
+image::43-rear-wheel/heating-setup-sm.jpg[link={imagesdir}/43-rear-wheel/heating-setup.jpg,window=_blank]
+
+Here's the rim and hub after coating.
+
+image::43-rear-wheel/coated-parts-sm.jpg[link={imagesdir}/43-rear-wheel/coated-parts.jpg,window=_blank]
+
+I got back in touch with Doug Richardson of The Devon Rim Co. and within a short time 20 spokes 6mm longer than stock arrived. I used the 20 that I had previously ground down shorter for the other side.
+
+image::43-rear-wheel/spokes-sm.jpg[link={imagesdir}/43-rear-wheel/spokes.jpg,window=_blank]
+
+There was some interest in my method of building a wheel, so I'll give some more details here. I use a copper based anti-seize to lubricate the stainless spoke threads.
+
+image::43-rear-wheel/anti-seize-sm.jpg[link={imagesdir}/43-rear-wheel/anti-seize.jpg,window=_blank]
+
+The first spoke is what is commonly called the 'key spoke'. It defines the relationship between the rim and hub. I set the key spoke so that the printing on the rim was at what I thought was the top of the hub.
+
+image::43-rear-wheel/key-spoke-sm.jpg[link={imagesdir}/43-rear-wheel/key-spoke.jpg,window=_blank]
+
+Then comes the second spoke.
+
+image::43-rear-wheel/2-spokes-sm.jpg[link={imagesdir}/43-rear-wheel/2-spokes.jpg,window=_blank]
+
+And continue until all ten are in place. I decide on a fixed number of turns, say five, to thread the nipples on so all will be some what equally engaged.
+
+image::43-rear-wheel/10-spokes-sm.jpg[link={imagesdir}/43-rear-wheel/10-spokes.jpg,window=_blank]
+
+Then I do the other ten to finish one side.
+
+image::43-rear-wheel/20-spokes-sm.jpg[link={imagesdir}/43-rear-wheel/20-spokes.jpg,window=_blank]
+
+Then I flip the wheel over and do the same on the other side to finish up the lacing part.
+
+At this point all spokes have the same number of threads engaged, but are still really loose. I go around the wheel several times turning each nipple the same amount, say five turns then two turns then one, until the spokes start to get tight.
+
+image::43-rear-wheel/40-spokes-sm.jpg[link={imagesdir}/43-rear-wheel/40-spokes.jpg,window=_blank]
+
+Once the spokes start getting tight I use a 3mm screw as a depth gage to set all the nipples to have the same engagement.
+
+image::43-rear-wheel/depth-gauge-sm.jpg[link={imagesdir}/43-rear-wheel/depth-gauge.jpg,window=_blank]
+
+At this point I'm ready to start to tighten up the spokes to the final tension. I put numbers on the hub to keep track of where I am in a tightening sequence.
+
+image::43-rear-wheel/nubmers-sm.jpg[link={imagesdir}/43-rear-wheel/nubmers.jpg,window=_blank]
+
+I use a torque wrench and a dial indicator to set the spoke tension. The tightening needs to be done such that the hub is centered in the rim without any run-out when the tightening is finished.
+
+image::43-rear-wheel/tools-sm.jpg[link={imagesdir}/43-rear-wheel/tools.jpg,window=_blank]
+
+My objective is to get all the spokes at equal torque with minimal run-out. The BMW service manual says nipples should be at 5 Nm, but since this wheel has a 14 mm dish, one side needs to be tighter than the other. I set the left to 4.5 Nm and the right to 5.8 Nm. I start with the wrench at a low torque value and work around the wheel in a sequence that I think will get the spokes up to tension while at the same time correcting any run-out. Tightening one spoke effects others around it; crossed spokes will tighten, and parrallel spokes will loosen.
+
+image::43-rear-wheel/manual-sm.jpg[link={imagesdir}/43-rear-wheel/manual.jpg,window=_blank]
+
+At first I just used this vise-grip to get a rough check of the radial run-out.
+
+image::43-rear-wheel/center-hub-sm.jpg[link={imagesdir}/43-rear-wheel/center-hub.jpg,window=_blank]
+
+I slowly up the torque setting and switch to using the dial indicator as I get closer.
+
+image::43-rear-wheel/axial-check-sm.jpg[link={imagesdir}/43-rear-wheel/axial-check.jpg,window=_blank]
+
+Once the spokes get pretty tight I use a punch to set the spoke heads in the rim.
+
+image::43-rear-wheel/punch-sm.jpg[link={imagesdir}/43-rear-wheel/punch.jpg,window=_blank]
+
+And pre-stress the spokes to yeild any tight ones.
+
+image::43-rear-wheel/stress-relief-sm.jpg[link={imagesdir}/43-rear-wheel/stress-relief.jpg,window=_blank]
+
+The BMW spec is 1.0mm run-out, and after some work I was able to get this wheel to a radial run-out of 0.2 mm and an axial run-out of 0.7 mm.
+
+Here's how it looks with a tire mounted.
+
+image::43-rear-wheel/left-sm.jpg[link={imagesdir}/43-rear-wheel/left.jpg,window=_blank]
+
+image::43-rear-wheel/right-sm.jpg[link={imagesdir}/43-rear-wheel/right.jpg,window=_blank]
+
+-x3300
+
+*bikecat, Apr 12, 2011:*
+
+Thanks for the write up on wheel rebuilding.
+
+Cheers
+
+*fishkens, Apr 12, 2011:*
+
+Would you please train a planet of technical manual editors how it should be done? You write like you're not being paid by the word.
+
+Nicely done (although my bicycle wheels never seemed to go together so easily).
+
+Thanks.
+
+*Stagehand, Apr 12, 2011:*
+
+Dear Sir-
+
+That is awesome. Bike looks great.
+
+Regards,
+
+SH
+
+*Zebedee, Apr 12, 2011:*
+
+fishkens said:
+
+Would you please train a planet of technical manual editors how it should be done? You write like you're not being paid by the word.
+
+Nicely done (although my bicycle wheels never seemed to go together so easily).
+
+Thanks. Click to expand...
+
+I think our friend x3300 (geoff) has made many many things look deceptively simple and straightforward in this thread.
+
+His explanations are always clear, concise and a pleasure to read, even if I've got no plans to actually use any of the information he's imparted.
+
+Keep up the good work Geoff ...
+
+John
+
+*igormortis, Apr 12, 2011:*
+
+Fantastic work, sir!
+
+*Padmei, Apr 13, 2011:*
+
+That looked so easy I'm tempted to try it myself - I won't - but am tempted
+
+*Beater, Apr 13, 2011:*
+
+Whoa. Mad. Holy Crap ... that's beautiful.
+
+*Benjamin M, Aug 7, 2011:*
+
+anything much happened in the last four months?
+
+*Chadleys1, Aug 8, 2011:*
+
+Benjamin M said:
+
+anything much happened in the last four months? Click to expand...
+
+Ditto. This has really been a great thread. Thanks.
+
+*Benjamin M, Aug 26, 2011:*
+
+What happened?:huh Finish the bike!
+
+*Benjamin M, Sep 1, 2011:*
+
+x3300 said:
+
+Hi All,
+
+I got sidetracked on a few other summer projects and a lot of riding, and so haven't been doing much other than research and collecting ideas for my ORGS. I plan to switch back once the rain comes toward the end of the year.
+
+One of the projects was to get a truck and get it into shape so I'll have something to haul the bike around with as needed before it becomes fully road worthy.
+
+-x3300 Click to expand...
+
+Okay, we'll let you off then... Just checking
+
+*Box'a'bits, Apr 5, 2012:*
+
+So dredging this thread back from the dead, any progress? . A man can only stomach so much popcorn....
+
+*beeks76, May 7, 2012:*
+
+My God! I just read through this entire thread with my anticipation building like a teenager on his prom night, waiting for the climax and BAM, no finished photo. I think I am going to have blue balls! At least give us an updated photo.
+
+*x3300, May 12, 2012:*
+
+The old seat pan I had made no longer works with the new subframe, plus I was not entirely satisfied with the way the old one turned out, so I decided to make up a new one. I started with a model made from thin cardboard that I thought looked good on the bike, and then transfered that pattern to some 3/32" aluminum sheet I had been saving.
+
+image::44-new-seat-pan/layout-sm.jpg[link={imagesdir}/44-new-seat-pan/layout.jpg,window=_blank]
+
+I used a squaring shear to trim out the blank.
+
+image::44-new-seat-pan/blank-sm.jpg[link={imagesdir}/44-new-seat-pan/blank.jpg,window=_blank]
+
+And used this sheet metal brake to bend the sides to the angle I had decided on with the cardboard model. To get the large radius bend from the brake I set the brake fingers back about 20 mm from the hinge joint, the setup of which can just be seen in this view.
+
+image::44-new-seat-pan/brake-sm.jpg[link={imagesdir}/44-new-seat-pan/brake.jpg,window=_blank]
+
+Here's the formed pan compared to my cardboard model. I rounded down the sharp corners with a file.
+
+image::44-new-seat-pan/bent-sm.jpg[link={imagesdir}/44-new-seat-pan/bent.jpg,window=_blank]
+
+To space the pan from the frame and to add some stiffness I cut these sections from aluminum rectangle stock. As can be seen, in preparation for welding I cleaned up the area around the stiffeners with a flapper disk on an electric angle grinder.
+
+image::44-new-seat-pan/stifeners-sm.jpg[link={imagesdir}/44-new-seat-pan/stifeners.jpg,window=_blank]
+
+I had planned to make a slip-in front mount to make it easy to access under the seat, but decided for now to simplify the mount and just have it bolt together. I'll add the slip-in mount when I make an under seat storage box. For the frame side of the mount I attached this section of aluminum angle stock to the rear seat mount and drilled a single hole in its top.
+
+image::44-new-seat-pan/front-frame-mount-sm.jpg[link={imagesdir}/44-new-seat-pan/front-frame-mount.jpg,window=_blank]
+
+I found I needed to do some rework on the pan's front mount once I got it fitted on the bike. It was too wide to fit within the subframe mounting bolts. With the pan centered on the bike I drilled up through the hole in the frame mount and into the pan mount and pan.
+
+image::44-new-seat-pan/front-mount-sm.jpg[link={imagesdir}/44-new-seat-pan/front-mount.jpg,window=_blank]
+
+To hold the blind side of the front mount bolt which will be covered by the seat foam and cover I welded a tab to the head of a bolt and fixed the tab to the pan with a pop rivet. I ground the bolt head down to a lower profile.
+
+image::44-new-seat-pan/front-bolt-sm.jpg[link={imagesdir}/44-new-seat-pan/front-bolt.jpg,window=_blank]
+
+For the rear mount I made these tabs to weld to the subframe.
+
+image::44-new-seat-pan/frame-tabs-sm.jpg[link={imagesdir}/44-new-seat-pan/frame-tabs.jpg,window=_blank]
+
+image::44-new-seat-pan/tabs-welded-sm.jpg[link={imagesdir}/44-new-seat-pan/tabs-welded.jpg,window=_blank]
+
+On the seat pan I welded two tabs cut from 1" x 1/8" aluminum stock.
+
+image::44-new-seat-pan/pan-tabs-sm.jpg[link={imagesdir}/44-new-seat-pan/pan-tabs.jpg,window=_blank]
+
+I used these clip-on nuts for the rear mount bolts. I may weld some nuts on the bottom of the frame tabs the next time I have the subframe off, or better, make a locking quick release mechanism to work with the slip-in front mount.
+
+image::44-new-seat-pan/rear-bolts-sm.jpg[link={imagesdir}/44-new-seat-pan/rear-bolts.jpg,window=_blank]
+
+Here's the seat pan ready for foam and a cover. The side panels really aren't necessary, but I didn't want to just have square block of a seat there so I put on some sides with angles that looked interesting when viewed together with the tank and subframe.
+
+image::44-new-seat-pan/pan-done-sm.jpg[link={imagesdir}/44-new-seat-pan/pan-done.jpg,window=_blank]
+
+-x3300
+
+*Zebedee, May 13, 2012:*
+
+Click to expand...
+
++1
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300

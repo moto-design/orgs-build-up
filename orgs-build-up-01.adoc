@@ -1,0 +1,483 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+:linkattrs:
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 1
+
+[big]*The ORGS Build Up Project*
+
+*Page 1*
+
+*x3300, Mar 6, 2010:*
+
+Hi everyone,
+
+I have really enjoyed the stories of other airhead bike build up projects, so will be posting mine, the build up of ORGS my Off-Road GS here.
+
+I have a good general idea of what I want, but you'll have to follow along as the plan in my head unfolds. My intention is for ORGS to be a bike I can take on the highway and ride all day long for several days to get to a destination, say Moab, Baja, or Copper Canyon, spend a week or so doing some hard riding on unmaintained back roads, then make it back. I want it to be able to take a wipeout without a lot of damage, or cost to repair. That was a drawback of my GSPD. Windscreens, body panels, handle bars, etc. break and cost a lot.
+
+As a base to start with I have bought this '92 GS with 27,000 miles:
+
+image::01-orgs-build-up/bumble-bee-sm.jpg[link={imagesdir}/01-orgs-build-up/bumble-bee.jpg,window=_blank]
+
+image::01-orgs-build-up/bumble-bee-sm.jpg[link={imagesdir}/01-orgs-build-up/bumble-bee.jpg,window=_blank]
+
+And I got this run down '92 PD with 52,000 for parts:
+
+image::01-orgs-build-up/parts-bike-sm.jpg[link={imagesdir}/01-orgs-build-up/parts-bike.jpg,window=_blank]
+
+The first thing I'll work on is to get the frame in order. I took a day to strip the parts bike down. Here is what is left that I'll start to craft into ORGS. It looks like a chicken to me:
+
+image::01-orgs-build-up/chicken-frame-sm.jpg[link={imagesdir}/01-orgs-build-up/chicken-frame.jpg,window=_blank]
+
+I studied some photos of the frame upgrades done by various projects, and came up with these paper patterns, then cut them from metal I bought at the scrap yard:
+
+image::01-orgs-build-up/gussets-and-patterns-sm.jpg[link={imagesdir}/01-orgs-build-up/gussets-and-patterns.jpg,window=_blank]
+
+It took a lot of work to get those gussets cut out using a pneumatic cutoff tools.
+
+image::01-orgs-build-up/cutting-gussets-sm.jpg[link={imagesdir}/01-orgs-build-up/cutting-gussets.jpg,window=_blank]
+
+I made a digital scan of the finished gussets and I'll make some vector graphic data from them which can then be used by anyone interested to program a CAD controled plasma cutter. What took me several days will be able to be done in a few minutes.
+
+Update:
+
+I put the vector graphics I have ready here: {url-frame-gussets-svg}[{url-frame-gussets-svg}]
+
+Also, I started a thread dedicated to frame gussets: {url-bmw-frame-gussets}[{url-bmw-frame-gussets}]
+
+-x3300
+
+*Airhead Wrangler, Mar 6, 2010:*
+
+Looks like you've spent about as much time ogling HPN frame reinforcements as I have. If you'd like some more detailed close up shots of their work PM me an email and I can shoot them over to you.
+
+*x3300, Mar 9, 2010:*
+
+Airhead Wrangler, thanks for the offer. I did a fair amount of research for the frame mods, but will certainly welcome any more info or comments I can get.
+
+Something I forgot to mention the other day in my list up of things for this bike is that it must look cool. I can see that costing some money, but for the effort that will go into it I want this thing to look good.
+
+I got up early Saturday planning to get all the gusset welding done, but it went slower than I thought with fitting the gussets, cleaning the joining parts, grinding tungsten, etc. and I could just finish tack welding all the gussets in place by late Saturday night.
+
+image::02-frame-welding/tourch-and-filler-sm.jpg[link={imagesdir}/02-frame-welding/tourch-and-filler.jpg,window=_blank]
+
+image::02-frame-welding/gusset-fab-sm.jpg[link={imagesdir}/02-frame-welding/gusset-fab.jpg,window=_blank]
+
+image::02-frame-welding/tacking-sub-gusset-sm.jpg[link={imagesdir}/02-frame-welding/tacking-sub-gusset.jpg,window=_blank]
+
+It was hard to get the top tube gussets clamped for tacking, but I found that masking tape worked well.
+
+image::02-frame-welding/top-tube-masked-sm.jpg[link={imagesdir}/02-frame-welding/top-tube-masked.jpg,window=_blank]
+
+image::02-frame-welding/top-tube-tacked-sm.jpg[link={imagesdir}/02-frame-welding/top-tube-tacked.jpg,window=_blank]
+
+I got up early again on Sunday, thinking I was living the movie 'Ground Hog Day' but could get all the gussets welded up.
+
+image::02-frame-welding/welding-in-progress-sm.jpg[link={imagesdir}/02-frame-welding/welding-in-progress.jpg,window=_blank]
+
+image::02-frame-welding/welding-top-tube-gusset-sm.jpg[link={imagesdir}/02-frame-welding/welding-top-tube-gusset.jpg,window=_blank]
+
+I plan to use an EnDuraLast charging system, so made up some brackets to mount the regulator along the top tube.
+
+image::02-frame-welding/regulator-mount-fab-sm.jpg[link={imagesdir}/02-frame-welding/regulator-mount-fab.jpg,window=_blank]
+
+I am satisfied with the results of the weekend. After two days of serious welding I can certainly say my TIG welding skills have improved.
+
+-x3300
+
+*x3300, Mar 9, 2010:*
+
+I'd like to get some more rear wheel travel out of my paralever suspension, so to get a better idea of the limits I took a few measurements of the shock length at differing swing arm positions. I took some measurements with just the swing arm and final drive bolted up to the bare frame, and some measurements with the fully assembled GS with just the rear shock removed.
+
+image::03-rear-suspension-study/rear-bottomed-sm.jpg[link={imagesdir}/03-rear-suspension-study/rear-bottomed.jpg,window=_blank]
+
+image::03-rear-suspension-study/rear-centered-sm.jpg[link={imagesdir}/03-rear-suspension-study/rear-centered.jpg,window=_blank]
+
+image::03-rear-suspension-study/rear-topped-out-sm.jpg[link={imagesdir}/03-rear-suspension-study/rear-topped-out.jpg,window=_blank]
+
+Here are my measurements in millimeters:
+
+Code: swing arm topped out 520
+
+drive shaft topped out 505
+
+swing arm centered (zero u-joint angle) 450
+
+drive shaft bottomed ou 402
+
+tire bottomed out (Torance 130/80-17) 392
+
+swing arm bottomed out 387 I found the limiting factor is the drive shaft in both top-out and bottom-out. I could hear the drive shaft rubbing, but because the bike was fully assembled I couldn't tell if the rubbing was from the yokes contacting, or from the drive shaft rubbing on the inside of the swing arm.
+
+To get a ratio for shock stroke vs. wheel travel I measured the change in the distance between the sub frame and the center of the final drive when the swing arm topped out and the tire bottomed out and got 280mm.
+
+travel/stroke = 280 / (520 - 392) = 2.18
+
+So as just a rough limit, between the extremes of when the drive shaft starts rubbing the wheel travel will be:
+
+(505 - 402) * 2.18 = 224mm = 8.8"
+
+Some specs I found for the stock GS say it has 180mm (7.08") of wheel travel, so it seems reasonable to assume that there is no way to add more than 44mm (1 5/8").
+
+I want to do some more study of the u-joint angles and to understand what is rubbing at the extremes. I also have to check if my shock body (Fox twin-clicker) can take a longer shaft, and what parts are available for it.
+
+-x3300
+
+*BALSEY, Mar 11, 2010:*
+
+I like were your going with this .On Sat. I bought a 78' R80/7 with similar plans of resurection. I have an 83' R100,(bought new) that I would be replacing. Too nice to convert. I like the detail in your fabrication.Keep it coming!
+
+*x3300, Mar 13, 2010:*
+
+Thanks for the encouragement BALSEY, I'm glad someone can appreciate my efforts.
+
+During the week I did some cleanup on the frame. As far as I know, dirt bikes don't have passenger foot pegs, and I think this thing really looks out of place, so off it went.
+
+image::04-frame-cleanup/passenger-gone-sm.jpg[link={imagesdir}/04-frame-cleanup/passenger-gone.jpg,window=_blank]
+
+I'll make a custom fork lock. I'm thinking something like the old Harleys had that used a padlock, but using a brake disk lock. Anyway, for now I got rid of that thing also since it doesn't fit into my plan.
+
+image::04-frame-cleanup/fork-lock-gone-sm.jpg[link={imagesdir}/04-frame-cleanup/fork-lock-gone.jpg,window=_blank]
+
+To make room for the EnDuraLast voltage regulator on the top tube I cut off the existing bracket that the starter, horn, and load shedding relays mount to. I made up a new relay bracket from a piece of 7/8" square tube stock that I cut length-wise. This photo shows how I set the voltage regulator mounts and the relay mount.
+
+image::04-frame-cleanup/relay-mount-sm.jpg[link={imagesdir}/04-frame-cleanup/relay-mount.jpg,window=_blank]
+
+Just as a preview of things to come, a package arrived this week with this very cool thing inside. I put it up on the shelf for later. I'll need to make a rear mount for it, as the original mount won't fit with the rear top tube gussets I added to the frame.
+
+image::04-frame-cleanup/r65-tank-preview-sm.jpg[link={imagesdir}/04-frame-cleanup/r65-tank-preview.jpg,window=_blank]
+
+-x3300
+
+*Stagehand, Mar 13, 2010:*
+
+I love your work. I would only take issue with the assertion that a GSPD cant take hits without expensive damage. A few good tumbles gets rid of all the weak parts and after that you have to grind shit off to remove it
+
+Other than that, I cant wait to see where you go with this.
+
+You going to keep the stock front end?
+
+You really gonna make that poor paralever go another inch? you sadist!
+
+*Airhead Wrangler, Mar 13, 2010:*
+
+Stagehand said:
+
+I would only take issue with the assertion that a GSPD cant take hits without expensive damage. Click to expand...
+
+Well, compared to a proper aircooled dirtbike, it can't. My definition of a dirtbike is that you can dump it several times per day of riding without anything more than a few scrapes and scratches. GSPDs and any other beemer are heavy enough that when they get dumped, parts either come off or get bent, cracked or otherwise mangled.
+
+This begs the question: what do you have planned for protecting the cylinders? Anything more substantial than the stock bars?
+
+*charliemik, Mar 13, 2010:*
+
+I'm gonna enjoy this. I always wanted to do this to an airhead. I think there's a lot of room for creative improvement.
+
+*x3300, Mar 13, 2010:*
+
+I've done another creative improvement over the last few days. I wanted to lower the pegs and move them back some so I made up these brackets that weld to the bottom of the existing foot peg brackets.
+
+image::05-foot-pegs/foot-peg-fab-sm.jpg[link={imagesdir}/05-foot-pegs/foot-peg-fab.jpg,window=_blank]
+
+Because of the brake pedal just below the right foot peg there was a limit to how far down and back I could go. I think to do any more than what I have done would need to have a bolt-on foot peg bracket which could then be removed to service the brake pedal. As it is, I needed to grind back some of the existing brake pedal bracket to allow the brake pedal to drop down (rotate more) to clear the new foot peg bracket. I also needed to grind the brake pedal dirt guard to make clearance for the new bracket. Both these mods can be seen in this photo.
+
+image::05-foot-pegs/brake-pedal-removal-sm.jpg[link={imagesdir}/05-foot-pegs/brake-pedal-removal.jpg,window=_blank]
+
+The left bracket was relatively easy compared with the right. Here are the finished mounts.
+
+image::05-foot-pegs/left-peg-done-sm.jpg[link={imagesdir}/05-foot-pegs/left-peg-done.jpg,window=_blank]
+
+image::05-foot-pegs/right-peg-done-sm.jpg[link={imagesdir}/05-foot-pegs/right-peg-done.jpg,window=_blank]
+
+-x3300
+
+*Zebedee, Mar 14, 2010:*
+
+... I was born a ramblin' man
+
+Nice work so far X
+
+*x3300, Mar 20, 2010:*
+
+Airhead Wrangler, I'm thinking to make some custom crash bars. I'll relocate the oil cooler and side stand, so that will simplify the design. I'll most likely just put some stock ones on there at first until I get the custom ones made up.
+
+Stagehand, those stock GS forks were out of date even when the bike was new...
+
+I did a lot of minor things since the last post, but only a few worthy of a writeup. To mount the R65 tank I needed to weld the front tank mount back on the down tubes, but it needed to be positioned a little higher since the frame gusset was in the way. I used a bubble level to get it positioned for welding.
+
+image::06-naval-jelly/bmw-tank-mount-setup-sm.jpg[link={imagesdir}/06-naval-jelly/bmw-tank-mount-setup.jpg,window=_blank]
+
+image::06-naval-jelly/bmw-tank-mount-sm.jpg[link={imagesdir}/06-naval-jelly/bmw-tank-mount.jpg,window=_blank]
+
+The parts bike that the frame came from had sat in a garage near the coast for a few years and had a lot of rusting. I went over the frame with a wire wheel mounted in an electric drill, then with a few applications of Naval Jelly. In general, I was happy with the result.
+
+image::06-naval-jelly/naval-jelly-sm.jpg[link={imagesdir}/06-naval-jelly/naval-jelly.jpg,window=_blank]
+
+-x3300
+
+*x3300, Mar 27, 2010:*
+
+In my last post I mentioned I'd been working on a lot of minor things, and now they've added up to be something to report. Whenever I went down to Baja I always had some envy of those dirt bikes. I tried, but just couldn't keep up. They had such nice suspensions compared to the GS.
+
+Some time ago I got these CRF250R forks off ebay.
+
+image::07-steering-tube/fork-sm.jpg[link={imagesdir}/07-steering-tube/fork.jpg,window=_blank]
+
+All the CRFs, 125, 250 and 450, use the same fork with minor changes in spring rate and valving.
+
+Here is what I found when I compared the GS to the CRF:
+
+Code: R100GS CRF250R difference
+
+wheel base 1513 mm 1477 mm -36 mm
+
+steering stops 90 deg 90 deg 0
+
+bearing 28x52x16 30x51x15
+
+tube length 168 mm 192 mm +24 mm
+
+rake 28.0 deg 27.5 deg -0.5 deg
+
+trail 100 mm 125 mm +25 mm
+
+triple offset 37.5 mm 24.0 mm -13.5 mm
+
+fork lead 38.0 mm 32.0 mm -6.0 mm
+
+total offset 75.5 mm 56.0 mm -19.5 mm
+
+In the table, total offset = triple offset + fork lead, which is the distance the wheel's center is from the steering axis.
+
+Here is my first attempt at adapting the CRF forks on another bike.
+
+image::07-steering-tube/first-long-tube-sm.jpg[link={imagesdir}/07-steering-tube/first-long-tube.jpg,window=_blank]
+
+I just added on another 25mm to the top of the steering tube and fitted some 30x52x16 bearings. It was a relatively simple mod, and it worked out OK, but there were several problems with it.
+
+Because of the shorter offset and the higher front end the trail was jacked way out. It carved around turns and was really stable on the highway, and I found I really didn't need a steering stabilizer. It seemed tiring to ride through tight twisty stuff though, and was also hard to turn when stopped with a lot of weight on the bike.
+
+Another big problem was the loss of steering angle. The lower triple would hit the frame at the down tube gussets. I really missed those extra few degrees. It was very hard to do slow technical riding. When you need to turn into the falling bike to keep it up. There was just no way... I've seen some similar adaptations that put a spacer between the lower bearing and the lower triple clamp. That would allow more steering angle, but would raise up the front end.
+
+Anyway, my list for ORGS was:
+
+90 degree stop to stop steering angle About 110 mm trail Minimize ride hight
+
+The solution I came up with this time was to fit another steering tube that would mount the CRF triple just ahead of the original steering tube, a pretty radical mod.
+
+I found a hydraulic cylinder tube and a chunk of 2.5" round stock at the scrap yard that I though wold work. The OD of the hydraulic cylinder tube measured 65.0 mm. Here is the plan for the tube ends that would take the CRF's 30x51x15 bearings.
+
+image::07-steering-tube/steering-tube-plan-sm.jpg[link={imagesdir}/07-steering-tube/steering-tube-plan.jpg,window=_blank]
+
+And here is the hydraulic cylinder tube, and the finished tub ends.
+
+image::07-steering-tube/tube-ends-machined-sm.jpg[link={imagesdir}/07-steering-tube/tube-ends-machined.jpg,window=_blank]
+
+To fit the tube length I just assembled the bearings and tube ends in the triple clamp and marked off how long I needed it.
+
+image::07-steering-tube/fitting-tube-length-sm.jpg[link={imagesdir}/07-steering-tube/fitting-tube-length.jpg,window=_blank]
+
+Here is the finished head assembly. You can see here where I had filed grooves in the lower triple clamp to get more steering angle clearance on the old bike.
+
+image::07-steering-tube/head-assembled-sm.jpg[link={imagesdir}/07-steering-tube/head-assembled.jpg,window=_blank]
+
+Based on measurements and trial fittings I figured I needed to set the bottom of the new tube about 40 mm in front of the original tube to give me enough clearance between the lower triple and the frame down tubes to get the 90 degrees of turning I wanted. The original steering tube diameter is 60 mm, and the new tube 65 mm, so if the new tube goes 40 mm in front of it I would need to cut the old tube where the new and old tubes intersect, then weld on the new tube.
+
+But wait, I also needed to set the new steering tube at a steeper angle than the original to get the reduced trail I wanted. I did a some calculations based on the geometry of the two bikes and found I needed to cut about 6 mm less off the top of the old tube than at the bottom of it.
+
+Now the new tube is a perfect cylinder, but the old tube has a reduced center section, a complicated intersection to figure out... I only had one chance to do the cut, so I wanted to be pretty sure it would be right. I figured I'd better have a pretty good handle on that intersection before cutting. I used a graphical geometric calculation to get the four intersection points of the very top of the tube, the top and bottom of the reduced section, and the very bottom of the tube.
+
+image::07-steering-tube/tube-calculations-sm.jpg[link={imagesdir}/07-steering-tube/tube-calculations.jpg,window=_blank]
+
+Being a bit nervous, I made a trial cut and checked the fitting.
+
+image::07-steering-tube/trial-cut-sm.jpg[link={imagesdir}/07-steering-tube/trial-cut.jpg,window=_blank]
+
+Then I transfered the intersection points to the tube then sketched in the rest of the cut.
+
+image::07-steering-tube/cut-markup-sm.jpg[link={imagesdir}/07-steering-tube/cut-markup.jpg,window=_blank]
+
+Then did the final cut.
+
+image::07-steering-tube/cut-tube-sm.jpg[link={imagesdir}/07-steering-tube/cut-tube.jpg,window=_blank]
+
+image::07-steering-tube/cut-outs-sm.jpg[link={imagesdir}/07-steering-tube/cut-outs.jpg,window=_blank]
+
+I put the swing arm and rear wheel on the bike to use as a baseline to align the new steering tube, then ground the sides of the cutout with an air grinder until the two pieces mated up and the new tube was aligned with the rear wheel.
+
+image::07-steering-tube/rear-marker-sm.jpg[link={imagesdir}/07-steering-tube/rear-marker.jpg,window=_blank]
+
+image::07-steering-tube/tube-alignment-sm.jpg[link={imagesdir}/07-steering-tube/tube-alignment.jpg,window=_blank]
+
+Then, with the two straight edges aligned I tacked the new tube in place.
+
+image::07-steering-tube/tube-tack-welded-sm.jpg[link={imagesdir}/07-steering-tube/tube-tack-welded.jpg,window=_blank]
+
+After a lot of checking and a break for coffee I welded the new tube on.
+
+image::07-steering-tube/welding-tube-sm.jpg[link={imagesdir}/07-steering-tube/welding-tube.jpg,window=_blank]
+
+To add strength and cover the hole of the old tube I made some gussets from 1/8 stock.
+
+image::gusset-design/steering-tube-gussets-sm.jpg[link={imagesdir}/gusset-design/steering-tube-gussets.jpg,window=_blank]
+
+image::07-steering-tube/tube-top-view-sm.jpg[link={imagesdir}/07-steering-tube/tube-top-view.jpg,window=_blank]
+
+image::07-steering-tube/tacking-top-cover-sm.jpg[link={imagesdir}/07-steering-tube/tacking-top-cover.jpg,window=_blank]
+
+image::07-steering-tube/tube-top-view-with-cover-sm.jpg[link={imagesdir}/07-steering-tube/tube-top-view-with-cover.jpg,window=_blank]
+
+I wanted to mount a Scotts steering damper (http://www.scottsperformance.com), and the stock CRF triple just doesn't look very cool, so I bought an Applied Racing Stabilizer-Ready triple clamp (http://www.appliedrace.com) that had the same offset of 24 mm as the stock CRF.
+
+image::07-steering-tube/triple-clamp-sm.jpg[link={imagesdir}/07-steering-tube/triple-clamp.jpg,window=_blank]
+
+To fabricate a tower for the damper I got a 3/8-16 brass screw, coupler and jam nut. I cut the head off the screw and filed the sides down until the screw just fit into the slot of the damper arm.
+
+image::07-steering-tube/tower-parts-sm.jpg[link={imagesdir}/07-steering-tube/tower-parts.jpg,window=_blank]
+
+I welded the coupler to a bracket made from 1/8 flat stock, then welded that to the top cover. I needed to chase the coupler threads with a tap after welding it.
+
+image::07-steering-tube/tower-done-sm.jpg[link={imagesdir}/07-steering-tube/tower-done.jpg,window=_blank]
+
+image::07-steering-tube/tower-rear-view-sm.jpg[link={imagesdir}/07-steering-tube/tower-rear-view.jpg,window=_blank]
+
+This shows the steering angle is close to 45 degrees. The limit is in the damper, not the steering stop.
+
+image::07-steering-tube/max-turn-sm.jpg[link={imagesdir}/07-steering-tube/max-turn.jpg,window=_blank]
+
+I'll need to weld some small shims to the frame so the steering stop will hit it before the damper reaches its limit.
+
+image::07-steering-tube/steering-stop-sm.jpg[link={imagesdir}/07-steering-tube/steering-stop.jpg,window=_blank]
+
+image::07-steering-tube/steering-stop-detail-sm.jpg[link={imagesdir}/07-steering-tube/steering-stop-detail.jpg,window=_blank]
+
+It was a big mod, but I am very satisfied with the result. This photo just doesn't present what it looks like, it looks really cool in person.
+
+image::07-steering-tube/tube-done-sm.jpg[link={imagesdir}/07-steering-tube/tube-done.jpg,window=_blank]
+
+I'm really wondering how it will ride, and where it will crack if it does.
+
+-x3300
+
+*Airhead Wrangler, Mar 27, 2010:*
+
+Oh man. This is getting savage. Not going to be putting THAT frame back to stock. Nice work.
+
+*Stagehand, Mar 27, 2010:*
+
+Wow :huh :eek1
+
+That is pretty amazing. Savage is an excellent word.
+
+*bgoodsoil, Mar 27, 2010:*
+
+holy crap man. I've seen plenty of fork swaps but nothing like that.
+
+*x3300, Apr 3, 2010:*
+
+Given the will, there is a savage way!
+
+I've been pushing to get all the frame welding done so I can move on to other things. I added two gussets to the shock mount to give it a better connection to the frame.
+
+image::08-fitting-tanks/shock-mount-gusset-sm.jpg[link={imagesdir}/08-fitting-tanks/shock-mount-gusset.jpg,window=_blank]
+
+A big box arrived by air freight from Germany.
+
+image::08-fitting-tanks/big-box-sm.jpg[link={imagesdir}/08-fitting-tanks/big-box.jpg,window=_blank]
+
+image::08-fitting-tanks/big-box-open-sm.jpg[link={imagesdir}/08-fitting-tanks/big-box-open.jpg,window=_blank]
+
+image::08-fitting-tanks/big-box-unwrapped-sm.jpg[link={imagesdir}/08-fitting-tanks/big-box-unwrapped.jpg,window=_blank]
+
+I really liked having the big tank on the PD. I've done 1000 mile days with it where I just needed to fill-up a few times. A big tank is really nice when you go off into the mountains for a day or two and don't need to carry extra cans. I'll have this big tank for trips, and use the R65 tank for local riding.
+
+I got the more expensive nylon tank that can be painted. I figured it would be a better investment, as I can repaint it when it gets scratched-up or when I want to change the color scheme.
+
+image::08-fitting-tanks/big-tank-concept-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-concept.jpg,window=_blank]
+
+I made up this pattern in the lower right for the front tank mount bracket.
+
+image::gusset-design/hpn-tank-mount-sm.jpg[link={imagesdir}/gusset-design/hpn-tank-mount.jpg,window=_blank]
+
+I don't have a photo of the unmounted bracket. I fabricated it out of 1/8" flat stock and drilled a big hole in it.
+
+I used a piece of welding rod and a bubble level to align the two brackets on the frame, then tacked the brackets.
+
+image::08-fitting-tanks/big-tank-mount-align-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-mount-align.jpg,window=_blank]
+
+image::08-fitting-tanks/big-tank-mount-tacked-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-mount-tacked.jpg,window=_blank]
+
+image::08-fitting-tanks/big-tank-mount-welded-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-mount-welded.jpg,window=_blank]
+
+The welded brackets look a little flimsy. I'll add another support running from the inside of the down tube to the bracket, but I don't have any stock of that size. I'm thinking 1/8 x 1/2 will work good. Here's how it looks with the tank.
+
+image::08-fitting-tanks/big-tank-mount-done-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-mount-done.jpg,window=_blank]
+
+For the rear mount I made up these bungs with a M8 x 1.25 threaded hole.
+
+image::08-fitting-tanks/big-tank-bungs-sm.jpg[link={imagesdir}/08-fitting-tanks/big-tank-bungs.jpg,window=_blank]
+
+I bolted the bungs up to the tank to get the alignment for welding.
+
+As seen in the photo, the tank mounting tangs are not quite even. I thought the reason for the difference was that the two gussets were not aligned, but after welding I checked it and it was the tank. I should have done the check before welding it up. I can fix the tank by shaving some material off the the one side, or gluing a spacer on the other. I can fix the frame by either welding a washer on the low side, or grinding the high side.
+
+image::08-fitting-tanks/bung-setting-sm.jpg[link={imagesdir}/08-fitting-tanks/bung-setting.jpg,window=_blank]
+
+I used some thin sheet aluminum to make a heat shield between the bung and the nylon tank, but the tank got hot enough for the nylon to melt a little when I did the tack weld. After welding up the bung I chased the threads with a tap.
+
+image::08-fitting-tanks/chasing-bung-sm.jpg[link={imagesdir}/08-fitting-tanks/chasing-bung.jpg,window=_blank]
+
+As I mentioned in an earlier post, I got this black R65 tank off ebay. I really like the shape.
+
+image::08-fitting-tanks/r65-tank-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-tank.jpg,window=_blank]
+
+I like the lines of the tank and this GS long seat.
+
+image::08-fitting-tanks/r65-tank-seat-lines-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-tank-seat-lines.jpg,window=_blank]
+
+The R65 tank is longer than the HPN tank so I made up this adapter plate. Whenever I want to use the R65 tank I'll need to bolt on this adapter.
+
+image::08-fitting-tanks/r65-adapter-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-adapter.jpg,window=_blank]
+
+The R65 uses a hanging swing type of mount in the rear, but there was just no way to get that working with this modified GS frame, so I took the old mounting hardware off the tank and made up a new mounting plate from 1/16" flat stock that will bolt to the frame adapter plate. Here I have the new mounting plate clamped to the tank and ready for tack welding.
+
+image::08-fitting-tanks/r65-clamp-up-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-clamp-up.jpg,window=_blank]
+
+Once, when I was a kid, I was working on the tank of my Hodaka Super Rat and the fumes in the tank ignited. It was a minor explosion, but scared the hell out of me. Since then every time I work on a gas tank with heat I do this check.
+
+image::08-fitting-tanks/flame-check-sm.jpg[link={imagesdir}/08-fitting-tanks/flame-check.jpg,window=_blank]
+
+Here's the plate tacked to the back of the tank.
+
+image::08-fitting-tanks/r65-tacked-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-tacked.jpg,window=_blank]
+
+Here is the modified tank bolted to the adapter plate. I just have some spacers that were handy in there to check the fit. I'm thinking to make another smaller set of M6 bungs to weld to the adapter plate.
+
+image::08-fitting-tanks/r65-mounted-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-mounted.jpg,window=_blank]
+
+The fitted R65 tank.
+
+image::08-fitting-tanks/r65-fitted-sm.jpg[link={imagesdir}/08-fitting-tanks/r65-fitted.jpg,window=_blank]
+
+-x3300
+
+*sraber, Apr 3, 2010:*
+
+Damn fine work! and good tank check
+
+*ChromeSux, Apr 3, 2010:*
+
+On the subject of welding gas tanks, a guy i know welds on motorcycle gas tanks quite often, one day while he was doing one i ask him how did he get them clean and free of fumes, he said he did not worry about it, he just emptied the tank and ran a Argonne gas line into the tank while welding and that would prevent any fumes from igniting.
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+Copyright x3300

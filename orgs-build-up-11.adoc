@@ -1,0 +1,268 @@
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/moto-design/bmw-frame-gussets
+
+
+:imagesdir: images
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 11
+
+[big]*The ORGS Build Up Project*
+
+*Page 11*
+
+*Zebedee, Oct 7, 2012:*
+
+LukasM said:
+
+So you've got bike building, metal working and riding skills... Click to expand...
+
+... to the point that I suspect I'm not the only one who is extremely envious of any one of these talents individually.
+
+LukasM said:
+
+... Really enjoyed reading this thread, thanks for posting. Click to expand...
+
++1 ... many thanks and congratulations on the quality of the build report.
+
+John
+
+*Stagehand, Oct 14, 2012:*
+
+really that is terrific. I want one!
+
+*hardwaregrrl, Oct 15, 2012:*
+
+Man, sorry about all of your driveshaft issues. But really glad you're sticking with it! Thanks for the video, looks like a great place to test your welds.
+
+*Beater, Oct 15, 2012:*
+
+SO! Those look good ...
+
+Think you could make a couple more?
+
+I would gladly supply the length, several more shafts ... What is your time and skill worth?
+
+PS - Looking GREAT!!!!
+
+*blaine.hale, Oct 15, 2012:*
+
+Beater said:
+
+I would gladly supply the length, several more shafts ... What is your time and skill worth?
+
+PS - Looking GREAT!!!! Click to expand...
+
+Fred, I don't think you need to supply the length of your shaft, man.
+
+*Beater, Oct 15, 2012:*
+
+I'm proud. I've got nothing to hide.
+
+*x3300, Oct 21, 2012:*
+
+After my first dirt ride I decided I should try some more aggressive tires. I had liked the D.O.T approved Dunlop D606 tires when I used them on my old XR650R, so put in an order for a 130/90-17 and 90/90-21 set.
+
+image::55-d606/new-sm.jpg[link={imagesdir}/55-d606/new.jpg,window=_blank]
+
+Heres how they compare to the partially used TKC-80s I took off.
+
+The fronts.
+
+image::55-d606/compare-front-sm.jpg[link={imagesdir}/55-d606/compare-front.jpg,window=_blank]
+
+The rears.
+
+image::55-d606/compare-rear-sm.jpg[link={imagesdir}/55-d606/compare-rear.jpg,window=_blank]
+
+I had met a guy once who was using IRC GP-110 tires on his R100GS, and he said that even though they were tube-type tires he was not using tubes with his tubeless GS rims, and that he often used tube-type tires without tubes and never had problems, so decided to try it with my D606s. Here's a photo of the IRC tires he was using.
+
+image::55-d606/irc-gp-110.jpg[]
+
+The D606s were stiffer than the TKC-80s, so were a little harder to mount. The hardest part was getting the bead to seal with the stiff front tire, but with some effort I could get them both filled and balanced. This is the info printed on the tires:
+
+                   TKC-80   D606
+  front tread:     2 ply    3 ply
+  front sidewall:  2 ply    3 ply
+  rear tread:      4 ply    3 ply
+  rear sidewall:   2 ply    3 ply
+
+And how they look in use. An aggressive looking tire for being D.O.T. approved for street use. I found 14 psi (.965 bar) rear and 16 psi (1.10 bar) front seems to work well off-road.
+
+image::55-d606/d606-front-sm.jpg[link={imagesdir}/55-d606/d606-front.jpg,window=_blank]
+
+image::55-d606/d606-rear-sm.jpg[link={imagesdir}/55-d606/d606-rear.jpg,window=_blank]
+
+After some use I got a puncture in the rear. I had been carrying some Slime tire plugs, a plug tool, and a small tire pump with me just in case.
+
+image::55-d606/plugs.jpg[]
+
+Here's the plug after about 100 off-road miles. The Slime plugs worked well and can recommend them. I primed the puncture hole with rubber cement before inserting the plug.
+
+image::55-d606/plug-sm.jpg[link={imagesdir}/55-d606/plug.jpg,window=_blank]
+
+I now have about 700 miles on the tires, most off-road, and the tube-type tires mounted without tubes on tube-less rims seem to be working OK.
+
+-x3300
+
+*Stagehand, Oct 21, 2012:*
+
+I'm a big fan of those D606's. Agreed on all counts in your post, but I havent had occasion to put a hole in one, yet. I'm running tubes, an 18" in the rear 17" tire.
+
+I get about 3-4K out of them, at the outside, but at under $100 each its a great all around tire.
+
+*kellymac530, Oct 22, 2012:*
+
+Just finished reading the whole thread today, every word, every reply.
+
+1st- LOVE the build. Love the concept. Love the execution. Love the patience and attention to detail.
+
+2nd- Love the D606 rear not so much the front. I am Stagehand on the wear, 3-4k depending on how hard I ride and what terrain I ride. Ocotillo rips tires up and so does Hi-desert, I get 3k . If I get somewhere more clayish or just easy riding I get closer to 4k. On the front I run the Dunlop D756 even tho it is not DOT. I have not been hassled about them yet. Here where I am at they want to see your current Registration, Proof of Insurance and your Sparky...tires have not been an issue yet and I have gotten better street wear and traction out of the D756s so I run that.
+
+3rd- The only thing I would do much different would be the exhaust, but that is JUST ME. Your fit and finish is so awesome but that muffler looks a bit hodge podge. I think you will rework it once you make up some bags and bag mounts, so I have hope. I would do more of a megaphone starting right at the Y pipe and make a cone megaphone to the Supertrapp end diameter. Similar to the way they did them on the HPN Dakar bikes but not exactly.
+
+Great thread, great build, great narration...thanks for sharing and I hope my 1 minor critique is not offensive.
+
+*kellymac530, Oct 23, 2012:*
+
+BTW ther are a few fender options that might help with venting for the oil cooler but may still help keep at least some mud off of it here is one:
+
+http://www.motorcycle-superstore.com/2/10/207/30174/DPITEM/Dirt-Bike-Motocross-Replacement-Plastic-Cycra-Cycralite-Front-Fender.aspx
+
+There are also these scoops, not sure if they direct it to your specific cooler location, but they might, or you could make a similar concept:
+
+http://www.motorcycle-superstore.com/2/10/207/42382/DPITEM/Dirt-Bike-Motocross-Replacement-Plastic-Polisport-RADS-Scoop.aspx
+
+For your more street based riding a super moto fender is a little less drag and less lift on the front and cuts down on that twitchy feel of a dirt bike front fender, this one is vented at the rear as well:
+
+http://www.motorcycle-superstore.com/2/9/456/15023/ITEM/Acerbis-Universal-Supermoto-Front-Fender.aspx?WT.ac=SLIsearch
+
+The vents have flat areas that catch some of the upflinging mud while letting air straigh thru, might be good for you.
+
+Again LOVE the build and bike.
+
+*naginalf, Oct 23, 2012:*
+
+kellymac530 said:
+
+BTW ther are a few fender options that might help with venting for the oil cooler but may still help keep at least some mud off of it Click to expand...
+
+Ya know, this brings up a point I've been thinking about. The original oil cooler location has it's obvious disadvantages, especially if you plan to ditch the bars. But the relocation to behind the fender does seem just as dumb for the opposite reasons. One gets airflow but is in a dangerous place, the other gets no airflow but is protected. What's the point in relocating the oil cooler if it doesn't do anything, a finned oil pan would be much better and much less complicated. Hell, quite a few riders don't even use an oil cooler, and I for one was thinking of going this route, not least of which for weight savings. But why does no one ever put the oil cooler vertically on the frame tube? That way it's to the side of the fender, gets plenty of airflow without having the motor behind it, and won't get crushed on a fall over.
+
+*Airhead Wrangler, Oct 23, 2012:*
+
+naginalf said:
+
+the other gets no airflow but is protected. What's the point in relocating the oil cooler if it doesn't do anything. Click to expand...
+
+There's plenty of airflow there for an oil cooler to do it's job. Even with a fender one inch in front of it, there's still plenty of airflow. The one real drawback to the location under the steering head is that it can get coated with mud easily, even with a fender in place.
+
+*Beater, Oct 23, 2012:*
+
+naginalf said:
+
+why does no one ever put the oil cooler vertically on the frame tube? That way it's to the side of the fender, gets plenty of airflow without having the motor behind it, and won't get crushed on a fall over. Click to expand...
+
+This is exactly what I've been thinking about for the dobber. I think there will have to be a 'custom made' mounting bracket, but I really think it could work.
+
+I'm still keeping the crash bars .... but I just like to cruise with my feet on them for longer rides.
+
+*naginalf, Oct 23, 2012:*
+
+Beater said:
+
+This is exactly what I've been thinking about for the dobber. I think there will have to be a 'custom made' mounting bracket, but I really think it could work.
+
+I'm still keeping the crash bars .... but I just like to cruise with my feet on them for longer rides.
+
+Click to expand...
+
+That's a funny coincidence, I was actually looking at Dobber for a visual reference when I posted, and was imagining it with a sideways cooler mounted. I must be psychic .
+
+Does anyone manufacture a finned oil pan?
+
+*x3300, Oct 28, 2012:*
+
+The Trail Tech computer uses a reed switch and magnet for its speed sensor. I used some high-temp epoxy to mount the magnet in the hole of one of the brake disk buttons.
+
+image::56-speedo-sensor/magnet-sm.jpg[link={imagesdir}/56-speedo-sensor/magnet.jpg,window=_blank]
+
+With the magnet fixed I tried different locations for the reed switch and decided that mounting at the top of the caliper adapter gave the best cable routing while giving a good signal. I drilled and tapped a hole in the adapter for it.
+
+image::56-speedo-sensor/sensor-sm.jpg[link={imagesdir}/56-speedo-sensor/sensor.jpg,window=_blank]
+
+Here's how I routed the sensor cable up along the brake line with a few nylon ties.
+
+image::56-speedo-sensor/cable-sm.jpg[link={imagesdir}/56-speedo-sensor/cable.jpg,window=_blank]
+
+At first I used the brake line guide I had made up before, but it was a tight fit for both the brake line and sensor cable.
+
+image::56-speedo-sensor/old-guide-sm.jpg[link={imagesdir}/56-speedo-sensor/old-guide.jpg,window=_blank]
+
+I didn't want the brake line to get hung up and kinked, so I made a new guide from a block of hard plastic I had. I put a 22 mm hole in it and made the base a little wider to better match the 58 mm fork upper.
+
+image::56-speedo-sensor/compare-sm.jpg[link={imagesdir}/56-speedo-sensor/compare.jpg,window=_blank]
+
+Here's the drawing I made up for the new guide.
+
+image::56-speedo-sensor/guide-drawing-sm.jpg[link={imagesdir}/56-speedo-sensor/guide-drawing.jpg,window=_blank]
+
+The new guide with the cable routed through it.
+
+image::56-speedo-sensor/new-guide-sm.jpg[link={imagesdir}/56-speedo-sensor/new-guide.jpg,window=_blank]
+
+-x3300
+
+*x3300, Nov 10, 2012:*
+
+I took the bike up to the Upper Lake District of Mendocino National Forest for a long weekend of riding.
+
+image::57-mendo-forest/mendo-sm.jpg[link={imagesdir}/57-mendo-forest/mendo.jpg,window=_blank]
+
+I was expecting to just ride the easier trails, but was surprised that the bike was nimble enough to ride through every trail there except for a few that had ruts too deep for the cylinders to pass. The bike is noticeably more work to maneuver through the tight parts than my KTM 530, but the tractor like power makes it so its not too bad. Its really good on the faster trails, and just keeps chugging on in the uphills as long as I can keep it balanced.
+
+I did some night riding to test out the lights. The high beam of the 8" Trail Tech Race Light really lit up the trails. I'll try to get a photo of the output next time.
+
+I had a lot of fun. Here are a few videos that show the bike in action.
+
+ORGS Single Track Video: https://youtu.be/o50PZRMVuKA
+
+ORGS Woods Video: https://youtu.be/qPmXBI_PGOA
+
+ORGS River Video: https://youtu.be/H7Mr9Wk1kDM
+
+-x3300
+
+*gsd4me, Nov 10, 2012:*
+
+You didn`t need to switch the headlight on for me (in the first clip), I could see perfectly. :eek1
+
+*Rucksta, Nov 11, 2012:*
+
+Just takes your breath away -
+
+*Stagehand, Nov 11, 2012:*
+
+You, sir.
+
+I want to ride with You.
+
+Nice videos mate
+
+*Beater, Nov 12, 2012:*
+
+Stagehand said:
+
+You, sir. I want to ride with You. Nice videos mate Click to expand...
+
++1. Nicely done. Great riding.
+
+
+*NOTICES*
+
+All ORGS design materials are relesed under the Fabricators Design License.
+
+Copyright x3300
